@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T09:27:42.502750+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-10-13T11:10:44.170607+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时10分]"
         },
         {
           "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
@@ -124,6 +124,41 @@
           "time_info": "[01时15分 ~ 06时19分]"
         },
         {
+          "title": "特朗普释放信号：愿与中国达成协议",
+          "url": "https://www.toutiao.com/trending/7560501650729733674/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
+          "title": "特朗普手握“战斧”威胁普京",
+          "url": "https://news.ifeng.com/c/8nPCaFawghG",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
+          "title": "关于中国，特朗普和万斯嘴软了",
+          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
           "url": "https://flash.jin10.com/detail/20251012213722708800",
           "source": "金十数据",
@@ -135,39 +170,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普释放信号：愿与中国达成协议",
-          "url": "https://www.toutiao.com/trending/7560501650729733674/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "特朗普手握“战斧”威胁普京",
-          "url": "https://news.ifeng.com/c/8nPCaFawghG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "关于中国，特朗普和万斯嘴软了",
-          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
@@ -253,6 +255,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "特朗普犹太裔女婿现身加沙",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
           "title": "特朗普：我们希望能够向乌克兰提供更多武器。",
           "url": "https://flash.jin10.com/detail/20251013052507044800",
           "source": "金十数据",
@@ -263,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普犹太裔女婿现身加沙",
+          "url": "https://www.toutiao.com/trending/7560074397462151231/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
         },
         {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
@@ -287,15 +313,26 @@
           "time_info": "05时18分"
         },
         {
-          "title": "特朗普犹太裔女婿现身加沙",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
-          "source": "百度热搜",
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26realpos%3D9%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26stream_entry_id%3D31%26dgr%3D0%26pos%3D9%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26display_time%3D1760325034%26pre_seqid%3D17603250347090371333558",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "130万美军欠薪特朗普阅兵狂欢",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26realpos%3D10%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26stream_entry_id%3D31%26dgr%3D0%26pos%3D10%26band_rank%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26display_time%3D1760325034%26pre_seqid%3D17603250347090371333558",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "特朗普：与泽连斯基进行了良好的交谈。",
@@ -320,6 +357,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
           "url": "https://flash.jin10.com/detail/20251013052246321800",
           "source": "金十数据",
@@ -340,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "国际现货黄金八周连涨，多头占比维持优势；特朗普将前往中东主持“和平峰会”，或宣告“加沙战争终结”，美国原油发出卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251013104656459800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "特朗普：我认为普京会解决俄乌冲突问题，如果他不这样做，对他来说就没好处了。",
@@ -397,17 +456,6 @@
           "time_info": "06时19分"
         },
         {
-          "title": "特朗普犹太裔女婿现身加沙",
-          "url": "https://www.toutiao.com/trending/7560074397462151231/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "特朗普：与以色列总理内塔尼亚胡的关系良好。内塔尼亚胡做得“非常出色”。",
           "url": "https://flash.jin10.com/detail/20251013051159612800",
           "source": "金十数据",
@@ -452,6 +500,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "特朗普强调了三遍：战争结束了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普：加沙就像一个废墟。",
           "url": "https://flash.jin10.com/detail/20251013050605911800",
           "source": "金十数据",
@@ -472,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "130万美军欠薪特朗普阅兵狂欢",
+          "url": "https://search.bilibili.com/all?keyword=130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "市场消息：美国国防部长赫格塞思、美国国务卿鲁比奥、中情局局长拉特克利夫和参谋长联席会议主席丹·凯恩将乘坐空军一号参加特朗普的中东之行。",
@@ -510,7 +580,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "以色列“无意再战”，伊朗：不信",
@@ -530,9 +600,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
         },
         {
           "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
@@ -544,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "伊朗外长警告：以色列经常推翻达成的停火协议，不要轻易相信",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765028",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
@@ -593,7 +674,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -602,33 +683,24 @@
           "ranks": [
             21,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时10分]"
         },
         {
           "title": "美股期指集体反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.toutiao.com/trending/7560480850865835529/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -643,13 +715,36 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "美股期指集体反弹",
+          "url": "https://www.toutiao.com/trending/7560480850865835529/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美股夜盘，英伟达(NVDA.O)涨近3%，特斯拉(TSLA.O)涨2%，苹果(AAPL.O)涨1%，AMD(AMD.O)涨超3%，高通(QCOM.O)涨2.3%。",
           "url": "https://flash.jin10.com/detail/20251013082243283800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -660,7 +755,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -677,7 +772,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -694,7 +789,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -712,11 +807,12 @@
             19,
             16,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 09时27分]"
+          "appearance_count": 9,
+          "time_info": "[03时14分 ~ 11时10分]"
         }
       ]
     }
