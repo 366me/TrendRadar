@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T05:19:41.982969+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-10-15T06:19:34.721421+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251015043705607800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时19分]"
         },
         {
           "title": "吴石后人参观故居 愿台湾早日回归",
@@ -58,11 +59,12 @@
             28,
             27,
             24,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.6%，报353.72点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted跌3.7%，在一众北欧个股里表现最差。",
@@ -89,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         }
       ]
     }
