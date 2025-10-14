@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T00:25:05.377333+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-15T01:19:28.488883+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         }
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时19分]"
         }
       ]
     },
@@ -57,11 +57,12 @@
           "url": "https://www.toutiao.com/trending/7560233303635394614/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时19分]"
         }
       ]
     }
