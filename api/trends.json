@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T01:19:28.488883+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-10-15T02:29:21.966761+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%84%8F%E5%A4%96%E8%BF%90%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%8F%E7%8C%AB%E5%B7%B2%E6%81%A2%E5%A4%8D%E5%81%A5%E5%BA%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D30%26stream_entry_id%3D31%26flag%3D0%26band_rank%3D29%26dgr%3D0%26q%3D%2523%25E6%2584%258F%25E5%25A4%2596%25E8%25BF%2590%25E5%2588%25B0%25E7%25BE%258E%25E5%259B%25BD%25E7%259A%2584%25E4%25B8%25AD%25E5%259B%25BD%25E5%25B0%258F%25E7%258C%25AB%25E5%25B7%25B2%25E6%2581%25A2%25E5%25A4%258D%25E5%2581%25A5%25E5%25BA%25B7%2523%26display_time%3D1760458948%26pre_seqid%3D1760458948636019061699",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.6%，报353.72点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted跌3.7%，在一众北欧个股里表现最差。",
@@ -32,25 +33,8 @@
       ]
     },
     {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "绝区零卢西娅助眠直播",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8D%A2%E8%A5%BF%E5%A8%85%E5%8A%A9%E7%9C%A0%E7%9B%B4%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "吴石后人参观故居 愿台湾早日回归",
@@ -63,6 +47,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时19分]"
+        },
+        {
+          "title": "吴石后人参观故居 愿台湾早日回归",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E7%9F%B3%E5%90%8E%E4%BA%BA%E5%8F%82%E8%A7%82%E6%95%85%E5%B1%85+%E6%84%BF%E5%8F%B0%E6%B9%BE%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "绝区零卢西娅助眠直播",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8D%A2%E8%A5%BF%E5%A8%85%E5%8A%A9%E7%9C%A0%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     }
