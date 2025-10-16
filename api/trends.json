@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T18:23:42.019691+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-10-16T19:17:47.845829+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             17,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时17分]"
         },
         {
           "title": "刘亦菲一种气血很足的美",
