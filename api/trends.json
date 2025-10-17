@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T17:23:14.484027+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2025-10-17T18:23:12.614836+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%8B%92%E7%BB%9D%E5%BD%95%E7%94%A835%E5%B2%81%E5%A5%B3%E5%AD%90%E4%BC%81%E4%B8%9A%E5%8E%BB%E5%B9%B40%E4%BA%BA%E5%8F%82%E4%BF%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。沪金涨超3%，碳酸锂、沪银、焦煤、焦炭涨超2%，红枣涨近2%。跌幅方面，低硫燃料油（LU）、SC原油跌超2%，燃料油、烧碱、玻璃跌近2%。",
