@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T04:22:24.627718+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-10-20T05:18:14.396786+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时18分]"
         },
         {
           "title": "美国多地举行「不要国王」大规模抗议活动，超 700 万人参与，具体情况如何？",
           "url": "https://www.zhihu.com/question/1963282909462008368",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 05时18分]"
         }
       ]
     },
@@ -47,8 +48,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时18分]"
         }
       ]
     }
