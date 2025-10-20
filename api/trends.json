@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T18:22:50.509911+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-10-20T19:18:07.486773+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时18分]"
         },
         {
           "title": "支付宝：本周起，首页AI健康管家AQ广告下架整改",
