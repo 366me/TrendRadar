@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-20T22:19:30.546798+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2025-10-20T23:22:27.895231+08:00",
+  "total_titles_processed": 1910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 5,
       "titles": [
+        {
+          "title": "人民时评：集采药，拼质量才能护健康",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 23时22分]"
+        },
         {
           "title": "睡够8小时才健康？原来我们搞错了",
           "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E6%90%9E%E9%94%99%E4%BA%86",
@@ -20,20 +34,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时22分 ~ 16时29分]"
-        },
-        {
-          "title": "人民时评：集采药，拼质量才能护健康",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 22时19分]"
         },
         {
           "title": "为什么看起来很健康的人也会突然猝死？",
