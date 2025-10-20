@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T20:43:39.528083+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2025-10-20T21:30:39.479603+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -36,17 +36,6 @@
           "time_info": "[01时15分 ~ 07时19分]"
         },
         {
-          "title": "老人如何养生更实在",
-          "url": "https://www.toutiao.com/trending/7562782273327235099/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        },
-        {
           "title": "人民时评：集采药，拼质量才能护健康",
           "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
           "source": "澎湃新闻",
@@ -57,8 +46,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时30分]"
+        },
+        {
+          "title": "老人如何养生更实在",
+          "url": "https://www.toutiao.com/trending/7562782273327235099/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "支付宝：本周起，首页AI健康管家AQ广告下架整改",
