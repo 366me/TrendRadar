@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:30:00.831788+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-10-21T03:18:58.879621+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 02时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 03时18分]"
         },
         {
           "title": "你有哪些长期坚持的养生习惯？",
           "url": "https://www.zhihu.com/question/490609326",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时30分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 03时18分]"
         }
       ]
     }
