@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T05:18:50.511669+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-10-21T06:20:40.491757+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "你有哪些长期坚持的养生习惯？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 06时20分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
