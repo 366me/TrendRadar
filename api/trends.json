@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T14:32:22.633623+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-10-20T15:22:26.451533+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -22,17 +22,6 @@
           "time_info": "[01时15分 ~ 07时19分]"
         },
         {
-          "title": "老人如何养生更实在",
-          "url": "https://www.toutiao.com/trending/7562782273327235099/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        },
-        {
           "title": "睡够8小时才健康？原来我们搞错了",
           "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%E6%89%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E6%90%9E%E9%94%99%E4%BA%86",
           "source": "百度热搜",
@@ -42,8 +31,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时22分]"
+        },
+        {
+          "title": "老人如何养生更实在",
+          "url": "https://www.toutiao.com/trending/7562782273327235099/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     },
