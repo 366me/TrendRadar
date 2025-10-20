@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T21:30:39.479603+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2025-10-20T22:19:30.546798+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[11时22分 ~ 16时29分]"
         },
         {
+          "title": "人民时评：集采药，拼质量才能护健康",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 22时19分]"
+        },
+        {
           "title": "为什么看起来很健康的人也会突然猝死？",
           "url": "https://www.zhihu.com/question/651261663",
           "source": "知乎",
@@ -34,20 +48,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时19分]"
-        },
-        {
-          "title": "人民时评：集采药，拼质量才能护健康",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 21时30分]"
         },
         {
           "title": "老人如何养生更实在",
