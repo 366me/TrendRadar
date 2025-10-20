@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T07:19:13.448152+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-10-20T09:32:01.851669+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时16分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[03时16分 ~ 09时32分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
