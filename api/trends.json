@@ -1,62 +1,7 @@
 {
-  "generated_at": "2025-10-21T23:20:43.519188+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2025-10-22T00:36:31.164682+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "人民时评：集采药，拼质量才能护健康",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31810878",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 07时30分]"
-        },
-        {
-          "title": "你有哪些长期坚持的养生习惯？",
-          "url": "https://www.zhihu.com/question/490609326",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时29分 ~ 06时20分]"
-        },
-        {
-          "title": "【恒指高开1.17%，恒生科技指数涨1.84%】京东健康、小米、中芯国际等涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2990916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
-          "url": "https://wallstreetcn.com/livenews/2990825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
