@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T17:24:14.589818+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-10-22T18:24:47.850068+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31820146",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时24分]"
         }
       ]
     }
