@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T18:24:47.850068+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-10-22T19:20:08.552066+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "天津中医药大学发布严正声明：张伯礼从未授权同名医馆药房",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31820146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时20分]"
+        },
+        {
           "title": "路透调查：他们担心日本首相的政策对财政健康的影响。",
           "url": "https://flash.jin10.com/detail/20251022120549652800",
           "source": "金十数据",
@@ -58,18 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "天津中医药大学发布严正声明：张伯礼从未授权同名医馆药房",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31820146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时24分]"
         }
       ]
     }
