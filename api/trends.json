@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T16:30:46.842512+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-10-22T17:24:14.589818+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "路透调查：他们担心日本首相的政策对财政健康的影响。",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "天津中医药大学发布严正声明：张伯礼从未授权同名医馆药房",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31820146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         }
       ]
     }
