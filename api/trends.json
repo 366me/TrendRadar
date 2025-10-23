@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T12:23:52.214098+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-10-23T13:20:53.258544+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 13时20分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报357.04点。 在十个板块中，北欧医疗保健板块跌幅最大。 DNB Bank ASA跌5.0%，在一众北欧个股里表现最差。",
