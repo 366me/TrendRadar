@@ -1,55 +1,7 @@
 {
-  "generated_at": "2025-10-23T23:21:33.193403+08:00",
-  "total_titles_processed": 2159,
+  "generated_at": "2025-10-24T00:25:47.547568+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "霜降养生指南",
-          "url": "https://www.douyin.com/hot/2277962",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            7,
-            10,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 16时28分]"
-        },
-        {
-          "title": "商务部：我国电子商务持续健康发展，1-9月全国网上零售额增长9.8%",
-          "url": "https://wallstreetcn.com/livenews/2992453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时22分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，报357.04点。 在十个板块中，北欧医疗保健板块跌幅最大。 DNB Bank ASA跌5.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/2992010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
