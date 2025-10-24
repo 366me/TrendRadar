@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:22:12.097272+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2025-10-24T18:24:10.306843+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             17,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 18时24分]"
         },
         {
           "title": "加强中小学生心理健康10条措施",
