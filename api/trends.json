@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T16:24:26.477174+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-10-25T17:20:05.983503+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 17时20分]"
         }
       ]
     },
@@ -61,11 +62,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%20%E4%BD%95%E4%BB%A5%E5%BD%93%E5%BD%92%20%E9%99%90%E5%85%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时20分]"
         }
       ]
     }
