@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:29:43.724955+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-10-25T15:18:17.540671+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 场景类关键词 ===== 秋冬养生 春季养肝 夏季祛湿 立冬进补 三伏养阳 熬夜养生 办公室养生 学生党养生 年轻人养生 中老年健康 女性调理 男性保养 亚健康 保温杯 泡脚桶 按摩仪 艾灸仪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这种保温杯可能引发慢性中毒",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E4%BF%9D%E6%B8%A9%E6%9D%AF%E5%8F%AF%E8%83%BD%E5%BC%95%E5%8F%91%E6%85%A2%E6%80%A7%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         }
       ]
     }
