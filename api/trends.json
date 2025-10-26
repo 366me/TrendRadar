@@ -1,8 +1,37 @@
 {
-  "generated_at": "2025-10-27T01:16:51.533292+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-10-27T02:28:06.150480+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "颤抖吧,全女百合游戏震撼登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346237&amp;topic_name=%E9%A2%A4%E6%8A%96%E5%90%A7%2C%E5%85%A8%E5%A5%B3%E7%99%BE%E5%90%88%E6%B8%B8%E6%88%8F%E9%9C%87%E6%92%BC%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "台网红“馆长”被送当归咖啡",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E7%BD%91%E7%BA%A2%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%E8%A2%AB%E9%80%81%E5%BD%93%E5%BD%92%E5%92%96%E5%95%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
       "match_count": 1,
@@ -15,26 +44,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "颤抖吧,全女百合游戏震撼登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346237&amp;topic_name=%E9%A2%A4%E6%8A%96%E5%90%A7%2C%E5%85%A8%E5%A5%B3%E7%99%BE%E5%90%88%E6%B8%B8%E6%88%8F%E9%9C%87%E6%92%BC%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时28分]"
         }
       ]
     }
