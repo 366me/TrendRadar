@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T09:43:34.046419+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-10-27T11:22:48.378080+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 11时22分]"
         },
         {
           "title": "台网红“馆长”被送当归咖啡",
@@ -40,9 +41,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么经常锻炼的人体质有时候还不如不锻炼的人？",
+          "url": "https://www.zhihu.com/question/587230882",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
