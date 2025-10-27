@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T16:28:45.690103+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2025-10-27T17:24:54.612083+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             16,
             17,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 17时24分]"
         },
         {
           "title": "台网红“馆长”被送当归咖啡",
@@ -69,7 +70,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -98,11 +99,12 @@
             10,
             8,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 17时24分]"
         },
         {
           "title": "保健食品带货主播被指编故事忽悠老年人，暗示产品能“起死回生”",
@@ -112,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 17时24分]"
         }
       ]
     },
