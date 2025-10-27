@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T07:19:19.999085+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-10-27T09:43:34.046419+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "颤抖吧,全女百合游戏震撼登场",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时43分]"
         },
         {
           "title": "台网红“馆长”被送当归咖啡",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时21分]"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。生猪涨超2%，国际铜、集运欧线涨近2%，鸡蛋、沪铜、液化石油气（LPG）、低硫燃料油（LU）、燃料油涨超1%。跌幅方面，红枣、沪金跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251027090009368800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
@@ -46,8 +58,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时43分]"
         }
       ]
     }
