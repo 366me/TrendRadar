@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T18:24:13.852398+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-10-27T19:19:19.391601+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             17,
             18,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 19时19分]"
         },
         {
           "title": "台网红“馆长”被送当归咖啡",
