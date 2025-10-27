@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T11:22:48.378080+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2025-10-27T12:32:54.320182+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "颤抖吧,全女百合游戏震撼登场",
@@ -15,11 +15,12 @@
             5,
             3,
             4,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 12时32分]"
         },
         {
           "title": "台网红“馆长”被送当归咖啡",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、多晶硅涨超2%，鸡蛋、沪铜、国际铜、生猪、纯碱涨超1%。跌幅方面，原木跌超4%，红枣跌超2%，丁二烯橡胶、集运欧线、苯乙烯（EB）、沪金跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251027113035825800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -56,11 +68,12 @@
           "url": "https://www.zhihu.com/question/587230882",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
         }
       ]
     },
