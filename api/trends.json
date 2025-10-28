@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-28T19:18:58.241023+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-10-28T20:40:34.734826+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "联合健康(UNH.N)正在缩减其在国际市场的业务规模。",
+          "url": "https://flash.jin10.com/detail/20251028203004201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
         {
           "title": "中信证券首席经济学家明明称，中国央行国债买卖料很快会重启，这将有助于稳定国债供需，形成健康的收益率曲线形态。",
           "url": "https://wallstreetcn.com/livenews/2994550",
@@ -96,6 +107,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "联合健康(UNH.N)高管：如果现有成本趋势持续且支付费率不变，2026年医疗保险利润率将下降。",
+          "url": "https://flash.jin10.com/detail/20251028201737433800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "联合健康(UNH.N)高管：公司正积极利用人工智能技术，以提升消费者在健康保险理赔方面的体验。",
+          "url": "https://flash.jin10.com/detail/20251028201511985800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "联合健康(UNH.N)首席执行官：联合健康预计2027年将恢复两位数增长。",
+          "url": "https://flash.jin10.com/detail/20251028200804614800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "联合健康(UNH.N)首席执行官：联合健康保险的利润率预计将在2026年提升。",
+          "url": "https://flash.jin10.com/detail/20251028200603330800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
