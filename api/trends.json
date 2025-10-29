@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-29T07:19:15.714693+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-10-29T09:30:11.214456+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "重阳养生正当时",
+          "url": "https://www.douyin.com/hot/2286618",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
