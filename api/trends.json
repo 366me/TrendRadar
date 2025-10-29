@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T11:16:24.300757+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-10-29T12:28:35.973468+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,29 @@
           "source": "抖音",
           "ranks": [
             17,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超3%，鸡蛋、铁矿石、沪银、红枣涨超1%。跌幅方面，丁二烯橡胶、棕榈油、菜油跌超2%，燃料油、SC原油、豆油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251029113026266800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
