@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:21:12.257946+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-10-31T14:31:31.681436+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 14时31分]"
         },
         {
           "title": "原来看指甲可以辨健康",
