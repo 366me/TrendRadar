@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:20:12.584700+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-11-01T19:17:04.317729+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 19时17分]"
         },
         {
           "title": "多吃优质碳水能抗衰老",
@@ -53,26 +53,8 @@
       ]
     },
     {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "直击国谈第三日：艾力斯称谈判顺利，阿斯利康收官离场 降糖药与罕见病药物密集登场",
-          "url": "https://www.cls.cn/detail/2188617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "通背拳传人参加扇巴掌大赛被KO",
@@ -83,11 +65,42 @@
             12,
             15,
             13,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时17分]"
+        },
+        {
+          "title": "通背拳传人参加世界扇耳光大赛",
+          "url": "https://www.douyin.com/hot/2290985",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "直击国谈第三日：艾力斯称谈判顺利，阿斯利康收官离场 降糖药与罕见病药物密集登场",
+          "url": "https://www.cls.cn/detail/2188617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时17分]"
         }
       ]
     }
