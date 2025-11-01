@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:20:06.136885+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-11-01T09:39:03.087904+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "七星山荒野求生养生局",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "多吃优质碳水能抗衰老",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%90%83%E4%BC%98%E8%B4%A8%E7%A2%B3%E6%B0%B4%E8%83%BD%E6%8A%97%E8%A1%B0%E8%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D17%26cate%3D5001%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D17%26q%3D%2523%25E5%25A4%259A%25E5%2590%2583%25E4%25BC%2598%25E8%25B4%25A8%25E7%25A2%25B3%25E6%25B0%25B4%25E8%2583%25BD%25E6%258A%2597%25E8%25A1%25B0%25E8%2580%2581%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761960636%26pre_seqid%3D176196063604103350838148&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         }
       ]
     }
