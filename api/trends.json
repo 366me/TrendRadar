@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:36:21.151839+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2025-11-01T21:24:11.165852+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             6,
             5,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时28分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[14时28分 ~ 21时24分]"
         },
         {
           "title": "七星山荒野求生养生局",
@@ -79,11 +80,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时24分]"
         }
       ]
     },
@@ -101,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 21时24分]"
         }
       ]
     }
