@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T09:39:03.087904+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2025-11-01T11:12:39.404215+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,29 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%90%83%E4%BC%98%E8%B4%A8%E7%A2%B3%E6%B0%B4%E8%83%BD%E6%8A%97%E8%A1%B0%E8%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D17%26cate%3D5001%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D17%26q%3D%2523%25E5%25A4%259A%25E5%2590%2583%25E4%25BC%2598%25E8%25B4%25A8%25E7%25A2%25B3%25E6%25B0%25B4%25E8%2583%25BD%25E6%258A%2597%25E8%25A1%25B0%25E8%2580%2581%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761960636%26pre_seqid%3D176196063604103350838148&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通背拳传人参加扇巴掌大赛被KO",
+          "url": "https://www.baidu.com/s?wd=%E9%80%9A%E8%83%8C%E6%8B%B3%E4%BC%A0%E4%BA%BA%E5%8F%82%E5%8A%A0%E6%89%87%E5%B7%B4%E6%8E%8C%E5%A4%A7%E8%B5%9B%E8%A2%ABKO",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     }
