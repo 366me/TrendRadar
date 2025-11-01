@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-11-01T19:17:04.317729+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-11-01T20:36:21.151839+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待中国的眼保健操？",
+          "url": "https://www.zhihu.com/question/34067305",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            6,
+            5,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时28分 ~ 20时36分]"
+        },
         {
           "title": "七星山荒野求生养生局",
           "url": "https://www.douyin.com/hot/2289856",
@@ -22,21 +38,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 13时20分]"
-        },
-        {
-          "title": "如何看待中国的眼保健操？",
-          "url": "https://www.zhihu.com/question/34067305",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时28分 ~ 19时17分]"
         },
         {
           "title": "多吃优质碳水能抗衰老",
@@ -77,11 +78,12 @@
           "url": "https://www.douyin.com/hot/2290985",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时36分]"
         }
       ]
     },
@@ -99,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时36分]"
         }
       ]
     }
