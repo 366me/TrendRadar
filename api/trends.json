@@ -1,96 +1,8 @@
 {
-  "generated_at": "2025-11-01T23:18:16.838540+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2025-11-02T00:22:55.587767+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待中国的眼保健操？",
-          "url": "https://www.zhihu.com/question/34067305",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            6,
-            5,
-            7,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时28分 ~ 23时18分]"
-        },
-        {
-          "title": "七星山荒野求生养生局",
-          "url": "https://www.douyin.com/hot/2289856",
-          "source": "抖音",
-          "ranks": [
-            14,
-            18,
-            7,
-            8,
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时20分]"
-        },
-        {
-          "title": "多吃优质碳水能抗衰老",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%90%83%E4%BC%98%E8%B4%A8%E7%A2%B3%E6%B0%B4%E8%83%BD%E6%8A%97%E8%A1%B0%E8%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D17%26cate%3D5001%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D17%26q%3D%2523%25E5%25A4%259A%25E5%2590%2583%25E4%25BC%2598%25E8%25B4%25A8%25E7%25A2%25B3%25E6%25B0%25B4%25E8%2583%25BD%25E6%258A%2597%25E8%25A1%25B0%25E8%2580%2581%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761960636%26pre_seqid%3D176196063604103350838148&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 11时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "通背拳传人参加世界扇耳光大赛",
-          "url": "https://www.douyin.com/hot/2290985",
-          "source": "抖音",
-          "ranks": [
-            4,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时16分 ~ 23时18分]"
-        },
-        {
-          "title": "通背拳传人参加扇巴掌大赛被KO",
-          "url": "https://www.baidu.com/s?wd=%E9%80%9A%E8%83%8C%E6%8B%B3%E4%BC%A0%E4%BA%BA%E5%8F%82%E5%8A%A0%E6%89%87%E5%B7%B4%E6%8E%8C%E5%A4%A7%E8%B5%9B%E8%A2%ABKO",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12,
-            15,
-            13,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时12分 ~ 19时17分]"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
@@ -100,15 +12,28 @@
           "url": "https://www.cls.cn/detail/2188617",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            8,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时20分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通背拳传人参加世界扇耳光大赛",
+          "url": "https://www.douyin.com/hot/2290985",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
