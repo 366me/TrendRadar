@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T16:23:27.852464+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-11-01T17:20:34.018347+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,20 @@
           "time_info": "[00时24分 ~ 13时20分]"
         },
         {
+          "title": "如何看待中国的眼保健操？",
+          "url": "https://www.zhihu.com/question/34067305",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时20分]"
+        },
+        {
           "title": "多吃优质碳水能抗衰老",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%90%83%E4%BC%98%E8%B4%A8%E7%A2%B3%E6%B0%B4%E8%83%BD%E6%8A%97%E8%A1%B0%E8%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D17%26cate%3D5001%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D17%26q%3D%2523%25E5%25A4%259A%25E5%2590%2583%25E4%25BC%2598%25E8%25B4%25A8%25E7%25A2%25B3%25E6%25B0%25B4%25E8%2583%25BD%25E6%258A%2597%25E8%25A1%25B0%25E8%2580%2581%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761960636%26pre_seqid%3D176196063604103350838148&launchid=10000360-page_H5",
           "source": "微博",
@@ -34,19 +48,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时38分 ~ 11时12分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "如何看待中国的眼保健操？",
-          "url": "https://www.zhihu.com/question/34067305",
-          "source": "知乎",
+          "title": "直击国谈第三日：艾力斯称谈判顺利，阿斯利康收官离场 降糖药与罕见病药物密集登场",
+          "url": "https://www.cls.cn/detail/2188617",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            8,
-            6
+            13
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -61,11 +79,12 @@
           "ranks": [
             14,
             12,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 17时20分]"
         }
       ]
     }
