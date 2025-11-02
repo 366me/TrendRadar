@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T13:19:54.358894+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-02T14:28:55.598004+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "石家庄一医院组织全体医护每天下班后跑操，系锻炼身体，鼓励病人参与，如何评价这一举措？",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时28分]"
         },
         {
           "title": "外国人参加中文听力考试什么样",
@@ -79,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时28分]"
         }
       ]
     }
