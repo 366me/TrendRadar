@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:24:25.701926+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2025-11-02T17:19:49.021486+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时19分]"
         },
         {
           "title": "外国人参加中文听力考试什么样",
@@ -76,11 +76,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时19分]"
         }
       ]
     }
