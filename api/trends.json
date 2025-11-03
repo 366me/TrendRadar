@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T17:24:48.131130+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-11-03T18:24:07.562896+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "url": "https://wallstreetcn.com/livenews/2998477",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时24分]"
         }
       ]
     },
