@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T05:20:41.956308+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-05T06:19:14.595136+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "据福克斯新闻记者：多位美国众议院共和党消息人士表示，众议院可能会在周末重新开会，试图达成一致。但这不会解决医疗保健问题。",
@@ -37,11 +37,29 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 06时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加拿大政府全面下调经济增长预期，预计2025年实际GDP增速为1.1%（此前预期为1.7%）；2026年为1.2%（此前预期为2.1%）；2027-2028年大约为2%。",
+          "url": "https://flash.jin10.com/detail/20251105053730953800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -57,8 +75,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         }
       ]
     }
