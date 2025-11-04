@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T22:21:48.957476+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-11-04T23:22:46.000266+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[16时28分 ~ 23时22分]"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超3%，菜籽粕涨超1%。红枣跌超5%，碳酸锂跌超4%，多晶硅跌近4%，苹果、焦煤、乙二醇、焦炭、工业硅、BR橡胶跌超2%。",
@@ -70,8 +70,19 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "赵丽颖新剧一种气血很足的美",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E5%89%A7%E4%B8%80%E7%A7%8D%E6%B0%94%E8%A1%80%E5%BE%88%E8%B6%B3%E7%9A%84%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D5%26flag%3D1%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E8%25B5%25B5%25E4%25B8%25BD%25E9%25A2%2596%25E6%2596%25B0%25E5%2589%25A7%25E4%25B8%2580%25E7%25A7%258D%25E6%25B0%2594%25E8%25A1%2580%25E5%25BE%2588%25E8%25B6%25B3%25E7%259A%2584%25E7%25BE%258E%2523%26realpos%3D6%26band_rank%3D6%26display_time%3D1762269620%26pre_seqid%3D176226962025307156836&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
         {
           "title": "华尔街高管警示美股未来或显著回调 但健康调整属市场常态",
           "url": "https://flash.jin10.com/detail/20251104135328234800",
