@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T13:21:53.476274+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-11-04T14:32:58.047426+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,23 @@
       ]
     },
     {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华尔街高管警示美股未来或显著回调 但健康调整属市场常态",
+          "url": "https://flash.jin10.com/detail/20251104135328234800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
       "match_count": 1,
       "titles": [
@@ -41,11 +58,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时32分]"
         }
       ]
     }
