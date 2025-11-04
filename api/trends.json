@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T19:20:03.346543+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2025-11-04T20:44:08.031413+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时44分]"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超3%，菜籽粕涨超1%。红枣跌超5%，碳酸锂跌超4%，多晶硅跌近4%，苹果、焦煤、乙二醇、焦炭、工业硅、BR橡胶跌超2%。",
