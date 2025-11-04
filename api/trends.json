@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T06:19:14.595136+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-11-05T07:19:38.437446+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "高价中药消费逻辑变化：片仔癀、安宫牛黄丸量价齐跌，抗衰及滋补产品需求增加|行业观察",
+          "url": "https://www.cls.cn/detail/2191113",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 07时19分]"
         },
         {
           "title": "据福克斯新闻记者：多位美国众议院共和党消息人士表示，众议院可能会在周末重新开会，试图达成一致。但这不会解决医疗保健问题。",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "高价中药消费逻辑变化：片仔癀、安宫牛黄丸量价齐跌，抗衰及滋补产品需求增加|行业观察",
-          "url": "https://www.cls.cn/detail/2191113",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 06时19分]"
         }
       ]
     },
@@ -57,7 +57,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -75,8 +75,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时19分]"
         }
       ]
     }
