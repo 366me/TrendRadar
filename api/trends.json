@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T22:21:13.421709+08:00",
-  "total_titles_processed": 2021,
+  "generated_at": "2025-11-05T23:24:46.779190+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "赵丽颖新剧一种气血很足的美",
@@ -167,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "有人说孩子最重要的是健康和快乐，而不是成绩，但是如果成绩影响了健康和快乐，该如何应对？",
+          "url": "https://www.zhihu.com/question/1967279686993319275",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
