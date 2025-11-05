@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T17:22:44.016959+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-11-05T18:23:04.516306+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "云南弥渡一男童坟墓因邻近他人祖坟遭破坏：警方认定8人参与，4人被执行拘留",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时24分 ~ 13时20分]"
+        },
+        {
+          "title": "白百合 还能这么操作",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E7%99%BE%E5%90%88%20%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超4%，鸡蛋、菜籽粕、生猪、豆粕、豆二、豆一、纸浆涨超1%。多晶硅跌超2%，红枣、烧碱、沥青、螺纹钢跌超1%。",
