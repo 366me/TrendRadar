@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T21:32:45.604159+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-11-06T22:22:28.660882+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,34 @@
       ]
     },
     {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国9月未季调经常帐 134.7亿美元，前值91.488亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106070002172800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "消息人士：俄罗斯伏尔加格勒炼油厂CDU-5常减压蒸馏装置和加氢裂化装置在袭击中受损。",
+          "url": "https://flash.jin10.com/detail/20251106215113573800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 2,
       "titles": [
@@ -58,23 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国9月未季调经常帐 134.7亿美元，前值91.488亿美元。",
-          "url": "https://flash.jin10.com/detail/20251106070002172800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
         }
       ]
     }
