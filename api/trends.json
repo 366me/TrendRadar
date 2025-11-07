@@ -1,149 +1,39 @@
 {
-  "generated_at": "2025-11-07T23:21:21.498901+08:00",
-  "total_titles_processed": 2086,
+  "generated_at": "2025-11-08T00:22:16.276738+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            16,
-            13,
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时20分 ~ 23时21分]"
-        },
-        {
-          "title": "美联储哈玛克：意识到就业市场已降温，但近期数据依然健康。",
-          "url": "https://flash.jin10.com/detail/20251107015944480800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时17分]"
-        },
-        {
-          "title": "成年人推荐的健康睡眠时长为7-8小时",
-          "url": "https://www.toutiao.com/trending/7569643719742390322/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时21分]"
-        },
-        {
-          "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
-          "url": "https://wallstreetcn.com/livenews/3000647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
-        },
-        {
-          "title": "印度央行行长：外汇储备非常健康。",
-          "url": "https://flash.jin10.com/detail/20251107125437742800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "蚂蚁集团：升级组织架构 重投大健康赛道",
-          "url": "https://wallstreetcn.com/livenews/3001051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美联储哈玛克：经济目前相当强劲且健康。",
-          "url": "https://flash.jin10.com/detail/20251107012930072800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "张家界荒野求生百人参赛仅剩17人",
-          "url": "https://www.toutiao.com/trending/7569649081065766966/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时30分]"
-        },
         {
           "title": "张家界荒野求生百人参赛仅剩17人",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E7%99%BE%E4%BA%BA%E5%8F%82%E8%B5%9B%E4%BB%85%E5%89%A917%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            4,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时21分]"
-        },
-        {
-          "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌互现，碳酸锂涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。跌幅方面，沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251107150035567800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     }
