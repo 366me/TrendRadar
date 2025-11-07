@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-07T16:30:48.613485+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2025-11-07T17:21:00.340660+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 7,
       "titles": [
+        {
+          "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时21分]"
+        },
         {
           "title": "美联储哈玛克：意识到就业市场已降温，但近期数据依然健康。",
           "url": "https://flash.jin10.com/detail/20251107015944480800",
@@ -20,16 +33,16 @@
           "time_info": "[02时39分 ~ 03时17分]"
         },
         {
-          "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
-          "source": "澎湃新闻",
+          "title": "成年人推荐的健康睡眠时长为7-8小时",
+          "url": "https://www.toutiao.com/trending/7569643719742390322/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            16
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时21分]"
         },
         {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
@@ -55,24 +68,13 @@
           "time_info": "13时20分"
         },
         {
-          "title": "成年人推荐的健康睡眠时长为7-8小时",
-          "url": "https://www.toutiao.com/trending/7569643719742390322/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
           "title": "蚂蚁集团：升级组织架构 重投大健康赛道",
           "url": "https://wallstreetcn.com/livenews/3001051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
