@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:18:09.530214+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2025-11-07T20:41:30.542479+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             16,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 20时41分]"
         },
         {
           "title": "美联储哈玛克：意识到就业市场已降温，但近期数据依然健康。",
@@ -101,11 +102,12 @@
           "url": "https://www.toutiao.com/trending/7569649081065766966/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时41分]"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
