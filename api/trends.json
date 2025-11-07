@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:20:33.257785+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-11-07T14:30:52.112648+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时17分]"
+        },
+        {
+          "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时30分]"
         },
         {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
@@ -38,18 +50,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
