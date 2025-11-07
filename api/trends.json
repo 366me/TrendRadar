@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T22:22:41.588327+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2025-11-07T23:21:21.498901+08:00",
+  "total_titles_processed": 2086,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时20分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[13时20分 ~ 23时21分]"
         },
         {
           "title": "美联储哈玛克：意识到就业市场已降温，但近期数据依然健康。",
@@ -116,11 +116,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E7%99%BE%E4%BA%BA%E5%8F%82%E8%B5%9B%E4%BB%85%E5%89%A917%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时21分]"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
