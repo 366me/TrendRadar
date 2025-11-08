@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T06:18:07.288952+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-09T07:18:59.467886+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时18分]"
         },
         {
           "title": "朱珠 气血足到头顶",
@@ -30,8 +30,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时18分]"
         }
       ]
     }
