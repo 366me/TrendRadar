@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T21:24:53.238711+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2025-11-08T22:17:10.986163+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "湖南一鱼塘用辣椒喂鱼，塘主称鱼会更漂亮、口感更好，真是这样吗？辣椒会影响鱼的健康吗？",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "好气血才能有好声音",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%BD%E6%B0%94%E8%A1%80%E6%89%8D%E8%83%BD%E6%9C%89%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%25A5%25BD%25E6%25B0%2594%25E8%25A1%2580%25E6%2589%258D%25E8%2583%25BD%25E6%259C%2589%25E5%25A5%25BD%25E5%25A3%25B0%25E9%259F%25B3%2523%26dgr%3D0%26band_rank%3D20%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26realpos%3D20%26pos%3D20%26flag%3D1%26display_time%3D1762611334%26pre_seqid%3D17626113343900245272782&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         }
       ]
     },
