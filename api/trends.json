@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-09T00:24:12.240353+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-09T01:16:20.746217+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "饭店为防食客腹泻在菜里加抗生素，健康的人吃抗生素有哪些潜在风险？涉事人员将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1969823928944914519",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
