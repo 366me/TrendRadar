@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T13:20:31.050995+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2025-11-09T14:28:06.525363+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             17,
             15,
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时16分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[01时16分 ~ 14时28分]"
         },
         {
           "title": "朱珠 气血足到头顶",
@@ -47,11 +48,12 @@
           "url": "https://www.baidu.com/s?wd=45%E5%B2%81%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BF%9D%E6%B8%A9%E6%9D%AF",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时28分]"
         }
       ]
     }
