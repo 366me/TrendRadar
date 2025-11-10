@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T04:24:38.452069+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-11-11T05:19:43.050446+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "标普500指数初步收涨1.5%，科技、电信板块涨超2%，可选消费、原材料板块涨超1%，日用品板块跌0.3%。 纳斯达克100指数初步收2.2%，成分股中，Palantir涨8.7%，美光科技涨6.6%，英伟达涨5.7%，Applovin涨5.1%，AMD在投资者日活动前夕涨4.5%，谷歌A涨4%，星巴克跌0.8%，Strategy跌1%，亿滋国际跌1.5%，Axon跌3%，特许通讯跌4%。 英伟达、微软、3M、亚马逊、IBM、卡特彼勒、思科、高盛等至少涨超1%，在道指成分股领跑，耐克则跌0.6%，联合健康跌0.8%，宝洁跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3002328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
         {
           "title": "美国民主党参议员德宾：（解释他为什么对临时开支法案投赞成票）美国参议院共和党领袖图恩向民主党人承诺，在12月中旬之前，他们将有机会在国会提交一份民主党的法案，其中包含修改法律的提案，以保护美国家庭免受激烈的医疗保健问题的影响。",
           "url": "https://flash.jin10.com/detail/20251111030732791800",
@@ -36,11 +47,23 @@
           "url": "https://www.zhihu.com/question/1969042216145090498",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
+          "title": "美国总统特朗普：协议非常好。我们希望医疗保健能让我们把钱直接支付给民众，而不是给医疗公司。",
+          "url": "https://flash.jin10.com/detail/20251111045446928800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "05时19分"
         }
       ]
     },
