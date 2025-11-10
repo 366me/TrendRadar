@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-10T13:22:04.244129+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-11-10T14:33:09.296806+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "气虚vs血虚vs气血两虚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B0%94%E8%99%9Avs%E8%A1%80%E8%99%9Avs%E6%B0%94%E8%A1%80%E4%B8%A4%E8%99%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E6%25B0%2594%25E8%2599%259Avs%25E8%25A1%2580%25E8%2599%259Avs%25E6%25B0%2594%25E8%25A1%2580%25E4%25B8%25A4%25E8%2599%259A%26pos%3D26%26dgr%3D0%26flag%3D0%26band_rank%3D25%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26realpos%3D25%26cate%3D5001%26display_time%3D1762756253%26pre_seqid%3D17627562532500280867716&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
