@@ -1,141 +1,22 @@
 {
-  "generated_at": "2025-11-11T23:22:05.934207+08:00",
-  "total_titles_processed": 2050,
+  "generated_at": "2025-11-12T00:26:25.872096+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "00 后小伙体重 340 斤有 8 块腹肌，为什么体重这么大还能有腹肌？对健康会不会有什么隐患？",
-          "url": "https://www.zhihu.com/question/1969042216145090498",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            5,
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时24分 ~ 16时27分]"
-        },
-        {
-          "title": "标普500指数初步收涨1.5%，科技、电信板块涨超2%，可选消费、原材料板块涨超1%，日用品板块跌0.3%。 纳斯达克100指数初步收2.2%，成分股中，Palantir涨8.7%，美光科技涨6.6%，英伟达涨5.7%，Applovin涨5.1%，AMD在投资者日活动前夕涨4.5%，谷歌A涨4%，星巴克跌0.8%，Strategy跌1%，亿滋国际跌1.5%，Axon跌3%，特许通讯跌4%。 英伟达、微软、3M、亚马逊、IBM、卡特彼勒、思科、高盛等至少涨超1%，在道指成分股领跑，耐克则跌0.6%，联合健康跌0.8%，宝洁跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3002328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国民主党参议员德宾：（解释他为什么对临时开支法案投赞成票）美国参议院共和党领袖图恩向民主党人承诺，在12月中旬之前，他们将有机会在国会提交一份民主党的法案，其中包含修改法律的提案，以保护美国家庭免受激烈的医疗保健问题的影响。",
-          "url": "https://flash.jin10.com/detail/20251111030732791800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时24分]"
-        },
-        {
-          "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3002239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "中国贸促会副会长刘健男在京出席2025健康经济与创新发展对话会",
-          "url": "https://wallstreetcn.com/livenews/3002808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时31分]"
-        },
         {
           "title": "德国央行发布新版债务刹车改革建议：德国（政府）必须确保能够重返健康的财务状态。 希望能通过三步走方案实现德国债务趋于稳定。",
           "url": "https://wallstreetcn.com/livenews/3002875",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
-          "url": "https://www.cls.cn/detail/2196380",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "美国总统特朗普：协议非常好。我们希望医疗保健能让我们把钱直接支付给民众，而不是给医疗公司。",
-          "url": "https://flash.jin10.com/detail/20251111045446928800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“换血”真能抗衰、排毒吗",
-          "url": "https://www.toutiao.com/trending/7570647056405282822/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美民主党参议员要求白宫回应AI数据中心推高电费的问题",
-          "url": "https://flash.jin10.com/detail/20251111005526700800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "00时26分"
         }
       ]
     }
