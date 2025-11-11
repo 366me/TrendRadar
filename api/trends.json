@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T19:18:39.930529+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2025-11-11T20:42:35.588580+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "00 后小伙体重 340 斤有 8 块腹肌，为什么体重这么大还能有腹肌？对健康会不会有什么隐患？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "中国贸促会副会长刘健男在京出席2025健康经济与创新发展对话会",
+          "url": "https://wallstreetcn.com/livenews/3002808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美国民主党参议员德宾：（解释他为什么对临时开支法案投赞成票）美国参议院共和党领袖图恩向民主党人承诺，在12月中旬之前，他们将有机会在国会提交一份民主党的法案，其中包含修改法律的提案，以保护美国家庭免受激烈的医疗保健问题的影响。",
