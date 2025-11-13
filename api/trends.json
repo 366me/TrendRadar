@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T05:20:06.753458+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-11-14T06:20:49.230467+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             17,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 06时20分]"
         },
         {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
