@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T09:28:59.954538+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2025-11-14T11:13:51.830091+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -30,9 +30,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时13分]"
+        },
+        {
+          "title": "电子咖啡手环亮相进博会，可以通过生理电刺激神经让人保持清醒，这真的有效果吗？会不会危害人体健康？",
+          "url": "https://www.zhihu.com/question/1971243218449426351",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时13分]"
         },
         {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "电子咖啡手环亮相进博会，可以通过生理电刺激神经让人保持清醒，这真的有效果吗？会不会危害人体健康？",
-          "url": "https://www.zhihu.com/question/1971243218449426351",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         }
       ]
     },
