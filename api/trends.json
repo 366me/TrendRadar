@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:23:00.729999+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-11-14T19:18:01.264370+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时28分 ~ 19时18分]"
         },
         {
           "title": "教育部：计划建体育健康类学校9000所",
