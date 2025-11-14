@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:31:04.250887+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2025-11-14T15:20:23.713344+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时20分]"
         },
         {
           "title": "教育部：计划建体育健康类学校9000所",
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时20分]"
         },
         {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
