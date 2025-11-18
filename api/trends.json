@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T15:20:38.604105+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-11-18T16:28:15.042811+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普：（被问及健康状况）我感觉棒极了。",
@@ -65,7 +66,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -76,7 +77,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
