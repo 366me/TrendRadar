@@ -1,7 +1,18 @@
 {
-  "generated_at": "2025-11-18T19:19:21.691905+08:00",
-  "total_titles_processed": 1713,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:45:38.411102+08:00",
+  "total_titles_processed": 1727,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
