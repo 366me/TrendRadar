@@ -1,21 +1,7 @@
 {
-  "generated_at": "2025-11-18T22:24:58.699198+08:00",
-  "total_titles_processed": 1727,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:23:52.641707+08:00",
+  "total_titles_processed": 1875,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
@@ -71,7 +57,7 @@
     },
     {
       "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马上评｜企业家的“鸡汤”要走出南极，回归员工的日常",
@@ -81,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 23时23分]"
         },
         {
           "title": "媒体：企业家“鸡汤”要回归员工日常",
@@ -94,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "俞敏洪的“鸡汤”为何暖不了员工的心",
+          "url": "https://www.toutiao.com/trending/7574056231808011785/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
