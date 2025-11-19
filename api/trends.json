@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T15:20:31.808172+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-11-19T16:27:58.983683+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时27分]"
         },
         {
           "title": "高盛总裁John Waldron：目前整体倾向仍是“未来利率将进一步走低”。 美国经济依然强劲且具有韧性，当前市场出现的是一次健康的回调。",
@@ -76,11 +77,12 @@
           "ranks": [
             22,
             17,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时27分]"
         }
       ]
     },
