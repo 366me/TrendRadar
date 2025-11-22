@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T13:19:23.194390+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-11-22T14:27:57.890419+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             17,
             23,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 14时27分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报344.65点，创9月2日以来收盘新低，本周累计下跌超过2.90% %。 在十个板块中，北欧医疗保健板块跌幅最大。 瓦锡兰（Wartsila Oyj）跌6.0%，在一众北欧个股里表现最差。",
