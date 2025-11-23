@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T02:27:42.047031+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-11-24T03:16:15.445849+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32022799",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "以总理办公室：在贝鲁特“精确打击”黎真主党参谋长",
@@ -26,8 +27,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "以色列总理办公室：袭击黎巴嫩的目标是真主党参谋长。",
+          "url": "https://flash.jin10.com/detail/20251123212339273800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "以总理办公室：在贝鲁特“精确打击”黎真主党参谋长",
@@ -37,17 +49,6 @@
             26,
             25,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "以色列总理办公室：袭击黎巴嫩的目标是真主党参谋长。",
-          "url": "https://flash.jin10.com/detail/20251123212339273800",
-          "source": "金十数据",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -68,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
