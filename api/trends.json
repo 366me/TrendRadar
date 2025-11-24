@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:42:35.655675+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2025-11-24T21:34:15.149504+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "网红手作玩具 健康刺客",
@@ -28,11 +28,12 @@
             19,
             7,
             5,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时34分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[12时34分 ~ 21时34分]"
         },
         {
           "title": "荒野求生决赛“老中医”藏物被退赛",
@@ -75,6 +76,20 @@
           "time_info": "[14时31分 ~ 15时21分]"
         },
         {
+          "title": "荒野求生“老中医”曝林北偷猕猴桃",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E2%80%9C%E8%80%81%E4%B8%AD%E5%8C%BB%E2%80%9D%E6%9B%9D%E6%9E%97%E5%8C%97%E5%81%B7%E7%8C%95%E7%8C%B4%E6%A1%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28,
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 21时34分]"
+        },
+        {
           "title": "荒野求生选手老中医回应被罚退赛",
           "url": "https://www.toutiao.com/trending/7576116796089073683/",
           "source": "今日头条",
@@ -85,19 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时23分 ~ 19时18分]"
-        },
-        {
-          "title": "荒野求生“老中医”曝林北偷猕猴桃",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E2%80%9C%E8%80%81%E4%B8%AD%E5%8C%BB%E2%80%9D%E6%9B%9D%E6%9E%97%E5%8C%97%E5%81%B7%E7%8C%95%E7%8C%B4%E6%A1%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 20时42分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "荒野求生“老中医”曝林北偷猕猴桃",
+          "url": "https://www.douyin.com/hot/2316612",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
         }
       ]
     },
