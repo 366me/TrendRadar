@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T01:20:18.944234+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-11-25T02:30:54.508832+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时30分]"
         },
         {
           "title": "荒野求生“老中医”曝林北偷猕猴桃",
@@ -25,22 +25,24 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时30分]"
         },
         {
           "title": "荒野求生老中医鞋底藏物被退赛",
           "url": "https://www.douyin.com/hot/2316168",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时30分]"
         }
       ]
     }
