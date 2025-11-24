@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T06:23:21.420183+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-11-25T07:19:46.019013+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 06时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 07时19分]"
         },
         {
           "title": "荒野求生老中医鞋底藏物被退赛",
@@ -26,11 +27,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 06时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 07时19分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
