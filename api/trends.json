@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T12:35:08.805248+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2025-11-24T13:21:59.783872+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,35 @@
           "url": "https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E5%86%B3%E8%B5%9B%E2%80%9C%E8%80%81%E4%B8%AD%E5%8C%BB%E2%80%9D%E8%97%8F%E7%89%A9%E8%A2%AB%E9%80%80%E8%B5%9B",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时21分]"
+        },
+        {
+          "title": "荒野求生决赛“老中医”藏物被退赛",
+          "url": "https://www.toutiao.com/trending/7576099935083773990/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时35分]"
+          "time_info": "[12时34分 ~ 13时21分]"
+        },
+        {
+          "title": "荒野求生老中医鞋底藏物被退赛",
+          "url": "https://www.douyin.com/hot/2316168",
+          "source": "抖音",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时21分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
@@ -43,28 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "荒野求生决赛“老中医”藏物被退赛",
-          "url": "https://www.toutiao.com/trending/7576099935083773990/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "荒野求生老中医鞋底藏物被退赛",
-          "url": "https://www.douyin.com/hot/2316168",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
         }
       ]
     },
