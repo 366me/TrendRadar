@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T17:24:36.063024+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-11-25T18:24:42.023032+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "url": "https://www.zhihu.com/question/1976253932666845124",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时24分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
