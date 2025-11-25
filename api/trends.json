@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T15:20:41.041261+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-25T16:29:08.578773+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "荒野求生“老中医”曝林北偷猕猴桃",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
+          "url": "https://www.zhihu.com/question/1976253932666845124",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
