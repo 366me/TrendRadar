@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T02:31:50.435529+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-11-26T03:18:14.728656+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.1%，创11月11日（收涨2.1%）以来最佳单日表现，报348.14点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德反弹4.5%，在一众北欧个股里领跑。",
@@ -57,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
