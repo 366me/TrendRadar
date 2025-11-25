@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T06:20:32.940784+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-11-26T07:19:36.405316+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             4,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -65,7 +66,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -92,11 +93,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时19分]"
         }
       ]
     }
