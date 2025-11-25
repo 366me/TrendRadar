@@ -1,64 +1,12 @@
 {
-  "generated_at": "2025-11-25T23:23:17.320430+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2025-11-26T00:28:57.125964+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "荒野求生“老中医”曝林北偷猕猴桃",
-          "url": "https://www.douyin.com/hot/2316612",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
-          "url": "https://www.zhihu.com/question/1976253932666845124",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 22时21分]"
-        },
-        {
-          "title": "荒野求生老中医鞋底藏物被退赛",
-          "url": "https://www.douyin.com/hot/2316168",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
-          "url": "https://flash.jin10.com/detail/20251125024713901800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
         {
           "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，细线在野外生存中能起到哪些作用？",
           "url": "https://www.zhihu.com/question/1976253932666845124",
@@ -66,84 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "荒野求生“老中医”曝林北偷猕猴桃",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E2%80%9C%E8%80%81%E4%B8%AD%E5%8C%BB%E2%80%9D%E6%9B%9D%E6%9E%97%E5%8C%97%E5%81%B7%E7%8C%95%E7%8C%B4%E6%A1%83",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            19
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时30分]"
-        },
-        {
-          "title": "廉价合金首饰镉元素超标 9000 多倍，多人佩戴后出现过敏反应，对健康影响有多大？",
-          "url": "https://www.zhihu.com/question/1976033396896527195",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时15分]"
-        },
-        {
-          "title": "标普500医疗保健板块创下历史新高，最新上涨1.3%。",
-          "url": "https://flash.jin10.com/detail/20251125225044942800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时28分"
         },
         {
           "title": "标普500指数的11个板块中，科技板块盘初跌1.07%，能源板块跌0.64%，金融、工业、保健、原材料、电信板块则至多涨超0.7%。",
           "url": "https://wallstreetcn.com/livenews/3010285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国民主党参议员马克·凯利：不会被美国国防部的声明吓倒。",
-          "url": "https://flash.jin10.com/detail/20251125023737882800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美国白宫发言人：支持对民主党参议员马克·凯利展开调查。",
-          "url": "https://flash.jin10.com/detail/20251125043229277800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "00时28分"
         }
       ]
     },
@@ -156,11 +40,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32039120",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
