@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T18:24:42.023032+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-11-25T19:19:13.695946+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
+          "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
+          "url": "https://www.zhihu.com/question/1976253932666845124",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
           "title": "荒野求生老中医鞋底藏物被退赛",
           "url": "https://www.douyin.com/hot/2316168",
           "source": "抖音",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
-          "url": "https://www.zhihu.com/question/1976253932666845124",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时24分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
@@ -109,6 +110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "四川省委宣传部微信公号发文评俞敏洪：南极鸡汤，喝不下的“登味”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32039120",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         }
       ]
     }
