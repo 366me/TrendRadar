@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T14:31:56.223404+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-11-26T15:20:14.936341+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -23,17 +23,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 09时28分]"
-        },
-        {
-          "title": "日本首相高市早苗：密切关注形势，必要时对外汇市场采取措施。 不会对外汇走势发表评论。 没有经济增长，财政健康状况就不会改善。 财政可持续性是最重要的。",
-          "url": "https://wallstreetcn.com/livenews/3010683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -71,6 +60,30 @@
           "time_info": "[04时23分 ~ 06时20分]"
         },
         {
+          "title": "日本首相高市早苗：密切关注形势，必要时对外汇市场采取措施。 不会对外汇走势发表评论。 没有经济增长，财政健康状况就不会改善。 财政可持续性是最重要的。",
+          "url": "https://wallstreetcn.com/livenews/3010683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
+        },
+        {
+          "title": "因成都年均日照时数低，市民提议增设「太阳假」鼓励带薪晒太阳，怎样看待这一提议？日照少对健康影响有多大？",
+          "url": "https://www.zhihu.com/question/1976967303347265994",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时20分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨1.1%，创11月11日（收涨2.1%）以来最佳单日表现，报348.14点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德反弹4.5%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3010328",
           "source": "华尔街见闻-快讯",
@@ -92,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "因成都年均日照时数低，市民提议增设「太阳假」鼓励带薪晒太阳，怎样看待这一提议？日照少对健康影响有多大？",
-          "url": "https://www.zhihu.com/question/1976967303347265994",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "标普500指数的11个板块中，科技板块盘初跌1.07%，能源板块跌0.64%，金融、工业、保健、原材料、电信板块则至多涨超0.7%。",
@@ -129,11 +131,12 @@
             15,
             14,
             13,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时20分]"
         }
       ]
     }
