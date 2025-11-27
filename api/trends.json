@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:23:32.849130+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-11-27T18:23:51.155546+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美驻以色列大使被爆兼职推销助眠补剂，美驻以使馆回应",
+          "url": "https://news.ifeng.com/c/8ocq89oGKLf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     }
