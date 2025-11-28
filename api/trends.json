@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T14:32:18.517173+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-11-28T15:20:45.711614+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，集运欧线涨近7%，液化石油气（LPG）、沪银涨超3%，丙烯涨超2%，SC原油、棕榈油、聚丙烯（PP）、燃油涨近2%。跌幅方面，钯跌超2%，焦炭跌近2%，红枣跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251128150100715800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
