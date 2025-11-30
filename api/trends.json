@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T02:28:11.826664+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-12-01T03:16:22.955803+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             21,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -41,8 +42,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -50,11 +51,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 03时16分]"
         },
         {
           "title": "2026年度国考共283.1万人参加 考录比约74∶1",
@@ -64,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
         }
       ]
     },
@@ -83,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "长期没穿的衣服藏健康隐患",
@@ -92,11 +94,12 @@
           "source": "微博",
           "ranks": [
             29,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 03时16分]"
         }
       ]
     }
