@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:37:59.923445+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-11-30T21:27:17.445680+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时27分]"
+        },
+        {
+          "title": "2026年度国考共283.1万人参加 考录比约74∶1",
+          "url": "https://wallstreetcn.com/livenews/3012536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时27分]"
         },
         {
           "title": "2026年国考371.8万人参加",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 11时27分]"
-        },
-        {
-          "title": "2026年度国考共283.1万人参加 考录比约74∶1",
-          "url": "https://wallstreetcn.com/livenews/3012536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时37分]"
         }
       ]
     },
@@ -53,11 +54,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%B2%A1%E7%A9%BF%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%97%8F%E5%81%A5%E5%BA%B7%E9%9A%90%E6%82%A3%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时27分]"
         }
       ]
     }
