@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-30T07:19:01.440715+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-30T09:47:09.207728+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026年国考371.8万人参加",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%9B%BD%E8%80%83371.8%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
