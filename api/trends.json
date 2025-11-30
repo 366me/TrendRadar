@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T06:19:43.496984+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-01T07:18:51.985247+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -33,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -44,11 +45,12 @@
             16,
             15,
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "2026年度国考共283.1万人参加 考录比约74∶1",
@@ -94,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "长期没穿的衣服藏健康隐患",
@@ -105,11 +107,12 @@
             29,
             22,
             24,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时18分]"
         }
       ]
     }
