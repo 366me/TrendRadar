@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T01:17:16.031479+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2025-12-01T02:28:11.826664+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -25,22 +25,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "283.1万人参加国考笔试",
           "url": "https://www.douyin.com/hot/2322378",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "283.1万人参加国考笔试",
+          "url": "https://www.baidu.com/s?wd=283.1%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 02时28分]"
         },
         {
           "title": "2026年度国考共283.1万人参加 考录比约74∶1",
@@ -50,19 +64,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "283.1万人参加国考笔试",
-          "url": "https://www.baidu.com/s?wd=283.1%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     },
@@ -76,22 +79,24 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "长期没穿的衣服藏健康隐患",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%B2%A1%E7%A9%BF%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%97%8F%E5%81%A5%E5%BA%B7%E9%9A%90%E6%82%A3%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 02时28分]"
         }
       ]
     }
