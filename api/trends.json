@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T12:50:47.946645+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2025-12-01T13:28:27.462372+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时28分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -84,7 +84,7 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "长期没穿的衣服藏健康隐患",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时16分 ~ 07时18分]"
+        },
+        {
+          "title": "奶精淀粉勾兑的假奶粉成本低廉却销往全国，这种行为为何屡禁不止？又会对消费者健康造成哪些危害？",
+          "url": "https://www.zhihu.com/question/1978418892448740626",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     }
