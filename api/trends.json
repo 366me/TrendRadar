@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T14:33:24.004005+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-12-02T15:23:04.143954+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -69,6 +69,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "菊花每一片花瓣都是一朵小花",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%8A%E8%8A%B1%E6%AF%8F%E4%B8%80%E7%89%87%E8%8A%B1%E7%93%A3%E9%83%BD%E6%98%AF%E4%B8%80%E6%9C%B5%E5%B0%8F%E8%8A%B1%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         }
       ]
     }
