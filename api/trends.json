@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T19:20:04.545740+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2025-12-03T20:44:02.401144+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价良子 12 月 1 日最新公开的体检报告？",
+          "url": "https://www.zhihu.com/question/1978803728749463065",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         }
       ]
     }
