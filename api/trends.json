@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T18:22:48.899013+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-12-05T19:20:14.197290+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时20分]"
         },
         {
           "title": "很多人意识不到气血是补不回来的",
@@ -129,7 +129,7 @@
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国10月未季调经常帐 68.1亿美元，前值134.674亿美元。",
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "流感“排毒期”有多长？专家回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E2%80%9C%E6%8E%92%E6%AF%92%E6%9C%9F%E2%80%9D%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         }
       ]
     }
