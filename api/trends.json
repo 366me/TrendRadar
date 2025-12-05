@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:20:14.197290+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-12-05T20:42:42.961796+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "喜人健康夜",
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时42分]"
         },
         {
           "title": "很多人意识不到气血是补不回来的",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "气血不足的人要省着用身体",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E8%A6%81%E7%9C%81%E7%9D%80%E7%94%A8%E8%BA%AB%E4%BD%93%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -147,11 +158,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E2%80%9C%E6%8E%92%E6%AF%92%E6%9C%9F%E2%80%9D%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时42分]"
         }
       ]
     }
