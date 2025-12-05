@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:22:21.604224+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-05T18:22:48.899013+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -33,9 +33,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "很多人意识不到气血是补不回来的",
@@ -44,11 +44,12 @@
           "ranks": [
             16,
             15,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时22分]"
         },
         {
           "title": "为什么工作越忙越累，晚上越想「报复性熬夜」，它对身心健康有何影响？",
