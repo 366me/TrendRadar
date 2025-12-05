@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T21:33:17.494896+08:00",
-  "total_titles_processed": 1853,
+  "generated_at": "2025-12-05T22:22:32.429681+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
@@ -143,6 +143,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "流感“排毒期”有多长？专家回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E2%80%9C%E6%8E%92%E6%AF%92%E6%9C%9F%E2%80%9D%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24,
+            29,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时22分]"
+        },
+        {
           "title": "韩国10月未季调经常帐 68.1亿美元，前值134.674亿美元。",
           "url": "https://flash.jin10.com/detail/20251205070002290800",
           "source": "金十数据",
@@ -152,19 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "流感“排毒期”有多长？专家回应",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E2%80%9C%E6%8E%92%E6%AF%92%E6%9C%9F%E2%80%9D%E6%9C%89%E5%A4%9A%E9%95%BF%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时33分]"
         }
       ]
     }
