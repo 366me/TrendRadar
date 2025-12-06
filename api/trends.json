@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:10:32.299749+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2025-12-06T12:23:17.458089+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251206101853813800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时23分]"
         },
         {
           "title": "气血不足的人要省着用身体",
@@ -35,11 +36,12 @@
           "url": "https://wallstreetcn.com/livenews/3016205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时23分]"
         }
       ]
     },
@@ -83,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时23分]"
         }
       ]
     }
