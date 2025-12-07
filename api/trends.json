@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T21:26:23.805162+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-12-07T22:18:06.718420+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家医保局、人力资源社会保障部印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》。",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时19分 ~ 16时24分]"
+        },
+        {
+          "title": "男子连续20年喝热水养生确诊舌癌",
+          "url": "https://www.toutiao.com/trending/7581036728719441929/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         }
       ]
     },
