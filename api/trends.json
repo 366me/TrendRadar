@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-12-07T12:33:25.056628+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2025-12-07T13:19:00.629068+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "国家医保局、人力资源社会保障部印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》。",
           "url": "https://wallstreetcn.com/livenews/3016348",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
+          "title": "两部门：积极推动商保创新药目录纳入商业健康保险保障范围",
+          "url": "https://flash.jin10.com/detail/20251207120830188800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "国家医保局、人力资源社会保障部今日印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》，自2026年1月1日起正式执行。",
+          "url": "https://flash.jin10.com/detail/20251207120133644800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
