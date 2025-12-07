@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:24:47.145550+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2025-12-07T17:20:01.785653+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             9,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 17时20分]"
         },
         {
           "title": "两部门：积极推动商保创新药目录纳入商业健康保险保障范围",
@@ -49,6 +50,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时19分 ~ 16时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "民进党参选人儿子被爆涉校园霸凌，镜头前哽咽道歉仍遭质疑",
+          "url": "https://news.ifeng.com/c/8otOBG8j9xz",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         }
       ]
     }
