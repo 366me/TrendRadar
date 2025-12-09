@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T09:39:30.243525+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2025-12-09T11:19:35.673880+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "明晟公司MSCI北欧国家指数跌0.4%，报356.64点。 在十个板块中，北欧医疗保健板块跌幅最大。 权重股诺和诺德收跌3.4%，在一众北欧个股里领跌。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "如何低成本地照顾自己的心理健康？",
+          "url": "https://www.zhihu.com/question/1980291402748412083",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "美国私营医疗保健公司Medline计划通过今年美国规模最大的IPO筹集53.7亿美元。",
