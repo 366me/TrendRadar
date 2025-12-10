@@ -1,81 +1,8 @@
 {
-  "generated_at": "2025-12-10T23:26:04.426770+08:00",
-  "total_titles_processed": 2129,
+  "generated_at": "2025-12-11T00:29:03.860259+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "健康中国重塑全民生活新范式",
-          "url": "https://www.douyin.com/hot/2332545",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 20时44分]"
-        },
-        {
-          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
-          "url": "https://flash.jin10.com/detail/20251210121528240800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时22分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，保健板块跌1%，工业、房地产、金融板块至多跌0.7%，科技板块则涨0.1%，能源板块涨0.6%。 纳斯达克100指数初步收涨0.1%，成分股中，Applovin涨5%，华纳兄弟探索公司WBD涨3.8%，Strategy涨2.8%，美光科技涨2.3%，Meta则收跌1.6%，安森美半导体跌2%，迈威尔科技跌3.3%，ORLY跌3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3017880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "市场消息：埃克森美孚首席财务官Kathy Mikells因健康问题将于2月1日退休。",
-          "url": "https://flash.jin10.com/detail/20251210000100513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "青海“十五五”规划建议：推动绿色氢能、生命健康等形成新的经济增长点",
-          "url": "https://wallstreetcn.com/livenews/3017998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "研究发现入睡时间影响心血管健康",
-          "url": "https://www.toutiao.com/trending/7581672793914998820/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
@@ -85,15 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8A%A4%E8%82%9D%E8%84%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            12,
-            17,
-            9,
-            26
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 20时44分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     }
