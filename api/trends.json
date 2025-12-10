@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:26:17.337543+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2025-12-10T18:25:09.719467+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时22分]"
+        },
+        {
+          "title": "健康中国重塑全民生活新范式",
+          "url": "https://www.douyin.com/hot/2332545",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，保健板块跌1%，工业、房地产、金融板块至多跌0.7%，科技板块则涨0.1%，能源板块涨0.6%。 纳斯达克100指数初步收涨0.1%，成分股中，Applovin涨5%，华纳兄弟探索公司WBD涨3.8%，Strategy涨2.8%，美光科技涨2.3%，Meta则收跌1.6%，安森美半导体跌2%，迈威尔科技跌3.3%，ORLY跌3.9%。",
@@ -75,11 +86,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 18时25分]"
         }
       ]
     }
