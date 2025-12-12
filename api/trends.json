@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:35:46.825302+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2025-12-12T22:20:31.160660+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[14时33分 ~ 22时20分]"
         },
         {
           "title": "一天到底吃几个鸡蛋最健康",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时20分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，连续三个交易日走高，报363.92点，创6月16日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 航运股马士基涨5.3%，在一众北欧个股里领跑。",
@@ -193,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时20分]"
         }
       ]
     }
