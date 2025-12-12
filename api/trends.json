@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:24:18.563918+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-12T19:20:51.142480+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "这一年，什么时候你突然意识到「身心健康」比想象的更重要？你是怎样学着，照顾自己的？",
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "一天到底吃几个鸡蛋最健康",
@@ -26,11 +26,12 @@
           "ranks": [
             26,
             19,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 19时20分]"
         },
         {
           "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
@@ -88,6 +89,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "据AXIOS：美国众议院共和党人将在缺乏《平价医疗法案》（ACA）修正案的情况下推进医疗保健法案。",
+          "url": "https://flash.jin10.com/detail/20251212182718054800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "凭煮蛋涨粉 356 万博主回应爆红，自称 5 年每天吃 40 个鸡蛋，这么吃健康吗？他为何能这么火？",
+          "url": "https://www.zhihu.com/question/1982136594208145844",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
@@ -108,8 +131,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 19时20分]"
         },
         {
           "title": "美国财长贝森特强调经济增长 推进放松监管",
@@ -161,11 +184,12 @@
           "url": "https://www.zhihu.com/question/1973991624326526161",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
         }
       ]
     }
