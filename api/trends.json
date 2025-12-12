@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:26:00.050292+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-12-12T18:24:18.563918+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 18时24分]"
         },
         {
           "title": "一天到底吃几个鸡蛋最健康",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时24分]"
         },
         {
           "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
@@ -108,8 +108,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 18时24分]"
         },
         {
           "title": "美国财长贝森特强调经济增长 推进放松监管",
@@ -149,6 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么我们说鸡汤、鸭汤、羊汤，但是不说牛汤？",
+          "url": "https://www.zhihu.com/question/1973991624326526161",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     }
