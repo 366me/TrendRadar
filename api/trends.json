@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T04:24:01.130576+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-12-13T05:20:02.658485+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "这一年，什么时候你突然意识到「身心健康」比想象的更重要？你是怎样学着，照顾自己的？",
@@ -63,11 +63,12 @@
             7,
             6,
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         }
       ]
     }
