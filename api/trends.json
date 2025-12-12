@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-12T16:31:18.104704+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-12-12T17:26:00.050292+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 7,
       "titles": [
-        {
-          "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3019760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
         {
           "title": "这一年，什么时候你突然意识到「身心健康」比想象的更重要？你是怎样学着，照顾自己的？",
           "url": "https://www.zhihu.com/question/1977012424109491128",
@@ -27,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 17时25分]"
         },
         {
           "title": "一天到底吃几个鸡蛋最健康",
@@ -36,11 +25,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时25分]"
+        },
+        {
+          "title": "香港恒生指数收盘上涨1.75%。恒生科技指数收盘涨1.87%。商汤涨4.7%，同城旅行、阿里健康、网易涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3019760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时31分]"
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时25分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，连续三个交易日走高，报363.92点，创6月16日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 航运股马士基涨5.3%，在一众北欧个股里领跑。",
@@ -106,8 +108,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 17时25分]"
         },
         {
           "title": "美国财长贝森特强调经济增长 推进放松监管",
