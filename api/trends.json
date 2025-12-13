@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T03:16:08.534018+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-12-14T04:22:08.442167+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南京正觉寺丛葬地摆满菊花寄哀思",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E6%AD%A3%E8%A7%89%E5%AF%BA%E4%B8%9B%E8%91%AC%E5%9C%B0%E6%91%86%E6%BB%A1%E8%8F%8A%E8%8A%B1%E5%AF%84%E5%93%80%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
         }
       ]
     }
