@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T02:29:35.224210+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-12-15T03:16:55.902268+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             18,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -26,11 +27,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
         }
       ]
     },
@@ -43,11 +45,12 @@
           "url": "https://www.zhihu.com/question/1983650886522725456",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时16分]"
         }
       ]
     }
