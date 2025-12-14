@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:19:33.744438+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-15T07:19:30.500985+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -34,8 +34,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         }
       ]
     },
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时19分]"
         }
       ]
     }
