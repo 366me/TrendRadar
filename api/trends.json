@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T06:32:40.663609+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-16T07:21:07.664706+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -44,11 +45,12 @@
             30,
             17,
             27,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 07时21分]"
         },
         {
           "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
@@ -65,7 +67,7 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
@@ -77,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "这样煮苹果水养生又瘦身",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E5%85%BB%E7%94%9F%E5%8F%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         }
       ]
     }
