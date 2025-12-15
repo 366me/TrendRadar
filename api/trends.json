@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-16T03:20:16.306440+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-16T04:25:13.633137+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 4,
       "titles": [
+        {
+          "title": "央视曝光30天速成陈皮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8930%E5%A4%A9%E9%80%9F%E6%88%90%E9%99%88%E7%9A%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            7,
+            11,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
         {
           "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
@@ -16,22 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "央视曝光30天速成陈皮",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8930%E5%A4%A9%E9%80%9F%E6%88%90%E9%99%88%E7%9A%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            7,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -40,11 +41,12 @@
           "ranks": [
             18,
             30,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 04时25分]"
         },
         {
           "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
