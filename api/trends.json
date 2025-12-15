@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T21:05:10.358206+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2025-12-15T21:41:54.958224+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
@@ -116,11 +116,12 @@
             13,
             23,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 21时41分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -165,11 +166,12 @@
             15,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 21时41分]"
         },
         {
           "title": "央视曝光30天速成陈皮",
@@ -185,8 +187,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 21时05分]"
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 21时41分]"
         },
         {
           "title": "千元陈皮成本仅70元 当地通报",
@@ -205,6 +207,19 @@
           "time_info": "[12时41分 ~ 17时33分]"
         },
         {
+          "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32176166",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时41分]"
+        },
+        {
           "title": "新会陈皮造假：70元成本卖千元",
           "url": "https://www.toutiao.com/trending/7583961695601561094/",
           "source": "今日头条",
@@ -215,18 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 17时33分]"
-        },
-        {
-          "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32176166",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 21时05分]"
         }
       ]
     }
