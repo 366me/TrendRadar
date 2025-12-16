@@ -1,8 +1,102 @@
 {
-  "generated_at": "2025-12-16T22:25:14.707975+08:00",
-  "total_titles_processed": 2086,
+  "generated_at": "2025-12-16T23:25:42.232673+08:00",
+  "total_titles_processed": 2180,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "央视曝光30天速成陈皮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8930%E5%A4%A9%E9%80%9F%E6%88%90%E9%99%88%E7%9A%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            7,
+            11,
+            8,
+            2,
+            4,
+            9,
+            17,
+            21,
+            15,
+            23,
+            22,
+            14,
+            19,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 22时25分]"
+        },
+        {
+          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "央视曝光20倍暴利假陈皮",
+          "url": "https://www.toutiao.com/trending/7582792396368330758/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            30,
+            17,
+            27,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 07时21分]"
+        },
+        {
+          "title": "百合漫周边媚男,粉丝炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348036&amp;topic_name=%E7%99%BE%E5%90%88%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%AA%9A%E7%94%B7%2C%E7%B2%89%E4%B8%9D%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32176166",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "乱象曝光后如何理性认识新会陈皮",
+          "url": "https://www.toutiao.com/trending/7584090034366582314/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 5,
@@ -63,89 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "央视曝光30天速成陈皮",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8930%E5%A4%A9%E9%80%9F%E6%88%90%E9%99%88%E7%9A%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            7,
-            11,
-            8,
-            2,
-            4,
-            9,
-            17,
-            21,
-            15,
-            23,
-            22,
-            14,
-            19,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 22时25分]"
-        },
-        {
-          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "央视曝光20倍暴利假陈皮",
-          "url": "https://www.toutiao.com/trending/7582792396368330758/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            30,
-            17,
-            27,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 07时21分]"
-        },
-        {
-          "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32176166",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "乱象曝光后如何理性认识新会陈皮",
-          "url": "https://www.toutiao.com/trending/7584090034366582314/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     }
