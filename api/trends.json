@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T00:29:52.273431+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T01:24:07.194283+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32197481",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348036&amp;topic_name=%E7%99%BE%E5%90%88%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%AA%9A%E7%94%B7%2C%E7%B2%89%E4%B8%9D%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
         }
       ]
     }
