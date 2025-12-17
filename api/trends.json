@@ -1,78 +1,22 @@
 {
-  "generated_at": "2025-12-17T23:24:50.836589+08:00",
-  "total_titles_processed": 2149,
+  "generated_at": "2025-12-18T00:29:52.273431+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "同仁堂澄清：公司未直接或间接持有南极磷虾油相关报道中提及的四川健康药业任何股权及投资权益，四川健康药业不属于本公司下属子企业",
-          "url": "https://wallstreetcn.com/livenews/3022367",
-          "source": "华尔街见闻-快讯",
+          "title": "同仁堂回应“南极磷虾油产品”报道：四川健康药业不属于下属子企业，为控股股东下属的同仁堂健康控股子公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32197481",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：12月17日将表决共和党助涨的医疗保健草案。 不会投票表决《平价医疗法案》（ACA）补贴方案，无法围绕这个问题达成共识。",
-          "url": "https://wallstreetcn.com/livenews/3021814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
-        },
-        {
-          "title": "学中医前后冬天减肥的区别",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A6%E4%B8%AD%E5%8C%BB%E5%89%8D%E5%90%8E%E5%86%AC%E5%A4%A9%E5%87%8F%E8%82%A5%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "百度升级发布文心健康管家 推原子计划开放AI能力",
-          "url": "https://wallstreetcn.com/livenews/3022229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3021901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "王传君 亚健康",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E4%BA%9A%E5%81%A5%E5%BA%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "00时29分"
         }
       ]
     },
@@ -85,19 +29,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348036&amp;topic_name=%E7%99%BE%E5%90%88%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%AA%9A%E7%94%B7%2C%E7%B2%89%E4%B8%9D%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            5,
-            3,
-            6,
-            7,
-            8,
-            9,
-            13,
-            14,
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时30分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
