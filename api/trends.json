@@ -1,118 +1,22 @@
 {
-  "generated_at": "2025-12-18T23:23:56.055641+08:00",
-  "total_titles_processed": 2118,
+  "generated_at": "2025-12-19T00:31:16.104380+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "同仁堂回应“南极磷虾油产品”报道：四川健康药业不属于下属子企业，为控股股东下属的同仁堂健康控股子公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32197481",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            12,
-            8,
-            7,
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 21时37分]"
-        },
         {
           "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
           "url": "https://www.cls.cn/detail/2233660",
           "source": "财联社热门",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 23时23分]"
-        },
-        {
-          "title": "经期健康从干爽透气开始",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E5%81%A5%E5%BA%B7%E4%BB%8E%E5%B9%B2%E7%88%BD%E9%80%8F%E6%B0%94%E5%BC%80%E5%A7%8B%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时23分]"
-        },
-        {
-          "title": "香港公布首份中医药发展蓝图",
-          "url": "https://wallstreetcn.com/livenews/3022879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "百合漫周边媚男,粉丝炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348036&amp;topic_name=%E7%99%BE%E5%90%88%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%AA%9A%E7%94%B7%2C%E7%B2%89%E4%B8%9D%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            23,
-            25,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 16时30分]"
-        },
-        {
-          "title": "据华尔街日报：美国民主党参议员就美国联邦调查局（FBI）未能调查爱泼斯坦的律师和会计师一事施压，要求司法部解释，为何在调查爱泼斯坦性交易计划时，FBI从未传唤其长期律师或内部会计师接受问询。",
-          "url": "https://flash.jin10.com/detail/20251218031307488800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《自然》网站刊发两项研究证实降糖新药疗效和安全性",
-          "url": "https://wallstreetcn.com/livenews/3023015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
