@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:43:24.324468+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2025-12-18T21:37:43.128826+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,24 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 20时43分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 21时37分]"
+        },
+        {
+          "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
+          "url": "https://www.cls.cn/detail/2233660",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时37分]"
         },
         {
           "title": "经期健康从干爽透气开始",
@@ -38,17 +51,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时23分]"
-        },
-        {
-          "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
-          "url": "https://www.cls.cn/detail/2233660",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "香港公布首份中医药发展蓝图",
