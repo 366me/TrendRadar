@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T13:22:32.541787+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-12-19T14:32:50.911420+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时32分]"
         },
         {
           "title": "瑞幸把咖啡健康卷明白了",
@@ -76,6 +77,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "健康过寒冬温馨提示",
+          "url": "https://www.toutiao.com/trending/7585409448840347689/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国降糖减重药物成果登上《自然》，为代谢难题提供新方案",
+          "url": "https://wallstreetcn.com/livenews/3023605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }
