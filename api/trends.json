@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T19:19:32.139959+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2025-12-19T20:42:12.873215+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 20时42分]"
         },
         {
           "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
@@ -38,11 +38,25 @@
           "url": "https://www.cls.cn/detail/2234882",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时42分]"
+        },
+        {
+          "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
+          "url": "https://www.zhihu.com/question/1985013127494988661",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 20时42分]"
         },
         {
           "title": "建议气血不足的人都要像猫一样生活",
@@ -56,18 +70,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时41分 ~ 13时22分]"
-        },
-        {
-          "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
-          "url": "https://www.zhihu.com/question/1985013127494988661",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "瑞幸把咖啡健康卷明白了",
