@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T21:33:42.709699+08:00",
-  "total_titles_processed": 2084,
+  "generated_at": "2025-12-19T22:21:53.722423+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,24 @@
             7,
             6,
             2,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 22时21分]"
+        },
+        {
+          "title": "【数据看盘】平潭发展龙虎榜现外资与量化博弈 多家实力游资集体出逃华人健康",
+          "url": "https://www.cls.cn/detail/2234882",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时21分]"
         },
         {
           "title": "【数据看盘】三家实力游资激烈博弈顺灏股份 多路资金联手抢筹美年健康",
@@ -35,18 +48,6 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
-          "title": "【数据看盘】平潭发展龙虎榜现外资与量化博弈 多家实力游资集体出逃华人健康",
-          "url": "https://www.cls.cn/detail/2234882",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时33分]"
-        },
-        {
           "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
           "url": "https://www.zhihu.com/question/1985013127494988661",
           "source": "知乎",
@@ -54,11 +55,12 @@
             15,
             11,
             8,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时21分]"
         },
         {
           "title": "建议气血不足的人都要像猫一样生活",
