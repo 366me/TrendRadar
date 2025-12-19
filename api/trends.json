@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:22:49.274242+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-12-19T16:30:42.017234+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时30分]"
         },
         {
           "title": "建议气血不足的人都要像猫一样生活",
@@ -106,6 +106,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿福三分钟看懂体检报告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%A6%8F%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         }
       ]
     }
