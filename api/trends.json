@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:31:13.138519+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-20T03:17:59.403536+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "【数据看盘】平潭发展龙虎榜现外资与量化博弈 多家实力游资集体出逃华人健康",
           "url": "https://www.cls.cn/detail/2234882",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，报363.13点，本周累计上涨超过0.18%。 在十个板块中，北欧医疗保健板块涨幅最大。 北欧音乐流媒体公司Spotify收涨3.3%，在一众北欧个股里领跑。",
