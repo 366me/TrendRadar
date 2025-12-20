@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:18:52.430796+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-20T23:19:36.303171+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "url": "https://www.douyin.com/hot/2342122",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时19分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，报363.13点，本周累计上涨超过0.18%。 在十个板块中，北欧医疗保健板块涨幅最大。 北欧音乐流媒体公司Spotify收涨3.3%，在一众北欧个股里领跑。",
@@ -115,25 +116,8 @@
       ]
     },
     {
-      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "南方黑芝麻糊配料表黑芝麻排第4",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%85%8D%E6%96%99%E8%A1%A8%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%8E%92%E7%AC%AC4%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "山楂树下“限售”山东？记者实探",
@@ -147,6 +131,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时16分 ~ 21时27分]"
+        },
+        {
+          "title": "山楂树下“禁售”山东？记者实探",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E2%80%9C%E7%A6%81%E5%94%AE%E2%80%9D%E5%B1%B1%E4%B8%9C%EF%BC%9F%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南方黑芝麻糊配料表黑芝麻排第4",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%85%8D%E6%96%99%E8%A1%A8%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%8E%92%E7%AC%AC4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
