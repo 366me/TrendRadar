@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-21T04:21:25.682304+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-12-21T05:17:54.266480+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 2,
       "titles": [
+        {
+          "title": "广东江门通报“陈皮产地造假”问题",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E9%80%9A%E6%8A%A5%E2%80%9C%E9%99%88%E7%9A%AE%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87%E2%80%9D%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 05时17分]"
+        },
         {
           "title": "山楂树下“禁售”山东？记者实探",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E2%80%9C%E7%A6%81%E5%94%AE%E2%80%9D%E5%B1%B1%E4%B8%9C%EF%BC%9F%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "广东江门通报“陈皮产地造假”问题",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E9%80%9A%E6%8A%A5%E2%80%9C%E9%99%88%E7%9A%AE%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87%E2%80%9D%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 04时21分]"
         }
       ]
     },
@@ -47,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时17分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "ranks": [
             26,
             27,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     }
