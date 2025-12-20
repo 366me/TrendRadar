@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:19:22.317566+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-20T16:26:49.634291+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             4,
             3,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 16时26分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -56,11 +57,12 @@
             10,
             17,
             20,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 16时26分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，报363.13点，本周累计上涨超过0.18%。 在十个板块中，北欧医疗保健板块涨幅最大。 北欧音乐流媒体公司Spotify收涨3.3%，在一众北欧个股里领跑。",
@@ -73,6 +75,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南方黑芝麻糊配料表黑芝麻排第4",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%85%8D%E6%96%99%E8%A1%A8%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%8E%92%E7%AC%AC4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
