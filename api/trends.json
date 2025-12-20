@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T16:26:49.634291+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2025-12-20T17:20:34.988955+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
@@ -42,11 +42,12 @@
             3,
             9,
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
+        },
+        {
+          "title": "鲁豫说健康问题问阿福别再扛着",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AF%B4%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98%E9%97%AE%E9%98%BF%E7%A6%8F%E5%88%AB%E5%86%8D%E6%89%9B%E7%9D%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -89,7 +101,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
