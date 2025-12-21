@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T00:24:11.594553+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-22T01:18:14.501205+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "山楂树下客服回应山东“限售”传闻",
           "url": "https://www.douyin.com/hot/2343186",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
@@ -37,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时18分]"
         }
       ]
     }
