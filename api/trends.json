@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:21:04.624475+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-12-21T19:17:32.875204+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "冬至养生3个秘诀快收藏",
@@ -92,7 +92,7 @@
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "山楂树下饮料被传限售山东 客服回应",
@@ -102,11 +102,12 @@
             4,
             1,
             2,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[14时31分 ~ 19时17分]"
         },
         {
           "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
@@ -117,11 +118,12 @@
             17,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时38分 ~ 19时17分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
@@ -133,11 +135,12 @@
             10,
             11,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 19时17分]"
         },
         {
           "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
@@ -147,8 +150,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时20分 ~ 19时17分]"
         },
         {
           "title": "山楂树下“禁售”山东？记者实探",
@@ -178,6 +181,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时26分 ~ 07时19分]"
+        },
+        {
+          "title": "山楂树下客服回应山东“限售”传闻",
+          "url": "https://www.douyin.com/hot/2343186",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
