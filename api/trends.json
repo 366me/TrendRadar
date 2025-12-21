@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:28:32.330869+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-21T22:19:19.096588+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             6,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时38分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[11时38分 ~ 22时19分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
@@ -105,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "2025金菊花烂片盘点",
@@ -114,11 +115,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
         }
       ]
     },
