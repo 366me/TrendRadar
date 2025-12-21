@@ -1,235 +1,44 @@
 {
-  "generated_at": "2025-12-21T23:19:47.088639+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-22T00:24:11.594553+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "山楂树下饮料被传限售山东 客服回应",
-          "url": "https://www.toutiao.com/trending/7585761444634165275/",
-          "source": "今日头条",
+          "title": "2025金菊花烂片盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E9%87%91%E8%8F%8A%E8%8A%B1%E7%83%82%E7%89%87%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            1,
-            2,
-            5,
-            21,
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 20时39分]"
-        },
-        {
-          "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220866",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            6,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时38分 ~ 22时19分]"
-        },
-        {
-          "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221061",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            11,
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时47分 ~ 21时28分]"
-        },
-        {
-          "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
-          "url": "https://www.zhihu.com/question/1985776930314798510",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时20分 ~ 23时19分]"
-        },
-        {
-          "title": "山楂树下“禁售”山东？记者实探",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E2%80%9C%E7%A6%81%E5%94%AE%E2%80%9D%E5%B1%B1%E4%B8%9C%EF%BC%9F%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20,
-            29,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "广东江门通报“陈皮产地造假”问题",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E9%80%9A%E6%8A%A5%E2%80%9C%E9%99%88%E7%9A%AE%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87%E2%80%9D%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 07时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
           "title": "山楂树下客服回应山东“限售”传闻",
           "url": "https://www.douyin.com/hot/2343186",
           "source": "抖音",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 23时19分]"
-        },
-        {
-          "title": "2025金菊花烂片盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E9%87%91%E8%8F%8A%E8%8A%B1%E7%83%82%E7%89%87%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 23时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "持续加码医保投入 夯实健康中国",
-          "url": "https://www.toutiao.com/trending/7586219038762896905/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时28分]"
-        },
-        {
-          "title": "冬至时节如何养生",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E8%87%B3%E6%97%B6%E8%8A%82%E5%A6%82%E4%BD%95%E5%85%BB%E7%94%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时16分 ~ 07时19分]"
-        },
-        {
-          "title": "冬至养生3个秘诀快收藏",
-          "url": "https://www.baidu.com/s?wd=%E5%86%AC%E8%87%B3%E5%85%BB%E7%94%9F3%E4%B8%AA%E7%A7%98%E8%AF%80%E5%BF%AB%E6%94%B6%E8%97%8F",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时37分]"
-        },
-        {
-          "title": "冬至养生要多“储存”少“透支”",
-          "url": "https://www.toutiao.com/trending/7585748717551288363/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时39分]"
-        },
-        {
-          "title": "冬至养生KPI已就位",
-          "url": "https://www.douyin.com/hot/2342122",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "冬至养生智慧藏在非遗里",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E8%87%B3%E5%85%BB%E7%94%9F%E6%99%BA%E6%85%A7%E8%97%8F%E5%9C%A8%E9%9D%9E%E9%81%97%E9%87%8C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "许多人蹲下突然站起会出现头晕、视物模糊是怎么回事？年轻人频繁出现这种「一过性黑蒙」应警惕哪些健康风险？",
-          "url": "https://www.zhihu.com/question/1982381121384702115",
+          "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
+          "url": "https://www.zhihu.com/question/1985776930314798510",
           "source": "知乎",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "体检报告的这些字眼或是癌症信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E7%9A%84%E8%BF%99%E4%BA%9B%E5%AD%97%E7%9C%BC%E6%88%96%E6%98%AF%E7%99%8C%E7%97%87%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            27,
-            30,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 07时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     }
