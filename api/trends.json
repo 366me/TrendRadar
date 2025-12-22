@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T18:23:20.598791+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-12-22T19:19:56.024743+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时19分]"
         },
         {
           "title": "山楂树下饮料被传限售山东 客服回应",
