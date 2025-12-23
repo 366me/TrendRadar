@@ -1,62 +1,22 @@
 {
-  "generated_at": "2025-12-23T23:22:33.416109+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2025-12-24T00:28:34.440884+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "广西浦北县再通报：对“速成工艺陈皮”方式加工的浦北陈皮予以禁止",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32226930",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时27分]"
-        },
         {
           "title": "饮料不往山东发,山楂树下净搞事",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348258&amp;topic_name=%E9%A5%AE%E6%96%99%E4%B8%8D%E5%BE%80%E5%B1%B1%E4%B8%9C%E5%8F%91%2C%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E5%87%80%E6%90%9E%E4%BA%8B",
           "source": "贴吧",
           "ranks": [
-            8,
-            10,
-            13,
-            14,
-            16,
-            18,
-            19,
-            21,
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时37分 ~ 23时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3025065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时18分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
