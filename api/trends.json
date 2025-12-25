@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T14:34:24.833006+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2025-12-25T15:22:38.323908+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 15时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "离婚女搞百合,带6娃办订婚宴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348384&amp;topic_name=%E7%A6%BB%E5%A9%9A%E5%A5%B3%E6%90%9E%E7%99%BE%E5%90%88%2C%E5%B8%A66%E5%A8%83%E5%8A%9E%E8%AE%A2%E5%A9%9A%E5%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
