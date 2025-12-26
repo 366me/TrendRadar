@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:42:16.917253+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-12-26T21:33:36.582753+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             14,
             13,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时33分]"
         },
         {
           "title": "有精神健康风险的药不止孟鲁司特钠",
@@ -99,8 +100,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 21时33分]"
         }
       ]
     }
