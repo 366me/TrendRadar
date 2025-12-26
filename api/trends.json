@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T21:33:36.582753+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-12-26T22:21:11.637954+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[16时28分 ~ 22时21分]"
         },
         {
           "title": "有精神健康风险的药不止孟鲁司特钠",
@@ -58,28 +58,8 @@
       ]
     },
     {
-      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "南方黑芝麻糊被指「主角不是黑芝麻」，企业回应符合国标，这合理吗？算是虚假宣传吗？",
-          "url": "https://www.zhihu.com/question/1987105595338282062",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "离婚女搞百合,带6娃办订婚宴",
@@ -100,8 +80,39 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 21时33分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 22时21分]"
+        },
+        {
+          "title": "苏新皓薄荷发",
+          "url": "https://www.douyin.com/hot/2347702",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南方黑芝麻糊被指「主角不是黑芝麻」，企业回应符合国标，这合理吗？算是虚假宣传吗？",
+          "url": "https://www.zhihu.com/question/1987105595338282062",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         }
       ]
     }
