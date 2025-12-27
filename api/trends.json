@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:22:11.102455+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-27T14:32:15.358016+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "研究称饭后「边放屁边散步」对身体很健康，是真的吗？为什么会这样？",
+          "url": "https://www.zhihu.com/question/1983896489643173588",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 14时32分]"
+        },
+        {
           "title": "本周，标普累涨约1.4%，道指累涨1.1%，纳指累涨1.2%，半导体指数累涨2.1%，科技股七巨头指数累涨1.7%，生物科技指数累涨1.2%，银行指数累涨1.7%。 周五当天，标普500指数初步微幅收跌不到0.01%，可选消费、能源、金融、电信等板块至多跌0.4%，科技板块涨0.2%。 纳斯达克100指数初步收跌0.08%，成分股中，Workday、TTWO、拼多多、TEAM、西部数据、英伟达至多涨1.8%，Arm控股跌1.2%，华纳兄弟探索跌1.2%，Applovin与特斯拉跌2.1%，Palantir跌2.8%。 迪士尼、麦当劳、迪士尼跌超0.7%，3M涨1%，联合健康涨1.12%，耐克涨1.4%，与英伟达领跑。",
           "url": "https://wallstreetcn.com/livenews/3027460",
           "source": "华尔街见闻-快讯",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "研究称饭后「边放屁边散步」对身体很健康，是真的吗？为什么会这样？",
-          "url": "https://www.zhihu.com/question/1983896489643173588",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 13时22分]"
         },
         {
           "title": "美国纽约将要求社交媒体平台显示心理健康警示",
@@ -58,7 +59,7 @@
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "离婚女搞百合,带6娃办订婚宴",
@@ -71,6 +72,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 09时40分]"
+        },
+        {
+          "title": "山楂是结节克星",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%A5%82%E6%98%AF%E7%BB%93%E8%8A%82%E5%85%8B%E6%98%9F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         }
       ]
     }
