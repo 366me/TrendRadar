@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T11:23:52.795146+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2025-12-27T12:33:13.337408+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "「零负债人群」一词近日走红，这类人拒绝高奢消费但追求身心健康，如何看待这种生活态度？",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时19分]"
+        },
+        {
+          "title": "研究称饭后「边放屁边散步」对身体很健康，是真的吗？为什么会这样？",
+          "url": "https://www.zhihu.com/question/1983896489643173588",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         }
       ]
     },
