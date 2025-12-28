@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:21:36.955558+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-28T18:21:22.452494+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             6,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 18时21分]"
         },
         {
           "title": "女子花上万元跟主播养胃暴瘦30斤",
