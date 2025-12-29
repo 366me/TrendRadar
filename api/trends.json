@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T14:36:12.442933+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-29T15:26:26.392912+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             26,
             6,
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时26分]"
         },
         {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
