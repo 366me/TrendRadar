@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T15:23:10.498623+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2025-12-30T16:31:08.937153+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "医生称薯片是垃圾食品中的垃圾食品，第二是汽水、奶茶，怎样看待这一说法？吃薯片对健康影响真的那么大吗？",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "高三男生自学中医 同学们排队把脉",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%87%AA%E5%AD%A6%E4%B8%AD%E5%8C%BB+%E5%90%8C%E5%AD%A6%E4%BB%AC%E6%8E%92%E9%98%9F%E6%8A%8A%E8%84%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "把百年人生计划写入健康新一年",
