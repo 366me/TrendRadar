@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T17:26:15.234775+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-30T18:24:12.844018+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[09时43分 ~ 11时28分]"
         },
         {
+          "title": "高三男生自学中医 同学们排队把脉",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%87%AA%E5%AD%A6%E4%B8%AD%E5%8C%BB+%E5%90%8C%E5%AD%A6%E4%BB%AC%E6%8E%92%E9%98%9F%E6%8A%8A%E8%84%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 18时24分]"
+        },
+        {
           "title": "鸡蛋每周吃几个最健康",
           "url": "https://www.toutiao.com/trending/7589129683985383466/",
           "source": "今日头条",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "高三男生自学中医 同学们排队把脉",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%87%AA%E5%AD%A6%E4%B8%AD%E5%8C%BB+%E5%90%8C%E5%AD%A6%E4%BB%AC%E6%8E%92%E9%98%9F%E6%8A%8A%E8%84%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 17时26分]"
         },
         {
           "title": "把百年人生计划写入健康新一年",
