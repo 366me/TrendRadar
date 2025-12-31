@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T22:21:10.517111+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2025-12-31T23:21:49.860165+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "05时20分"
         },
         {
+          "title": "邓超四旬老人全开麦唱跳气血好足",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E8%B6%85%E5%9B%9B%E6%97%AC%E8%80%81%E4%BA%BA%E5%85%A8%E5%BC%80%E9%BA%A6%E5%94%B1%E8%B7%B3%E6%B0%94%E8%A1%80%E5%A5%BD%E8%B6%B3",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时21分]"
+        },
+        {
           "title": "你如何看高中生自学中医开起“诊室”",
           "url": "https://www.toutiao.com/trending/7589287905986707510/",
           "source": "今日头条",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 15时24分]"
-        },
-        {
-          "title": "邓超四旬老人全开麦唱跳气血好足",
-          "url": "https://www.baidu.com/s?wd=%E9%82%93%E8%B6%85%E5%9B%9B%E6%97%AC%E8%80%81%E4%BA%BA%E5%85%A8%E5%BC%80%E9%BA%A6%E5%94%B1%E8%B7%B3%E6%B0%94%E8%A1%80%E5%A5%BD%E8%B6%B3",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时21分]"
         },
         {
           "title": "半个娱乐圈都开始卷健康了",
