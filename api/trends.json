@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T14:34:29.306939+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-01-02T15:24:43.704944+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时24分]"
         },
         {
           "title": "在过去的一年，什么时候你突然意识到「身心健康」比想象的更重要？你是怎样学着，照顾自己的？",
