@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:20:32.130828+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-01-03T16:27:57.128185+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             14,
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 16时27分]"
         },
         {
           "title": "建议气血不足的人痛痛快快唱歌",
