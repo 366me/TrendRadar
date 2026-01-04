@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T19:17:58.981807+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-01-04T20:41:01.284967+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             8,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时51分 ~ 20时41分]"
         },
         {
           "title": "医生：“秒睡”背后或隐藏健康隐患",
@@ -56,6 +57,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "车厘子含褪黑素能助眠？专家提醒",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E8%83%BD%E5%8A%A9%E7%9C%A0%EF%BC%9F%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         }
       ]
     }
