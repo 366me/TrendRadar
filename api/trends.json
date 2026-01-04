@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T16:28:25.677912+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-01-04T17:20:36.027500+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 17时20分]"
         },
         {
           "title": "医生：“秒睡”背后或隐藏健康隐患",
