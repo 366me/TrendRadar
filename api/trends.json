@@ -1,86 +1,22 @@
 {
-  "generated_at": "2026-01-05T23:25:37.704491+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2026-01-06T00:28:46.627599+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国银行全球研究部：将联合健康(UNH.N)目标价从84美元上调至87美元。",
-          "url": "https://flash.jin10.com/detail/20260105212359311800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时25分]"
-        },
-        {
-          "title": "医生提醒4件事很伤免疫力",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%924%E4%BB%B6%E4%BA%8B%E5%BE%88%E4%BC%A4%E5%85%8D%E7%96%AB%E5%8A%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "车厘子含褪黑素能助眠？专家提醒",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E8%83%BD%E5%8A%A9%E7%9C%A0%EF%BC%9F%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "车厘子助眠得论吨吃",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E5%8E%98%E5%AD%90%E5%8A%A9%E7%9C%A0%E5%BE%97%E8%AE%BA%E5%90%A8%E5%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9,
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 14时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧尔班否认将转向总统制 重申将继续作为总理候选人参选",
-          "url": "https://flash.jin10.com/detail/20260105200542116800",
-          "source": "金十数据",
+          "title": "医生提醒4件事很伤免疫力",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%924%E4%BB%B6%E4%BA%8B%E5%BE%88%E4%BC%A4%E5%85%8D%E7%96%AB%E5%8A%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "00时28分"
         }
       ]
     }
