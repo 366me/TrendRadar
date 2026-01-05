@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:21:02.849950+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-01-06T04:26:29.435526+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             26,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "委内瑞拉总统马杜罗的律师：马杜罗有一些健康问题，（马杜罗妻子）弗洛雷斯受伤了，肋骨出现了瘀伤。",
