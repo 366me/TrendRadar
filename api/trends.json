@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T07:20:24.658286+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-01-05T09:54:18.764543+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "车厘子含褪黑素能助眠？专家提醒",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "车厘子助眠得论吨吃",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E5%8E%98%E5%AD%90%E5%8A%A9%E7%9C%A0%E5%BE%97%E8%AE%BA%E5%90%A8%E5%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
