@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T22:24:08.630210+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-01-06T23:24:21.068692+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时24分]"
         },
         {
           "title": "中韩双方同意有序开展健康文化交流",
@@ -103,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时44分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[20时44分 ~ 23时24分]"
         }
       ]
     }
