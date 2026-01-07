@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T01:26:51.883241+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-01-08T02:34:07.898928+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "三九天养生的“三宜三忌”",
+          "url": "https://www.toutiao.com/trending/7591700019120848942/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 02时34分]"
+        },
+        {
           "title": "白宫新闻发言人卡罗琳·莱维特 (Karoline Leavitt) ：这些（关于营养/膳食的）新指南是以关于健康和营养的最优秀、最可靠的研究为依据的，特别是针对饮食在我国慢性病流行中所起的作用。 这些指南易于阅读和理解，因此无论是年轻人还是老年人，每位美国人都能获得这些足以改变生活的信息。",
           "url": "https://wallstreetcn.com/livenews/3032608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "三九天养生的“三宜三忌”",
-          "url": "https://www.toutiao.com/trending/7591700019120848942/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
