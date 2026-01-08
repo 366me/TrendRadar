@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T17:28:54.691792+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-01-08T18:25:43.977913+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时26分 ~ 07时21分]"
+        },
+        {
+          "title": "气血不足的人大多有这些习惯",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B9%A0%E6%83%AF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时25分]"
         },
         {
           "title": "为什么HPV是男性健康刺客",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "气血不足的人大多有这些习惯",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%9C%89%E8%BF%99%E4%BA%9B%E4%B9%A0%E6%83%AF%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         }
       ]
     }
