@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:20:43.919776+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-01-10T04:26:11.422138+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时26分]"
         },
         {
           "title": "美联储巴尔金：需求增长似乎仍然相当健康。",
