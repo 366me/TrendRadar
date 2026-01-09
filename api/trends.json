@@ -1,119 +1,22 @@
 {
-  "generated_at": "2026-01-09T23:25:10.805083+08:00",
-  "total_titles_processed": 2203,
+  "generated_at": "2026-01-10T00:29:06.356237+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "苹果养生吃法不只煮水",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%BB%E7%94%9F%E5%90%83%E6%B3%95%E4%B8%8D%E5%8F%AA%E7%85%AE%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时26分 ~ 09时45分]"
-        },
-        {
-          "title": "自繁自养生猪养殖利润与外购仔猪养殖利润",
-          "url": "https://flash.jin10.com/detail/20260109120848222800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时26分]"
-        },
         {
           "title": "如何看国际空间站乘组因健康提前返回",
           "url": "https://www.toutiao.com/trending/7592996062500634633/",
           "source": "今日头条",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时24分 ~ 23时25分]"
-        },
-        {
-          "title": "土耳其副总统：若通胀以健康方式下降，降低利率不会引发资金流出里拉。",
-          "url": "https://flash.jin10.com/detail/20260109150409600800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "市场消息：未指明的宇航员健康问题迫使美国航空航天局（NASA）提前将“Crew-11”任务机组从国际空间站接回。",
-          "url": "https://flash.jin10.com/detail/20260109061719831800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国众议院筹款委员会邀请五大健康保险公司出席1月22日的听证会。",
-          "url": "https://flash.jin10.com/detail/20260108231618716800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国11月未季调经常帐 122.4亿美元，前值68.138亿美元。",
-          "url": "https://flash.jin10.com/detail/20260109070002163800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "土耳其副总统：我们可以根据形势微调经济计划，紧缩的经济政策将毫不间断地持续下去。",
-          "url": "https://flash.jin10.com/detail/20260109150452212800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "日本央行可能上调经济增长预测，维持本月利率不变",
-          "url": "https://wallstreetcn.com/livenews/3033823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     }
