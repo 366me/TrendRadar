@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T07:19:46.065517+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-01-09T09:45:50.833675+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 07时19分]"
+          "appearance_count": 6,
+          "time_info": "[04时26分 ~ 09时45分]"
         },
         {
           "title": "市场消息：未指明的宇航员健康问题迫使美国航空航天局（NASA）提前将“Crew-11”任务机组从国际空间站接回。",
@@ -27,7 +27,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -55,7 +55,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
