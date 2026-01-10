@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:21:13.948316+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-01-10T18:21:51.818363+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 18时21分]"
         },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
