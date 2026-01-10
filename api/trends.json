@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T09:42:31.366189+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-01-10T11:25:14.516488+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[02时33分 ~ 04时26分]"
         },
         {
+          "title": "小城大事全员挑战16步气血舞",
+          "url": "https://www.douyin.com/hot/2362743",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时25分]"
+        },
+        {
           "title": "美联储巴尔金：需求增长似乎仍然相当健康。",
           "url": "https://flash.jin10.com/detail/20260110021611887800",
           "source": "金十数据",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "小城大事全员挑战16步气血舞",
-          "url": "https://www.douyin.com/hot/2362743",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
         },
         {
           "title": "本周，标普累涨约1.7%，道指累涨2.3%，纳指累涨1.9%，半导体指数累涨4%，银行指数涨2.2%。 标普500指数初步收涨0.7%，原材料、公用事业、可选消费、工业、日用品板块涨超1%，科技板块涨0.9%，保健板块跌0.5%。 纳斯达克100指数初步收涨1%，成分股中，英特尔初步收跌10.9%，拉姆研究涨9%，应用材料涨7.4%，阿斯麦ADR、希捷科技、西部数据、核电股CEG涨超6%，Datadog跌4.1%，CoStar跌4.7%，Strategy跌5.6%。 家得宝初步收涨4.3%，SHW涨3.4%，波音涨3%，雪佛龙涨1.8%，可口可乐涨1.7%，领跑道指成分股，联合健康跌0.9%，安进跌1.2%，美国运通跌1.8%。",
