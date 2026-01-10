@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:20:18.364577+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-10T16:27:24.804059+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "url": "https://www.zhihu.com/question/1992533209943126108",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
         },
         {
           "title": "美联储巴尔金：需求增长似乎仍然相当健康。",
