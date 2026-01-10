@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T19:18:23.989146+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-01-10T20:40:16.120966+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             18,
             14,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 20时40分]"
         },
         {
           "title": "小城大事全员挑战16步气血舞",
