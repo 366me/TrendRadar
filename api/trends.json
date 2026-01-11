@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T18:22:24.870515+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-01-11T19:18:15.742469+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王腾离开小米后成立新公司「今日宜休」，将研发睡眠健康相关产品，如何看待这一创业选择？你看好吗？",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "商务部：深入实施提振消费专项行动，打造“购在中国”品牌 发展健康消费",
+          "url": "https://www.cls.cn/detail/2254008",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "花1万6买所谓神药竟是普通保健品",
