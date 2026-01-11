@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T05:19:52.099247+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-01-12T06:20:54.894934+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "人参酒里泡3年突然长出绿叶",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     }
