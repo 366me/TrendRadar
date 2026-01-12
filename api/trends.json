@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T06:20:01.278762+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-01-13T07:18:13.777927+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "美国共和党参议员Dave McCormick声明：不认为美联储主席杰罗姆·鲍威尔存在刑事罪行。 坚信美联储应该保持独立。（Politico）",
