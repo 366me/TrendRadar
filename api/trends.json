@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T19:21:36.089137+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-01-12T20:48:50.427586+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "酒里泡了3年的人参突然长出绿叶",
@@ -132,6 +132,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367847",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "苏新皓薄荷绿返场",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E8%96%84%E8%8D%B7%E7%BB%BF%E8%BF%94%E5%9C%BA&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -157,11 +168,12 @@
             7,
             5,
             4,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时50分 ~ 20时48分]"
         }
       ]
     }
