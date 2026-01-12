@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T20:48:50.427586+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-01-12T21:43:19.982765+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -121,6 +121,18 @@
           "time_info": "09时50分"
         },
         {
+          "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367847",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时43分]"
+        },
+        {
           "title": "美国共和党参议员蒂利斯：在鲍威尔的法律案件解决之前，不会确认美联储的任何提名人选，包括主席。",
           "url": "https://flash.jin10.com/detail/20260112090921745800",
           "source": "金十数据",
@@ -130,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367847",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "苏新皓薄荷绿返场",
@@ -157,7 +158,7 @@
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "车厘子因含天然助眠成分褪黑素引发热议，得一口气吃多少斤，才可能对睡眠产生实际作用？",
@@ -174,6 +175,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时50分 ~ 20时48分]"
+        },
+        {
+          "title": "德国11月未季调经常帐 151亿欧元，前值148亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260112213404080800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     }
