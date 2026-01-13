@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:25:44.927365+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-01-13T16:32:10.720207+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时32分]"
         },
         {
           "title": "气血足的人头发有3个特征",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 13时26分]"
+        },
+        {
+          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
+          "url": "https://www.cls.cn/detail/2255961",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -62,6 +74,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "50 度散白酒里泡了三年的人参突然长出了绿叶，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/1993980728833232970",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 16时32分]"
+        },
+        {
           "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32367847",
           "source": "澎湃新闻",
@@ -75,19 +101,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 09时42分]"
-        },
-        {
-          "title": "50 度散白酒里泡了三年的人参突然长出了绿叶，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/1993980728833232970",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时25分]"
         },
         {
           "title": "美国共和党参议员Dave McCormick声明：不认为美联储主席杰罗姆·鲍威尔存在刑事罪行。 坚信美联储应该保持独立。（Politico）",
