@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-14T06:22:47.725065+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-01-14T07:20:55.483372+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 4,
       "titles": [
+        {
+          "title": "这8个习惯很容易带走气血",
+          "url": "https://www.toutiao.com/trending/7594648577759444998/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时20分]"
+        },
         {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
           "url": "https://wallstreetcn.com/livenews/3036380",
@@ -32,25 +45,13 @@
           "time_info": "[01时27分 ~ 02时32分]"
         },
         {
-          "title": "这8个习惯很容易带走气血",
-          "url": "https://www.toutiao.com/trending/7594648577759444998/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时22分]"
-        },
-        {
           "title": "美国总统特朗普：将与保险公司会面讨论医疗保健事宜。",
           "url": "https://flash.jin10.com/detail/20260114055312582800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -68,11 +69,12 @@
             3,
             20,
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时20分]"
         }
       ]
     }
