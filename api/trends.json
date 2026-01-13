@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T16:32:10.720207+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-01-13T17:29:17.551250+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 17时29分]"
+        },
+        {
+          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
+          "url": "https://www.cls.cn/detail/2255961",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "气血足的人头发有3个特征",
@@ -32,17 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 13时26分]"
-        },
-        {
-          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
-          "url": "https://www.cls.cn/detail/2255961",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -84,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 17时29分]"
         },
         {
           "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
