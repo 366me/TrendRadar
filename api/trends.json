@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-13T14:35:11.511369+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-01-13T15:25:44.927365+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 4,
       "titles": [
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时25分]"
+        },
         {
           "title": "气血足的人头发有3个特征",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%A4%B4%E5%8F%91%E6%9C%893%E4%B8%AA%E7%89%B9%E5%BE%81%23&t=31&band_rank=23&Refer=top",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时20分]"
-        },
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "OpenAI收购医疗保健初创公司Torch",
@@ -85,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 15时25分]"
         },
         {
           "title": "美国共和党参议员Dave McCormick声明：不认为美联储主席杰罗姆·鲍威尔存在刑事罪行。 坚信美联储应该保持独立。（Politico）",
