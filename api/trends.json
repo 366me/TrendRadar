@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T18:25:38.610193+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-13T19:21:21.349861+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "气血足的人头发有3个特征",
@@ -82,11 +83,12 @@
             12,
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 19时21分]"
         },
         {
           "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
