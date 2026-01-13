@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:26:31.218199+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-01-13T23:26:34.945715+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -110,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时28分 ~ 22时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时28分 ~ 23时26分]"
         },
         {
           "title": "重庆合川文旅回应“呆呆吆喝杀年猪吸引上千人参与”：不是联合炒作，会尽力做好该做的",
