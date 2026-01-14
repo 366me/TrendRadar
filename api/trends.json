@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:30:17.182789+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-01-14T18:26:10.514963+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "50 度散白酒里泡了三年的人参突然长出了绿叶，这是怎么回事？",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时20分]"
+        },
+        {
+          "title": "某独居人群签到监控 App 股份报价 3 天翻近 10 倍，60 位投资人参与竞价，这股热潮能持续多久？为什么投资人这么看好？",
+          "url": "https://www.zhihu.com/question/1994464310685037962",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         }
       ]
     }
