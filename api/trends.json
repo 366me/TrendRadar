@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:35:25.312745+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-14T15:26:16.642254+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 09时49分]"
+        },
+        {
+          "title": "瘦胖子可能比纯胖更不健康",
+          "url": "https://www.baidu.com/s?wd=%E7%98%A6%E8%83%96%E5%AD%90%E5%8F%AF%E8%83%BD%E6%AF%94%E7%BA%AF%E8%83%96%E6%9B%B4%E4%B8%8D%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时26分]"
         },
         {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "瘦胖子可能比纯胖更不健康",
-          "url": "https://www.baidu.com/s?wd=%E7%98%A6%E8%83%96%E5%AD%90%E5%8F%AF%E8%83%BD%E6%AF%94%E7%BA%AF%E8%83%96%E6%9B%B4%E4%B8%8D%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
