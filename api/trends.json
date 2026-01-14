@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:48:18.501504+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-14T12:47:28.464842+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "这8个习惯很容易带走气血",
@@ -56,6 +56,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "世卫组织呼吁提高含糖和酒精饮料价格：“健康税”可改善公共健康",
+          "url": "https://www.cls.cn/detail/2256831",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "59岁产妇57岁开始调理身体",
           "url": "https://s.weibo.com/weibo?q=%2359%E5%B2%81%E4%BA%A7%E5%A6%8757%E5%B2%81%E5%BC%80%E5%A7%8B%E8%B0%83%E7%90%86%E8%BA%AB%E4%BD%93%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -73,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
