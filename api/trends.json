@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:35:12.135679+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-01-15T15:26:30.246699+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             14,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时26分]"
         },
         {
           "title": "国际空间站4名宇航员因健康提前返航",
