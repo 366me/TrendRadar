@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T11:42:07.303893+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-01-15T12:41:26.519716+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1994740498020132568",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时41分]"
         },
         {
           "title": "国际空间站4名宇航员因健康提前返航",
