@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T18:26:10.897323+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-01-15T19:21:21.006407+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             10,
             11,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时41分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 19时21分]"
         },
         {
           "title": "9图看2025年健康中国答卷",
@@ -30,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "国际空间站4名宇航员因健康提前返航",
