@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T05:22:17.918387+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-16T06:22:49.099887+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -77,9 +77,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国共和党参议员Graham：将前往以色列会见以色列总理内塔尼亚胡及其团队。",
+          "url": "https://flash.jin10.com/detail/20260116050748038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     }
