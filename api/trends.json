@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:21:21.006407+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2026-01-15T20:46:26.022828+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             11,
             12,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[11时41分 ~ 20时46分]"
         },
         {
           "title": "9图看2025年健康中国答卷",
