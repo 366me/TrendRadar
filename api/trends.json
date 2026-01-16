@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T11:40:51.083197+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-16T12:40:47.251639+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时32分]"
+        },
+        {
+          "title": "跑5公里和走5公里哪个更健康",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%915%E5%85%AC%E9%87%8C%E5%92%8C%E8%B5%B05%E5%85%AC%E9%87%8C%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：医疗保健计划对现存条件没有影响。",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "跑5公里和走5公里哪个更健康",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%915%E5%85%AC%E9%87%8C%E5%92%8C%E8%B5%B05%E5%85%AC%E9%87%8C%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "礼来制药跌3.3%，在标普500医疗保健指数的成分股中表现最差。",
