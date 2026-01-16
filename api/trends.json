@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T17:27:52.119269+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-01-16T18:25:15.204289+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "跑5公里和走5公里哪个更健康",
@@ -15,11 +15,12 @@
             22,
             8,
             7,
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时25分]"
         },
         {
           "title": "习近平会见加拿大总理：中加关系健康稳定发展符合两国共同利益",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时26分]"
+        },
+        {
+          "title": "【数据看盘】多家顶级游资逆势抢筹美年健康 外资、机构激烈博弈思源电气",
+          "url": "https://www.cls.cn/detail/2260455",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -103,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 18时25分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：（被问及IMF是否会再次小幅上调经济预测）在不作进一步说明的情况下，预计“大致相同”。",
