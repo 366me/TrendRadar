@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:23:23.433989+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-01-17T12:33:21.139179+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
