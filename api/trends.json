@@ -1,130 +1,22 @@
 {
-  "generated_at": "2026-01-17T23:20:47.697809+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-01-18T00:24:24.761850+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【数据看盘】多家顶级游资逆势抢筹美年健康 外资、机构激烈博弈思源电气",
-          "url": "https://www.cls.cn/detail/2260455",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "黄龄李佳薇咕叽咕叽气血满分",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%BE%84%E6%9D%8E%E4%BD%B3%E8%96%87%E5%92%95%E5%8F%BD%E5%92%95%E5%8F%BD%E6%B0%94%E8%A1%80%E6%BB%A1%E5%88%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 12时33分]"
-        },
-        {
-          "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
-          "url": "https://wallstreetcn.com/livenews/3038921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时25分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第八个交易日走高，报391.59点，创3月份以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Kongsberg Gruppen ASA涨9.5%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3038939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "教师的心理健康需引起高度重视",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E9%9C%80%E5%BC%95%E8%B5%B7%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：资金直接转入健康储蓄账户。",
-          "url": "https://flash.jin10.com/detail/20260116234911410800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美共和党参议员：格陵兰岛不应被视为“资产”",
-          "url": "https://wallstreetcn.com/livenews/3038971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时22分]"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
       "match_count": 1,
       "titles": [
         {
-          "title": "爸妈体检报告这行字很多人没看懂",
-          "url": "https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E8%BF%99%E8%A1%8C%E5%AD%97%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E7%9C%8B%E6%87%82&t=31&band_rank=22&Refer=top",
+          "title": "体检报告里这些字眼或是癌症信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E9%87%8C%E8%BF%99%E4%BA%9B%E5%AD%97%E7%9C%BC%E6%88%96%E6%98%AF%E7%99%8C%E7%97%87%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            22,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     }
