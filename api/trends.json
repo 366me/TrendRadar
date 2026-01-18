@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:29:36.189630+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-01-18T22:19:31.253901+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[11时47分 ~ 22时19分]"
         },
         {
           "title": "央视曝光养生馆高价清淤术",
@@ -73,11 +73,12 @@
           "url": "https://flash.jin10.com/detail/20260118202607318800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时19分]"
         }
       ]
     },
