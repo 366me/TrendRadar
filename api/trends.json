@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:16:32.067762+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-19T04:23:19.467909+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "研究发现小腿肌肉多死亡率降一半，这对普通人健康管理有何意义？",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时23分]"
         }
       ]
     }
