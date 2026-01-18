@@ -1,107 +1,22 @@
 {
-  "generated_at": "2026-01-18T23:20:44.024294+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-01-19T00:25:33.703045+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "研究发现小腿肌肉多死亡率降一半，这对普通人健康管理有何意义？",
-          "url": "https://www.zhihu.com/question/1994352141670830770",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            9,
-            7,
-            5,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时29分 ~ 13时24分]"
-        },
         {
           "title": "古天乐被曝拍戏时每晚照美黑灯，长期照美黑灯对健康有影响吗？",
           "url": "https://www.zhihu.com/question/1993227439833313792",
           "source": "知乎",
           "ranks": [
-            14,
-            17,
-            13,
-            10,
-            6,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时47分 ~ 23时20分]"
-        },
-        {
-          "title": "央视曝光养生馆高价清淤术",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%BB%E7%94%9F%E9%A6%86%E9%AB%98%E4%BB%B7%E6%B8%85%E6%B7%A4%E6%9C%AF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "女生有点小肚子更健康",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%89%E7%82%B9%E5%B0%8F%E8%82%9A%E5%AD%90%E6%9B%B4%E5%81%A5%E5%BA%B7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "葡萄牙18日举行总统选举，共有创纪录的11名候选人参选。",
-          "url": "https://flash.jin10.com/detail/20260118202607318800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "体检报告里这些字眼或是癌症信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E9%87%8C%E8%BF%99%E4%BA%9B%E5%AD%97%E7%9C%BC%E6%88%96%E6%98%AF%E7%99%8C%E7%97%87%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22,
-            30,
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "time_info": "00时25分"
         }
       ]
     }
