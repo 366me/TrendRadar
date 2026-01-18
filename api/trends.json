@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T19:18:03.559995+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-18T20:40:37.949731+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             17,
             13,
             10,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[11时47分 ~ 20时40分]"
         },
         {
           "title": "央视曝光养生馆高价清淤术",
