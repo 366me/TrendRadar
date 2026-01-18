@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:40:37.949731+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-01-18T21:29:36.189630+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时47分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[11时47分 ~ 21时29分]"
         },
         {
           "title": "央视曝光养生馆高价清淤术",
@@ -61,6 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "葡萄牙18日举行总统选举，共有创纪录的11名候选人参选。",
+          "url": "https://flash.jin10.com/detail/20260118202607318800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     },
