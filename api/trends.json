@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:31:09.189912+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-01-19T19:22:25.254130+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "首次制定发布！中医体质分类与判定有了国家标准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 19时22分]"
+        },
+        {
           "title": "研究发现小腿肌肉多死亡率降一半，这对普通人健康管理有何意义？",
           "url": "https://www.zhihu.com/question/1994352141670830770",
           "source": "知乎",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 06时20分]"
-        },
-        {
-          "title": "首次制定发布！中医体质分类与判定有了国家标准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 18时31分]"
         },
         {
           "title": "恒指低开0.76%，报26641.60点；恒生科技指数跌0.77%。京东健康跌近3%，哔哩哔哩、阿里巴巴跌超2%。",
