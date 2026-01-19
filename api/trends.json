@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T15:29:40.390351+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-01-19T16:34:22.802222+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时34分]"
         },
         {
           "title": "恒指低开0.76%，报26641.60点；恒生科技指数跌0.77%。京东健康跌近3%，哔哩哔哩、阿里巴巴跌超2%。",
