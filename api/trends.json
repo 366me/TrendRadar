@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T17:34:13.275073+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-01-20T18:29:00.119526+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.toutiao.com/trending/7596128924745629738/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "百度文心助手月活超2亿，已接入百度健康、地图等产品和京东等外部MCP工具",
@@ -55,7 +56,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
