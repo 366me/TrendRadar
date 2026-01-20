@@ -1,93 +1,22 @@
 {
-  "generated_at": "2026-01-20T23:32:07.804849+08:00",
-  "total_titles_processed": 2096,
+  "generated_at": "2026-01-21T00:37:21.919259+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "首次制定发布！中医体质分类与判定有了国家标准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时46分]"
-        },
-        {
-          "title": "国医大师喊你记住养生2宜2忌",
-          "url": "https://www.toutiao.com/trending/7596128924745629738/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 20时52分]"
-        },
-        {
-          "title": "百度文心助手月活超2亿，已接入百度健康、地图等产品和京东等外部MCP工具",
-          "url": "https://wallstreetcn.com/livenews/3040238",
+          "title": "明晟公司MSCI北欧国家指数涨0.2%，报384.64点，周一重挫2.0%。 在十个板块中，北欧医疗保健板块涨幅最大。 蓝筹股诺和诺德涨3.2%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3040598",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "你觉得不好看其实超健康的特点",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%B8%8D%E5%A5%BD%E7%9C%8B%E5%85%B6%E5%AE%9E%E8%B6%85%E5%81%A5%E5%BA%B7%E7%9A%84%E7%89%B9%E7%82%B9&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧元区11月未季调经常帐 125.74亿欧元，前值320亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260120170206343800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宋轶的裙子上有99朵玫瑰花",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%9A%84%E8%A3%99%E5%AD%90%E4%B8%8A%E6%9C%8999%E6%9C%B5%E7%8E%AB%E7%91%B0%E8%8A%B1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "00时37分"
         }
       ]
     }
