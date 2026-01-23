@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:26:48.971378+08:00",
-  "total_titles_processed": 2134,
+  "generated_at": "2026-01-23T23:27:01.314725+08:00",
+  "total_titles_processed": 2241,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "八部门发布《可能影响未成年人身心健康的网络信息分类办法》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32449115",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "媒体：莫让过度加班拖垮打工人健康",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "八部门发布《可能影响未成年人身心健康的网络信息分类办法》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32449115",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "国家互联网信息办公室等八部门发布《可能影响未成年人身心健康的网络信息分类办法》",
