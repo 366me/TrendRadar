@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:18:51.109925+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-01-25T02:31:32.206467+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32456711",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "“十四五”时期我国发布34项中医国家标准",
@@ -26,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "“十四五”时期我国发布34项中医国家标准",
@@ -37,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     }
