@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:19:03.860528+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-01-24T20:41:34.531968+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "我国旅客列车室内二氧化碳浓度标准限值为2500ppm 限值内浓度对旅客健康无影响",
