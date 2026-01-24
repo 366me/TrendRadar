@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:43:34.049921+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-01-24T11:27:57.081298+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 场景类关键词 ===== 秋冬养生 春季养肝 夏季祛湿 立冬进补 三伏养阳 熬夜养生 办公室养生 学生党养生 年轻人养生 中老年健康 女性调理 男性保养 亚健康 保温杯 泡脚桶 按摩仪 艾灸仪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "买钻戒送的足银保温杯身价反超钻戒",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E9%92%BB%E6%88%92%E9%80%81%E7%9A%84%E8%B6%B3%E9%93%B6%E4%BF%9D%E6%B8%A9%E6%9D%AF%E8%BA%AB%E4%BB%B7%E5%8F%8D%E8%B6%85%E9%92%BB%E6%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }
