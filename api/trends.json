@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:41:34.531968+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-01-24T21:31:49.343784+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "动车组专家：我国旅客列车室内二氧化碳浓度标准限值为2500ppm，限值内浓度对健康无影响",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456711",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 21时31分]"
+        },
+        {
           "title": "有旅客称高铁内二氧化碳浓度超标，铁路客服回应会实时换气保证空气清新，二氧化碳浓度超标会影响健康吗？",
           "url": "https://www.zhihu.com/question/1998069645777847104",
           "source": "知乎",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时22分 ~ 19时19分]"
-        },
-        {
-          "title": "动车组专家：我国旅客列车室内二氧化碳浓度标准限值为2500ppm，限值内浓度对健康无影响",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456711",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "我国旅客列车室内二氧化碳浓度标准限值为2500ppm 限值内浓度对旅客健康无影响",
