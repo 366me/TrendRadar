@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T18:22:16.663921+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-24T19:19:03.860528+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,24 @@
             14,
             7,
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 19时19分]"
+        },
+        {
+          "title": "动车组专家：我国旅客列车室内二氧化碳浓度标准限值为2500ppm，限值内浓度对健康无影响",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456711",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时19分]"
         },
         {
           "title": "我国旅客列车室内二氧化碳浓度标准限值为2500ppm 限值内浓度对旅客健康无影响",
@@ -45,17 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时22分 ~ 16时28分]"
-        },
-        {
-          "title": "动车组专家：我国旅客列车室内二氧化碳浓度标准限值为2500ppm，限值内浓度对健康无影响",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456711",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "想吃咸货但怕不健康咋办",
