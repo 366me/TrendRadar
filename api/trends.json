@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:22:48.679773+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-01-25T16:29:02.017873+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,17 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "腊八粥选什么食材美味又健康",
+          "url": "https://www.baidu.com/s?wd=%E8%85%8A%E5%85%AB%E7%B2%A5%E9%80%89%E4%BB%80%E4%B9%88%E9%A3%9F%E6%9D%90%E7%BE%8E%E5%91%B3%E5%8F%88%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 16时29分]"
+        },
+        {
           "title": "想吃咸货但怕不健康咋办",
           "url": "https://www.toutiao.com/trending/7598738320844750889/",
           "source": "今日头条",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时19分]"
-        },
-        {
-          "title": "腊八粥选什么食材美味又健康",
-          "url": "https://www.baidu.com/s?wd=%E8%85%8A%E5%85%AB%E7%B2%A5%E9%80%89%E4%BB%80%E4%B9%88%E9%A3%9F%E6%9D%90%E7%BE%8E%E5%91%B3%E5%8F%88%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
         }
       ]
     }
