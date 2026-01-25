@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T20:43:19.295806+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-01-25T21:33:08.410417+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "动车组专家：我国旅客列车室内二氧化碳浓度标准限值为2500ppm，限值内浓度对健康无影响",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时19分]"
+        },
+        {
+          "title": "腊八粥食材怎么搭更健康",
+          "url": "https://www.toutiao.com/trending/7599233191215906857/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "姜黄饮真能养生吗",
