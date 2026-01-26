@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-26T23:31:25.899106+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2026-01-27T00:35:31.821940+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商务部：推动提升文化娱乐、旅游休闲、餐饮住宿、体育赛事、医疗健康等领域供给水平",
-          "url": "https://wallstreetcn.com/livenews/3043807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
