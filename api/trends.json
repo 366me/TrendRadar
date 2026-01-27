@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:39:48.169712+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-28T03:27:52.085857+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时27分]"
         },
         {
           "title": "盒马误将水仙球当作食用百合卖致祖孙中毒送医，称「顾客误食也有一定责任」，是这样吗？法律上如何界定？",
           "url": "https://www.zhihu.com/question/1999564553021780113",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时27分]"
         }
       ]
     },
@@ -46,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时27分]"
         }
       ]
     }
