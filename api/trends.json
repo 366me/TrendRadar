@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T22:32:13.881208+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2026-01-28T23:34:29.475565+08:00",
+  "total_titles_processed": 2194,
   "failed_sources": [],
   "trends": [
     {
@@ -235,6 +235,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "体检报告这些异常只是看起来可怕",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E8%BF%99%E4%BA%9B%E5%BC%82%E5%B8%B8%E5%8F%AA%E6%98%AF%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%8F%AF%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
         }
       ]
     }
