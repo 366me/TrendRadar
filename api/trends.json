@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:46:45.094470+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-30T03:31:33.736640+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Punchbowl记者：美国共和党参议员计划今晚进行一项潜在投票，以最终敲定拨款方案和国土安全部临时拨款法案——这表明协议即将达成。 虽然远未确定，但这无疑是个积极的信号。这需要所有100位参议员的合作。很可能需要进行修正案投票。",
+          "url": "https://flash.jin10.com/detail/20260130032326670800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     }
