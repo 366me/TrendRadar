@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:58:20.345751+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-01-30T22:39:35.114443+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "共和党参议员Tillis：沃什的提名不会改变我的立场。",
@@ -14,18 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "美国共和党参议员蒂利斯：还需要看到库克案结案才能放弃反对意见。",
-          "url": "https://flash.jin10.com/detail/20260130214305037800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -43,15 +32,28 @@
           "time_info": "[03时31分 ~ 05时27分]"
         },
         {
+          "title": "美国共和党参议员蒂利斯：还需要看到库克案结案才能放弃反对意见。",
+          "url": "https://flash.jin10.com/detail/20260130214305037800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时39分]"
+        },
+        {
           "title": "美国共和党参议员蒂利斯：与美国总统特朗普每周沟通一次，谈判仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260130214156691800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时39分]"
         },
         {
           "title": "美国民主党参议员沃伦：在美国总统特朗普停止美联储调查之前，任何共和党人都不应同意推进沃什的提名。",
@@ -82,7 +84,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -93,9 +95,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "共和党参议员Tillis仍反对美联储主席提名人选 但认为沃什有资格胜任",
+          "url": "https://wallstreetcn.com/livenews/3047428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "共和党参议员Tillis：沃什是合格的美联储主席提名人选。 我的立场并未改变。 将反对任何美联储提名人选的确认。",
@@ -104,9 +117,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "共和党参议员Tillis：沃什的提名不会改变我的立场。 在鲍威尔调查结束前，仍计划阻挠提名人选。 还需要看到库克案结案才能放弃反对意见。 我和特朗普每周沟通一次，持续进行对话。",
+          "url": "https://wallstreetcn.com/livenews/3047420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
