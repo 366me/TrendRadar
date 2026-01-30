@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-01-30T19:29:17.157584+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-01-30T20:56:34.293695+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据Punchbowl记者：美国共和党参议员计划今晚进行一项潜在投票，以最终敲定拨款方案和国土安全部临时拨款法案——这表明协议即将达成。 虽然远未确定，但这无疑是个积极的信号。这需要所有100位参议员的合作。很可能需要进行修正案投票。",
+          "url": "https://flash.jin10.com/detail/20260130032326670800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时27分]"
+        },
+        {
+          "title": "美国民主党参议员沃伦：在美国总统特朗普停止美联储调查之前，任何共和党人都不应同意推进沃什的提名。",
+          "url": "https://flash.jin10.com/detail/20260130203527718800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：（谈特朗普提名沃什出任美联储主席）这是特朗普试图夺取美联储控制权的最新一步。",
+          "url": "https://flash.jin10.com/detail/20260130203353018800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 1,
@@ -17,25 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据Punchbowl记者：美国共和党参议员计划今晚进行一项潜在投票，以最终敲定拨款方案和国土安全部临时拨款法案——这表明协议即将达成。 虽然远未确定，但这无疑是个积极的信号。这需要所有100位参议员的合作。很可能需要进行修正案投票。",
-          "url": "https://flash.jin10.com/detail/20260130032326670800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时27分]"
         }
       ]
     }
