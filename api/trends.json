@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-31T13:38:58.368099+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-01-31T14:40:01.133802+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 3,
       "titles": [
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 14时40分]"
+        },
         {
           "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
           "url": "https://flash.jin10.com/detail/20260131031716633800",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 09时57分]"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 13时38分]"
         },
         {
           "title": "美国民主党参议员沃伦：沃什并非美联储主席的理想人选",
@@ -55,11 +55,12 @@
           "ranks": [
             26,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 14时40分]"
         }
       ]
     }
