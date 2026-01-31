@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:40:01.133802+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-01-31T15:29:53.351165+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 14时40分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 15时29分]"
         },
         {
           "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
@@ -56,11 +56,12 @@
             26,
             4,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 15时29分]"
         }
       ]
     }
