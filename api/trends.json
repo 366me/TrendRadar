@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T12:08:34.639050+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-31T13:38:58.368099+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 13时38分]"
         },
         {
           "title": "美国民主党参议员沃伦：沃什并非美联储主席的理想人选",
@@ -54,11 +54,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 13时38分]"
         }
       ]
     }
