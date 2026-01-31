@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T17:28:56.863208+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-31T18:25:35.080375+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时26分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[06时26分 ~ 18时25分]"
         },
         {
           "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 09时57分]"
+        },
+        {
+          "title": "为了一道菜 喂猪吃了一年人参",
+          "url": "https://www.douyin.com/hot/2385232",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国民主党参议员沃伦：沃什并非美联储主席的理想人选",
@@ -61,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 18时25分]"
         }
       ]
     }
