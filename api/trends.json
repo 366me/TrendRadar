@@ -1,98 +1,22 @@
 {
-  "generated_at": "2026-02-01T23:25:51.091889+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-02-02T00:31:46.527157+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "欧佩克+声明：重申致力于维护市场稳定，并表示全球经济前景稳定，且当前石油市场基本面健康，库存水平较低。",
           "url": "https://flash.jin10.com/detail/20260201222442213800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "身体的两个尺寸与健康密切相关",
-          "url": "https://www.baidu.com/s?wd=%E8%BA%AB%E4%BD%93%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%B0%BA%E5%AF%B8%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%AF%86%E5%88%87%E7%9B%B8%E5%85%B3",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 16时33分]"
-        },
-        {
-          "title": "“年前大扫除”藏着哪些健康风险",
-          "url": "https://www.toutiao.com/trending/7601479596952862739/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
-        },
-        {
-          "title": "3种健康好喝不易胖的奶茶",
-          "url": "https://s.weibo.com/weibo?q=%233%E7%A7%8D%E5%81%A5%E5%BA%B7%E5%A5%BD%E5%96%9D%E4%B8%8D%E6%98%93%E8%83%96%E7%9A%84%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 18时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长期「碎片化睡眠」会导致大脑加速衰老，该如何改善睡眠状况？",
-          "url": "https://www.zhihu.com/question/1993653991243002505",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 19时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时33分 ~ 10时25分]"
+          "time_info": "00时31分"
         }
       ]
     }
