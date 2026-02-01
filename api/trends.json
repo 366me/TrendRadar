@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-01T10:25:53.907538+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-01T13:01:53.450597+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "身体的两个尺寸与健康密切相关",
+          "url": "https://www.baidu.com/s?wd=%E8%BA%AB%E4%BD%93%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%B0%BA%E5%AF%B8%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%AF%86%E5%88%87%E7%9B%B8%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
