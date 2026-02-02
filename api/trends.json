@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T19:36:31.152831+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-02-02T21:01:46.920017+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时01分]"
         },
         {
           "title": "于文文 除了健康什么都不是你的",
