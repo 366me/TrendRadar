@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T01:42:04.473527+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-02-03T02:44:33.197292+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 01时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 02时44分]"
         },
         {
           "title": "医生说健康的月经有个弹性范围",
