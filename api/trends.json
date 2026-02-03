@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:51:52.145165+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-03T14:53:14.379693+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度经济事务秘书：将等待更多关于美国贸易协议的细节，再上调经济增长预测。",
+          "url": "https://flash.jin10.com/detail/20260203142939815800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
