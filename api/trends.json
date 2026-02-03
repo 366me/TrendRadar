@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-04T01:53:52.165087+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-04T02:58:06.812897+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "陕西中医药大学附属医院致歉通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%E9%80%9A%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
