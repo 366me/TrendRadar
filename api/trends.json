@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:29:09.150220+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-02-04T10:03:16.248906+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "陕西中医药大学附属医院致歉通报",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时57分 ~ 07时29分]"
+        },
+        {
+          "title": "山海经辟谣：重明鸟破健康谣言",
+          "url": "https://www.toutiao.com/trending/7601824291088469567/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     }
