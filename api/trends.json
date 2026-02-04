@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:38:48.467488+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-02-04T19:33:55.989323+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 19时33分]"
         },
         {
           "title": "山海经辟谣：重明鸟破健康谣言",
@@ -53,8 +53,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 19时33分]"
+        },
+        {
+          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
+          "url": "https://www.zhihu.com/question/2002050148193280634",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 19时33分]"
         },
         {
           "title": "山海经辟谣：重明鸟破健康谣言",
@@ -66,19 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时02分 ~ 15时44分]"
-        },
-        {
-          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
-          "url": "https://www.zhihu.com/question/2002050148193280634",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 18时38分]"
         },
         {
           "title": "立春养生做好这7件事",
