@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-04T16:42:27.556106+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-04T17:43:54.415804+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "脑机海河实验室：全国首个“中医脑机接口”装备落地 相关技术已搭载神舟系列载人飞船开展天基实验",
+          "url": "https://www.cls.cn/detail/2279996",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时43分]"
+        },
         {
           "title": "陕西中医药大学附属医院致歉通报",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%E9%80%9A%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时57分 ~ 07时29分]"
-        },
-        {
-          "title": "脑机海河实验室：全国首个“中医脑机接口”装备落地 相关技术已搭载神舟系列载人飞船开展天基实验",
-          "url": "https://www.cls.cn/detail/2279996",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时42分]"
         },
         {
           "title": "山海经辟谣：重明鸟破健康谣言",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时43分]"
         },
         {
           "title": "山海经辟谣：重明鸟破健康谣言",
@@ -64,8 +64,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时43分]"
+        },
+        {
+          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
+          "url": "https://www.zhihu.com/question/2002050148193280634",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 17时43分]"
         },
         {
           "title": "立春养生做好这7件事",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 15时44分]"
-        },
-        {
-          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
-          "url": "https://www.zhihu.com/question/2002050148193280634",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 16时42分]"
         },
         {
           "title": "韩元兑美元抹去了早些时候的跌幅，此前韩国保健福祉部部长表示今年可能发行国民养老金外汇债券。",
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "中医建议立春后少吃酸性食物",
+          "url": "https://www.toutiao.com/trending/7601931283635699750/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
@@ -174,8 +186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时43分]"
         }
       ]
     }
