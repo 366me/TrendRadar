@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:36:03.029291+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-02-05T21:03:19.731736+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 07时28分]"
+        },
+        {
+          "title": "国家卫生健康委工作组赴湖北督促调查精神病医院有关问题",
+          "url": "https://wallstreetcn.com/livenews/3050670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
