@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:54:53.579179+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-02-06T14:56:12.850350+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E8%96%84%E8%8D%B7%E8%A7%92%E8%89%B2%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 14时56分]"
         },
         {
           "title": "《原神》6.3 海灯节时，为什么理水叠山和削月筑阳要在闲云那里种薄荷？",
