@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T10:04:55.135567+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-06T12:47:36.197923+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：苹果挤压虚拟健康教练计划",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "随时可以打扰的AI健康朋友",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%89%93%E6%89%B0%E7%9A%84AI%E5%81%A5%E5%BA%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -45,6 +56,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《原神》6.3 海灯节时，为什么理水叠山和削月筑阳要在闲云那里种薄荷？",
+          "url": "https://www.zhihu.com/question/2001709718981324844",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
