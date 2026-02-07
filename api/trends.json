@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-08T06:27:10.549642+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-08T07:31:13.561362+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高校教师心理健康受关注，代表建议多元考核、精简非教学科研事项",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558898",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
