@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-09T13:01:53.477797+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-02-09T15:05:09.739902+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "迪丽热巴给粉丝点了奶茶面包鸡汤",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E7%B2%89%E4%B8%9D%E7%82%B9%E4%BA%86%E5%A5%B6%E8%8C%B6%E9%9D%A2%E5%8C%85%E9%B8%A1%E6%B1%A4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
       "match_count": 1,
