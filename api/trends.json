@@ -1,42 +1,22 @@
 {
-  "generated_at": "2026-02-09T23:57:14.111267+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2026-02-10T01:58:08.370471+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 1,
       "titles": [
         {
-          "title": "迪丽热巴给粉丝点了奶茶面包鸡汤",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E7%B2%89%E4%B8%9D%E7%82%B9%E4%BA%86%E5%A5%B6%E8%8C%B6%E9%9D%A2%E5%8C%85%E9%B8%A1%E6%B1%A4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "明晟公司MSCI北欧国家指数涨0.9%，报387.73点。 在十个板块中，北欧医疗保健板块涨幅最大。 诺和诺德涨5.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3052450",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "体检报告出现这几个字要重视",
-          "url": "https://www.toutiao.com/trending/7604431949801422894/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            18,
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }
