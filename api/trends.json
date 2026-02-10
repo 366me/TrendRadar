@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T02:03:10.904449+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-11T04:00:32.146159+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时00分]"
         },
         {
           "title": "推动医疗出海，上海三甲医院亮相迪拜世界健康博览会",
@@ -36,7 +36,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
