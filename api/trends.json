@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T00:12:14.979560+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-11T02:03:10.904449+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "春节聚会多出行忙 健康指南请收好",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 02时03分]"
         },
         {
           "title": "推动医疗出海，上海三甲医院亮相迪拜世界健康博览会",
@@ -26,8 +26,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 02时03分]"
+        },
+        {
+          "title": "美联储哈玛克：目前银行体系看起来相当健康。",
+          "url": "https://flash.jin10.com/detail/20260211013634297800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
+          "url": "https://flash.jin10.com/detail/20260211012335531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
+          "url": "https://flash.jin10.com/detail/20260211012231222800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
@@ -42,7 +75,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
         }
