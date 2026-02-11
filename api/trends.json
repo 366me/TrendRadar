@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T00:02:28.185799+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T02:24:20.610284+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时24分]"
         },
         {
           "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时24分]"
         }
       ]
     }
