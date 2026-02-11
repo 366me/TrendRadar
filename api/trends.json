@@ -1,92 +1,12 @@
 {
-  "generated_at": "2026-02-11T22:53:56.257589+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2026-02-12T00:02:28.185799+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "春节聚会多出行忙 健康指南请收好",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%81%9A%E4%BC%9A%E5%A4%9A%E5%87%BA%E8%A1%8C%E5%BF%99+%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 10时24分]"
-        },
-        {
-          "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
-          "url": "https://www.zhihu.com/question/2004548766661830319",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时53分 ~ 22时53分]"
-        },
-        {
-          "title": "出现这几种走路姿势 要小心健康状况",
-          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E8%BF%99%E5%87%A0%E7%A7%8D%E8%B5%B0%E8%B7%AF%E5%A7%BF%E5%8A%BF+%E8%A6%81%E5%B0%8F%E5%BF%83%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时03分]"
-        },
-        {
-          "title": "推动医疗出海，上海三甲医院亮相迪拜世界健康博览会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32567906",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 02时03分]"
-        },
-        {
-          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
-          "url": "https://wallstreetcn.com/livenews/3053241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时40分]"
-        },
-        {
-          "title": "美联储哈玛克：目前银行体系看起来相当健康。",
-          "url": "https://flash.jin10.com/detail/20260211013634297800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美国健康保险公司Humana预计2026年调整后每股收益至少为9美元，市场预期为11.87美元。",
-          "url": "https://wallstreetcn.com/livenews/3053700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
         {
           "title": "泰国总理用中文送祝福：马到成功、恭喜发财、身体健康",
           "url": "https://news.ifeng.com/c/8qfEtmq9gis",
@@ -94,59 +14,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时53分"
+          "time_info": "00时02分"
         },
         {
-          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
-          "url": "https://flash.jin10.com/detail/20260211012335531800",
-          "source": "金十数据",
+          "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
+          "url": "https://www.zhihu.com/question/2004548766661830319",
+          "source": "知乎",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "法国外贸银行：非农就业增长仍然集中在私立教育和医疗保健服务行业，14个行业中只有一半实现了增长。这值得深思。",
-          "url": "https://flash.jin10.com/detail/20260211220517738800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
-          "url": "https://flash.jin10.com/detail/20260211012231222800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国首相斯塔默：我将带领工党参加下一次大选。",
-          "url": "https://flash.jin10.com/detail/20260210235053436800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "00时02分"
         }
       ]
     }
