@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T19:45:49.547029+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-02-11T21:11:06.051536+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 21时11分]"
         },
         {
           "title": "出现这几种走路姿势 要小心健康状况",
@@ -83,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
