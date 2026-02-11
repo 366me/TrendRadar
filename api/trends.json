@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-12T03:04:24.880685+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-02-12T04:39:43.412051+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 2,
       "titles": [
+        {
+          "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
+          "url": "https://www.zhihu.com/question/2004548766661830319",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时39分]"
+        },
         {
           "title": "泰国总理用中文送祝福：马到成功、恭喜发财、身体健康",
           "url": "https://news.ifeng.com/c/8qfEtmq9gis",
@@ -15,19 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时04分]"
-        },
-        {
-          "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
-          "url": "https://www.zhihu.com/question/2004548766661830319",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时39分]"
         }
       ]
     }
