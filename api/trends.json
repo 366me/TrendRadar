@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T06:30:51.169993+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-02-12T07:32:42.367810+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时32分]"
         },
         {
           "title": "泰国总理用中文送祝福：马到成功、恭喜发财、身体健康",
