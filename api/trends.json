@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:51:07.777992+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-11T17:54:15.010040+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "春节聚会多出行忙 健康指南请收好",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时40分]"
+        },
+        {
+          "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
+          "url": "https://www.zhihu.com/question/2004548766661830319",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "美联储哈玛克：目前银行体系看起来相当健康。",
