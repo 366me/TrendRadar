@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:52:58.843033+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-12T16:48:02.700350+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "击败谷爱凌夺冠的格雷莫德称「拔罐真的有用」，对此你怎么看，西方在接受中医方面，是否比我们更现实主义？",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "国家卫健委：今年所有公立三级综合医院都将提供健康体重管理门诊服务",
+          "url": "https://wallstreetcn.com/livenews/3054342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
