@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T12:54:04.148506+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-02-18T14:02:06.931401+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时02分]"
         },
         {
           "title": "“春节聚餐喝酒能暖身”系谣言",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时02分]"
         },
         {
           "title": "春节聚餐“喝酒暖身”不科学",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 14时02分]"
         }
       ]
     },
