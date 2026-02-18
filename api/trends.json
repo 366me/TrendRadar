@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T14:02:06.931401+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-02-18T15:50:40.509168+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "春节聚餐“喝酒能暖身”？假的",
-          "url": "https://www.toutiao.com/trending/7607633690555203630/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时02分]"
-        },
-        {
           "title": "“春节聚餐喝酒能暖身”系谣言",
           "url": "https://www.douyin.com/hot/2404626",
           "source": "抖音",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时50分]"
+        },
+        {
+          "title": "春节聚餐“喝酒能暖身”？假的",
+          "url": "https://www.toutiao.com/trending/7607633690555203630/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时50分]"
         }
       ]
     },
