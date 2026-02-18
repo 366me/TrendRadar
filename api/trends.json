@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T15:50:40.509168+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-02-18T16:45:06.687903+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 16时45分]"
+        },
+        {
+          "title": "春节聚餐“喝酒暖身”不科学",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%81%9A%E9%A4%90%E2%80%9C%E5%96%9D%E9%85%92%E6%9A%96%E8%BA%AB%E2%80%9D%E4%B8%8D%E7%A7%91%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 16时45分]"
         },
         {
           "title": "春节聚餐“喝酒能暖身”？假的",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时11分 ~ 14时02分]"
-        },
-        {
-          "title": "春节聚餐“喝酒暖身”不科学",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%81%9A%E9%A4%90%E2%80%9C%E5%96%9D%E9%85%92%E6%9A%96%E8%BA%AB%E2%80%9D%E4%B8%8D%E7%A7%91%E5%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时50分]"
         }
       ]
     },
