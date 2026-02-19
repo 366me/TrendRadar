@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T07:31:11.038287+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-02-19T10:12:01.410305+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“春节聚餐喝酒能暖身”系谣言",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "「喝酒前喝酸奶、浓茶能解酒护肝」这种餐桌解酒妙招，是护身符还是心理安慰？",
+          "url": "https://www.zhihu.com/question/2005332489506353622",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     }
