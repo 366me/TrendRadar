@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T18:38:21.659328+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-02-20T19:33:37.888976+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时33分]"
         },
         {
           "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
@@ -59,6 +60,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "春节“喝酒暖身”是谣言",
+          "url": "https://www.toutiao.com/trending/7608765402002063410/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时47分 ~ 19时33分]"
+        },
+        {
           "title": "过年吃香蕉通便，便秘只吃香蕉够吗，哪些水果通便效果更明显？",
           "url": "https://www.zhihu.com/question/2005988675511670623",
           "source": "知乎",
@@ -67,19 +79,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 18时38分]"
-        },
-        {
-          "title": "春节“喝酒暖身”是谣言",
-          "url": "https://www.toutiao.com/trending/7608765402002063410/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时47分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 19时33分]"
         },
         {
           "title": "「喝酒前喝酸奶、浓茶能解酒护肝」这种餐桌解酒妙招，是护身符还是心理安慰？",
