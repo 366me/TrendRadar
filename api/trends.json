@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-20T07:31:09.782467+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-02-20T10:04:56.668678+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "恒生科技指数延续跌势，下跌2%，百度(09888.HK)跌4.7%，网易-S(09999.HK)跌超4%，阿里健康(00241.HK)下跌2.43%。",
+          "url": "https://flash.jin10.com/detail/20260220094304931800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
         {
           "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
           "url": "https://flash.jin10.com/detail/20260220064053130800",
@@ -14,15 +25,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "港股马年首个交易日开盘，恒指开跌0.18%，科指开跌0.69%，京东健康(06618.HK)开涨0.58%，携程集团-S(09961.HK)涨1.76%。",
+          "url": "https://flash.jin10.com/detail/20260220092346700800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "「喝酒前喝酸奶、浓茶能解酒护肝」这种餐桌解酒妙招，是护身符还是心理安慰？",
@@ -34,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "过年吃香蕉通便，便秘只吃香蕉够吗，哪些水果通便效果更明显？",
+          "url": "https://www.zhihu.com/question/2005988675511670623",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
