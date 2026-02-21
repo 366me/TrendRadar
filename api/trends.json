@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-02-21T23:26:00.102099+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-22T00:30:59.044350+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中医分享养精气神三妙招",
-          "url": "https://www.toutiao.com/trending/7608839121859346475/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春节“喝酒暖身”是谣言",
-          "url": "https://www.toutiao.com/trending/7608765402002063410/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 09时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "贝加尔湖事故有很多中国人参与救援",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E4%BA%8B%E6%95%85%E6%9C%89%E5%BE%88%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%82%E4%B8%8E%E6%95%91%E6%8F%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
