@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:26:00.472980+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-22T19:22:31.771151+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             19,
             18,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 19时22分]"
         },
         {
           "title": "躺久了也会消耗气血",
           "url": "https://www.toutiao.com/trending/7609522241113735209/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 19时22分]"
         }
       ]
     }
