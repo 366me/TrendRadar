@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T12:59:05.797366+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-02-23T14:11:23.516337+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7609639905999962122/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时11分]"
         },
         {
           "title": "这4个地方有点肉反而更有益健康",
