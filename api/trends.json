@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-23T10:09:46.163598+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-23T12:59:05.797366+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "你有哪些健康饮酒的方法",
+          "url": "https://www.toutiao.com/trending/7609639905999962122/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
         {
           "title": "这4个地方有点肉反而更有益健康",
           "url": "https://www.toutiao.com/trending/7609555960529567750/",
@@ -14,7 +25,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
