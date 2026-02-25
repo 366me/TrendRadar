@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-25T07:32:41.058141+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-25T10:13:25.503730+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "为什么说黄金这波春节上涨“不健康”",
+          "url": "https://www.toutiao.com/trending/7610286715936345651/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 10时13分]"
+        },
         {
           "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
           "url": "https://wallstreetcn.com/livenews/3058369",
@@ -20,16 +33,15 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
-          "title": "为什么说黄金这波春节上涨“不健康”",
-          "url": "https://www.toutiao.com/trending/7610286715936345651/",
-          "source": "今日头条",
+          "title": "月经一定程度上能反映气血状况",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E8%83%BD%E5%8F%8D%E6%98%A0%E6%B0%94%E8%A1%80%E7%8A%B6%E5%86%B5%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            28,
-            22
+            15
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
