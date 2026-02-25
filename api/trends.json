@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T10:13:25.503730+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-02-25T12:53:44.103516+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             22,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 10时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 12时53分]"
         },
         {
           "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
@@ -39,7 +40,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
