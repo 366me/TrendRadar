@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-26T16:50:36.872058+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-02-26T17:52:07.508206+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "原来补气血有个最佳顺序",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A1%A5%E6%B0%94%E8%A1%80%E6%9C%89%E4%B8%AA%E6%9C%80%E4%BD%B3%E9%A1%BA%E5%BA%8F%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
+        },
         {
           "title": "塞尔维亚副总理兼内务部长达契奇因健康问题已入院接受治疗。初步信息显示，达契奇病情危重，已插管并使用呼吸机。",
           "url": "https://flash.jin10.com/detail/20260226050307448800",
