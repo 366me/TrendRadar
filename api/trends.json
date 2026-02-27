@@ -1,103 +1,39 @@
 {
-  "generated_at": "2026-02-27T23:38:26.423444+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2026-02-28T00:41:42.108734+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国参议院少数党领袖舒默：我们民主党参议员工作组将查阅所有未经删减的文件。",
-          "url": "https://flash.jin10.com/detail/20260227014705810800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据Politico：Bernie Moreno考虑竞选全国共和党参议员委员会主席。",
-          "url": "https://flash.jin10.com/detail/20260227022603913800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "俄罗斯在强迫外国人参军吗",
-          "url": "https://www.toutiao.com/trending/7611409655276768819/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "勾中指竟然是个养生动作",
-          "url": "https://www.toutiao.com/trending/7611396469100740617/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时41分]"
-        },
         {
           "title": "过年吃饺子，老一辈人总让趁着热吃，不仅好吃还养胃，还让喝饺子汤化原食，这些有科学依据吗？",
           "url": "https://www.zhihu.com/question/2005909706808525852",
           "source": "知乎",
           "ranks": [
-            18,
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时03分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 2,
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
       "titles": [
         {
-          "title": "六旬老太用花洒灌肠通便被送进医院",
-          "url": "https://www.toutiao.com/trending/7611408291119710227/",
-          "source": "今日头条",
+          "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
+          "url": "https://flash.jin10.com/detail/20260228000101836800",
+          "source": "金十数据",
           "ranks": [
-            23
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "六旬老太用花洒灌肠通便直肠破裂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E8%80%81%E5%A4%AA%E7%94%A8%E8%8A%B1%E6%B4%92%E7%81%8C%E8%82%A0%E9%80%9A%E4%BE%BF%E7%9B%B4%E8%82%A0%E7%A0%B4%E8%A3%82%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "time_info": "00时41分"
         }
       ]
     }
