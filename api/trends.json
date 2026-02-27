@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T06:24:28.957779+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-02-28T07:25:39.424436+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "六旬老太用花洒灌肠通便被送进医院",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "六旬老太用花洒灌肠通便直肠破裂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E8%80%81%E5%A4%AA%E7%94%A8%E8%8A%B1%E6%B4%92%E7%81%8C%E8%82%A0%E9%80%9A%E4%BE%BF%E7%9B%B4%E8%82%A0%E7%A0%B4%E8%A3%82%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
