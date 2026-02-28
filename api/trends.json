@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T01:21:13.876273+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-01T02:34:18.331594+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2414708",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时34分]"
         },
         {
           "title": "伊朗称几乎所有官员都健康在世",
@@ -24,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时34分]"
         }
       ]
     }
