@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:20:07.773216+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-02-28T20:45:53.532980+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2414708",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时45分]"
         },
         {
           "title": "联合健康（UNH）将2026年员工涨薪幅度限制在0%-2%。",
@@ -34,11 +35,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时45分]"
         },
         {
           "title": "过年吃饺子，老一辈人总让趁着热吃，不仅好吃还养胃，还让喝饺子汤化原食，这些有科学依据吗？",
