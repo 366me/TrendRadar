@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:08:18.627304+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-03-03T12:47:15.399726+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马上评｜学生“健康第一”，如何落实在正确政绩观中",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时26分]"
+        },
+        {
+          "title": "中医漫展给coser把脉",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%8C%BB%E6%BC%AB%E5%B1%95%E7%BB%99coser%E6%8A%8A%E8%84%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
         }
       ]
     }
