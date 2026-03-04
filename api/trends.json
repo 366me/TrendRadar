@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T06:32:31.447411+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-03-05T07:31:20.596618+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时31分]"
         },
         {
           "title": "63岁失独妈妈剖腹产生下健康女宝",
           "url": "https://www.toutiao.com/trending/7613106282303832118/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时31分]"
         },
         {
           "title": "63岁失独妈妈剖腹产生下健康女婴",
@@ -39,9 +40,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时31分]"
         }
       ]
     }
