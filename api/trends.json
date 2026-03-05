@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-06T04:37:57.668777+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-06T05:36:01.695920+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
-          "url": "https://wallstreetcn.com/livenews/3064651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 04时37分]"
-        },
         {
           "title": "陈玮代表：参照体重管理，将“睡眠健康”纳入专项行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32703326",
@@ -27,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 05时36分]"
         },
         {
           "title": "63 岁失独妈妈剖腹产生下健康女婴，称有能力把这个宝宝养活大，高龄夫妇养孩子要考虑哪些现实因素？",
@@ -39,8 +27,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 05时36分]"
+        },
+        {
+          "title": "周四（3月5日），工业精选ETF下挫2.2%，领跌行业ETF，日常消费ETF和医疗保健ETF跌约2%。 标普油气ETF则涨1.88%，能源精选ETF涨0.53%，可选消费精选ETF涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3064668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
+          "url": "https://wallstreetcn.com/livenews/3064651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 05时36分]"
         }
       ]
     }
