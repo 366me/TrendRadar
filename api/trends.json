@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T21:01:49.982869+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2026-03-05T22:05:20.371140+08:00",
+  "total_titles_processed": 1940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "起床后第一杯水怎么喝才健康",
@@ -67,8 +67,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时05分]"
         },
         {
           "title": "63岁失独妈妈剖腹产生下健康女婴",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "美联储巴尔金：美联储政策仍略显紧缩，但需求依然健康。",
+          "url": "https://flash.jin10.com/detail/20260305213939053800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     }
