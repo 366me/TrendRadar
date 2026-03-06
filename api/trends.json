@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T21:57:06.689479+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2026-03-06T22:39:41.272184+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
@@ -39,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -96,11 +96,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32712222",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 22时39分]"
         },
         {
           "title": "美国劳工统计局：2月医疗保健行业就业减少1.9万个岗位，但这主要是由于加利福尼亚州护士罢工，导致3.1万人暂时无法工作。",
@@ -109,7 +110,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -120,7 +121,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
