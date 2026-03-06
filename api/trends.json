@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T06:29:12.557693+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-07T07:28:31.808939+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
