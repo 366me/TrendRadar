@@ -1,197 +1,33 @@
 {
-  "generated_at": "2026-03-06T23:38:10.674322+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-03-07T00:41:51.680412+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "陈玮代表：参照体重管理，将“睡眠健康”纳入专项行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32703326",
-          "source": "澎湃新闻",
+          "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3065365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时04分 ~ 14时51分]"
-        },
-        {
-          "title": "63 岁失独妈妈剖腹产生下健康女婴，称有能力把这个宝宝养活大，高龄夫妇养孩子要考虑哪些现实因素？",
-          "url": "https://www.zhihu.com/question/2012633909918135916",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时04分 ~ 06时33分]"
-        },
-        {
-          "title": "医疗保健就业“发动机”熄火 2月减员2.8万人",
-          "url": "https://flash.jin10.com/detail/20260306214039232800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "谭松韵新剧气血十足老辈子来的",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%96%B0%E5%89%A7%E6%B0%94%E8%A1%80%E5%8D%81%E8%B6%B3%E8%80%81%E8%BE%88%E5%AD%90%E6%9D%A5%E7%9A%84%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "00时41分"
         },
         {
           "title": "十五五，十五问｜健康中国建设，如何提质增效再出发",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712222",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时56分 ~ 23时38分]"
-        },
-        {
-          "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
-          "url": "https://wallstreetcn.com/livenews/3064651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 05时36分]"
-        },
-        {
-          "title": "周四（3月5日），工业精选ETF下挫2.2%，领跌行业ETF，日常消费ETF和医疗保健ETF跌约2%。 标普油气ETF则涨1.88%，能源精选ETF涨0.53%，可选消费精选ETF涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3064668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时36分 ~ 07时51分]"
-        },
-        {
-          "title": "代表称女性最好的养生方式是保暖",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E5%A5%B3%E6%80%A7%E6%9C%80%E5%A5%BD%E7%9A%84%E5%85%BB%E7%94%9F%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BF%9D%E6%9A%96",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时39分]"
-        },
-        {
-          "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "美国劳工统计局：2月医疗保健行业就业减少1.9万个岗位，但这主要是由于加利福尼亚州护士罢工，导致3.1万人暂时无法工作。",
-          "url": "https://flash.jin10.com/detail/20260306213615588800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "美国劳工统计局：2月医疗保健行业的就业人数下降，反映了罢工活动的影响。信息行业和联邦政府的就业人数继续呈下降趋势。",
-          "url": "https://flash.jin10.com/detail/20260306213436448800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "习近平：坚定不移走中国特色卫生与健康发展道路，推动“十五五”时期健康中国建设取得决定性进展。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3065199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "恒指高开0.15%，报25358.56点；恒生科技指数涨0.47%。京东健康、携程涨超3%，网易、京东集团涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3064755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国1月未季调经常帐 132.6亿美元，前值187.026亿美元。",
-          "url": "https://flash.jin10.com/detail/20260306070002457800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逐玉陈皮糖吻甜齁了",
-          "url": "https://www.douyin.com/hot/2419844",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "00时41分"
         }
       ]
     }
