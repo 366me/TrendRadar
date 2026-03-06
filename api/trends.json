@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T10:04:37.315011+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-06T12:42:34.244061+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32703326",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时04分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[02时04分 ~ 12时42分]"
         },
         {
           "title": "63 岁失独妈妈剖腹产生下健康女婴，称有能力把这个宝宝养活大，高龄夫妇养孩子要考虑哪些现实因素？",
@@ -63,7 +64,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         }
