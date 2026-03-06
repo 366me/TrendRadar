@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T20:57:03.116779+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-06T21:57:06.689479+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "陈玮代表：参照体重管理，将“睡眠健康”纳入专项行动",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时04分 ~ 06时33分]"
+        },
+        {
+          "title": "医疗保健就业“发动机”熄火 2月减员2.8万人",
+          "url": "https://flash.jin10.com/detail/20260306214039232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "谭松韵新剧气血十足老辈子来的",
@@ -79,6 +90,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时50分 ~ 16时39分]"
+        },
+        {
+          "title": "十五五，十五问｜健康中国建设，如何提质增效再出发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712222",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
+          "title": "美国劳工统计局：2月医疗保健行业就业减少1.9万个岗位，但这主要是由于加利福尼亚州护士罢工，导致3.1万人暂时无法工作。",
+          "url": "https://flash.jin10.com/detail/20260306213615588800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美国劳工统计局：2月医疗保健行业的就业人数下降，反映了罢工活动的影响。信息行业和联邦政府的就业人数继续呈下降趋势。",
+          "url": "https://flash.jin10.com/detail/20260306213436448800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "习近平：坚定不移走中国特色卫生与健康发展道路，推动“十五五”时期健康中国建设取得决定性进展。（新华社）",
