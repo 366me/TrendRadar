@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T17:29:38.256415+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-03-07T18:24:48.274652+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,20 @@
           "time_info": "[00时41分 ~ 15时29分]"
         },
         {
+          "title": "建议将老人心理健康纳入体检",
+          "url": "https://www.douyin.com/hot/2421420",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 18时24分]"
+        },
+        {
           "title": "国家卫生健康委：全国5500多所医疗卫生机构开设了健康体重管理门诊。（央视）",
           "url": "https://wallstreetcn.com/livenews/3065598",
           "source": "华尔街见闻-快讯",
@@ -35,19 +49,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时03分 ~ 14时41分]"
-        },
-        {
-          "title": "建议将老人心理健康纳入体检",
-          "url": "https://www.douyin.com/hot/2421420",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 17时29分]"
         },
         {
           "title": "各年龄段如何做好健康筛查？国家卫健委主任给出建议",
