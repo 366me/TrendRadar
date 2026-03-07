@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T14:41:40.936618+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-03-07T15:29:17.668741+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 14时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 15时29分]"
         },
         {
           "title": "国家卫生健康委：全国5500多所医疗卫生机构开设了健康体重管理门诊。（央视）",
@@ -42,11 +42,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时29分]"
+        },
+        {
+          "title": "建议将老人心理健康纳入体检",
+          "url": "https://www.douyin.com/hot/2421420",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时41分]"
+          "time_info": "[13时37分 ~ 15时29分]"
         },
         {
           "title": "全国人大代表、天合光能董事长高纪凡：统一准入标准与交易机制，促进分布式光伏健康发展",
@@ -69,17 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "建议将老人心理健康纳入体检",
-          "url": "https://www.douyin.com/hot/2421420",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
         },
         {
           "title": "教育部部长：将实施新一轮学生心理健康促进行动",
