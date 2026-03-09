@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-03-09T23:59:31.873577+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-03-10T01:02:41.121093+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "著名中医专家欧阳卫权离世",
-          "url": "https://www.toutiao.com/trending/7614836394851762219/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 16时45分]"
-        },
-        {
-          "title": "全国政协委员朱同玉：建立统一的居民健康档案，打通医疗数据“最后一公里”",
-          "url": "https://wallstreetcn.com/livenews/3066247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
