@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T15:10:23.375473+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-03-09T16:45:01.500727+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时45分]"
         },
         {
           "title": "全国政协委员朱同玉：建立统一的居民健康档案，打通医疗数据“最后一公里”",
@@ -27,7 +27,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
