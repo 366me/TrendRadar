@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-11T00:02:24.133323+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-03-11T01:04:08.914406+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "建议建立统一的居民健康档案",
           "url": "https://www.douyin.com/hot/2425869",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 01时04分]"
+        },
+        {
+          "title": "亚马逊在网站和APP推出健康AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3067481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -29,11 +41,12 @@
           "url": "https://www.douyin.com/hot/2425615",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 01时04分]"
         }
       ]
     }
