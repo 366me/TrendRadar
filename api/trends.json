@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T21:02:26.594201+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-03-10T22:06:24.489318+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 22时06分]"
         },
         {
           "title": "建议加强教师心理健康支持体系建设",
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谢征落的一滴泪比陈皮糖还夯",
+          "url": "https://www.douyin.com/hot/2425615",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     }
