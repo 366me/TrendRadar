@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-10T13:46:20.359409+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-10T14:52:05.604290+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "建议加强教师心理健康支持体系建设",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E6%95%99%E5%B8%88%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%94%AF%E6%8C%81%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
