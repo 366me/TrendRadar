@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T04:58:24.713776+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-11T05:30:37.592294+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时30分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -37,7 +38,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
