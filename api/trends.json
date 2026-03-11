@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:50:03.236849+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-11T14:55:17.866958+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "建议建立统一的居民健康档案",
@@ -37,11 +37,23 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时55分]"
+        },
+        {
+          "title": "中药手串是真养生还是纯噱头",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%89%8B%E4%B8%B2%E6%98%AF%E7%9C%9F%E5%85%BB%E7%94%9F%E8%BF%98%E6%98%AF%E7%BA%AF%E5%99%B1%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "专家最推崇的健康习惯是什么",
@@ -53,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "中科院博导李新影因「非特异性呼吸衰竭」去世，年仅 48 岁，这是种什么病？哪些诱因会引发这类健康风险？",
+          "url": "https://www.zhihu.com/question/2014362924509062019",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     },
