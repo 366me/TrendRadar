@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T17:43:11.999143+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-03-11T18:40:12.824400+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             6,
             25,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时39分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -68,19 +69,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 18时40分]"
         },
         {
           "title": "天选喝奶茶体质",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%80%89%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%BD%93%E8%B4%A8&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "专家最推崇的健康习惯是什么",
