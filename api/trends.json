@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T15:44:16.988157+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-11T16:41:42.178267+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             2,
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 16时41分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -49,11 +50,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%8D%AF%E6%89%8B%E4%B8%B2%E6%98%AF%E7%9C%9F%E5%85%BB%E7%94%9F%E8%BF%98%E6%98%AF%E7%BA%AF%E5%99%B1%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 16时41分]"
         },
         {
           "title": "中科院博导李新影因「非特异性呼吸衰竭」去世，年仅 48 岁，这是种什么病？哪些诱因会引发这类健康风险？",
@@ -61,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 16时41分]"
         },
         {
           "title": "专家最推崇的健康习惯是什么",
