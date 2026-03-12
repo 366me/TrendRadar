@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T05:33:58.852214+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-03-13T06:26:47.787630+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 06时26分]"
         },
         {
           "title": "年轻人如何养生？专家这样建议",
@@ -25,11 +25,12 @@
           "ranks": [
             27,
             29,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时26分]"
         },
         {
           "title": "你常吃的健康主食有哪些",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 06时26分]"
         }
       ]
     }
