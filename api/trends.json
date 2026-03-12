@@ -1,112 +1,33 @@
 {
-  "generated_at": "2026-03-12T23:59:55.975715+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-03-13T01:06:17.027810+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "大学生研发养生馒头4个卖了3万元",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A0%94%E5%8F%91%E5%85%BB%E7%94%9F%E9%A6%92%E5%A4%B44%E4%B8%AA%E5%8D%96%E4%BA%863%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 10时06分]"
-        },
         {
           "title": "政协委员给夜班打工人养生建议，「先打坐几分钟再工作」，能起到什么作用？有哪些生理学依据？",
           "url": "https://www.zhihu.com/question/2015093536719074920",
           "source": "知乎",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时59分]"
-        },
-        {
-          "title": "微软在Copilot聊天机器人中推出健康助手。",
-          "url": "https://wallstreetcn.com/livenews/3068949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时08分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "年轻人如何养生？专家这样建议",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A6%82%E4%BD%95%E5%85%BB%E7%94%9F%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%BF%99%E6%A0%B7%E5%BB%BA%E8%AE%AE",
           "source": "百度热搜",
           "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 23时59分]"
-        },
-        {
-          "title": "易梦体质",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E4%BD%93%E8%B4%A8&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时39分]"
-        },
-        {
-          "title": "美以袭击伊朗德黑兰油库致当地下毒雨，这将会带来哪些环境影响？对健康又会产生什么影响？",
-          "url": "https://www.zhihu.com/question/2015031908027823796",
-          "source": "知乎",
-          "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国共和党参议员称：鲍威尔调查案的首席检察官已更换",
-          "url": "https://wallstreetcn.com/livenews/3068257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "信件显示，美国民主党参议员坎特维尔表示，得州此前的无人机事件使飞行公众面临“不可接受的安全风险”。",
-          "url": "https://flash.jin10.com/detail/20260312190255317800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时06分"
         }
       ]
     }
