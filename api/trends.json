@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T04:36:04.815499+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-03-13T05:33:58.852214+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时33分]"
+        },
+        {
+          "title": "年轻人如何养生？专家这样建议",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A6%82%E4%BD%95%E5%85%BB%E7%94%9F%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%BF%99%E6%A0%B7%E5%BB%BA%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时33分]"
         },
         {
           "title": "你常吃的健康主食有哪些",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时43分 ~ 04时36分]"
-        },
-        {
-          "title": "年轻人如何养生？专家这样建议",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A6%82%E4%BD%95%E5%85%BB%E7%94%9F%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%BF%99%E6%A0%B7%E5%BB%BA%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时36分]"
         }
       ]
     }
