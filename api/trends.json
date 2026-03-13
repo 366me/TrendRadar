@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T20:59:16.209389+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-03-13T22:04:13.955975+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,19 @@
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "德国1月未季调经常帐录得170.76亿欧元，为2025年6月以来最大顺差。",
+          "url": "https://flash.jin10.com/detail/20260313214348542800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
         {
           "title": "金十提示：德国1月未季调经常帐数据官网尚未公布。",
           "url": "https://flash.jin10.com/detail/20260313191518316800",
@@ -85,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "德国1月未季调经常帐 170.76亿欧元，前值161亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260313214327151800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "草本排毒护垫检出致癌物",
@@ -109,11 +131,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 20时59分]"
+          "appearance_count": 7,
+          "time_info": "[18时37分 ~ 22时04分]"
         }
       ]
     }
