@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:39:37.492803+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-03-13T18:37:49.098322+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -82,9 +82,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "来尝尝这对陈皮糖味的CP",
+          "url": "https://www.douyin.com/hot/2429297",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
