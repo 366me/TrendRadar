@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T19:25:15.998568+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-14T20:52:27.549235+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             9,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时45分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[13时45分 ~ 20时52分]"
         },
         {
           "title": "本周，标普500指数累跌1.6%，道指累跌2%，纳指累跌1.3%。 周五当天，标普500指数初步收跌0.6%，科技、原材料、电信板块至多跌1.3%。 纳斯达克100指数初步收跌0.6%，成分股中，奥多比Adobe初步收跌7.2%，博通跌4.1%，Meta跌3.7%，Diamondback Energy涨3.2%，西部数据涨4.1%，美光涨5%。 Salesforce初步收跌3.4%，苹果跌2.1%，英伟达跌1.7%，微软跌1.6%，领跌道指成分股，联合健康则涨1.7%，波音公司涨2.5%。",
@@ -49,7 +50,7 @@
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "来尝尝这对陈皮糖味的CP",
@@ -71,6 +72,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时40分 ~ 14时46分]"
+        },
+        {
+          "title": "商家回应《逐玉》带火陈皮糖",
+          "url": "https://www.toutiao.com/trending/7616585427920945190/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     }
