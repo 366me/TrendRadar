@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:27:08.270377+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-03-15T02:39:35.186490+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -54,19 +54,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时39分]"
         },
         {
           "title": "799 元镜片进价仅 15 元，溢价超 50 倍，这个利润空间合理吗？镜片质量对用眼健康实际影响多大？",
           "url": "https://www.zhihu.com/question/2016164966399435420",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时39分]"
         }
       ]
     }
