@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:47:11.208516+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-03-14T22:29:57.610750+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,24 @@
             9,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时45分 ~ 21时47分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 22时29分]"
+        },
+        {
+          "title": "799 元镜片进价仅 15 元，溢价超 50 倍，这个利润空间合理吗？镜片质量对用眼健康实际影响多大？",
+          "url": "https://www.zhihu.com/question/2016164966399435420",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 22时29分]"
         },
         {
           "title": "本周，标普500指数累跌1.6%，道指累跌2%，纳指累跌1.3%。 周五当天，标普500指数初步收跌0.6%，科技、原材料、电信板块至多跌1.3%。 纳斯达克100指数初步收跌0.6%，成分股中，奥多比Adobe初步收跌7.2%，博通跌4.1%，Meta跌3.7%，Diamondback Energy涨3.2%，西部数据涨4.1%，美光涨5%。 Salesforce初步收跌3.4%，苹果跌2.1%，英伟达跌1.7%，微软跌1.6%，领跌道指成分股，联合健康则涨1.7%，波音公司涨2.5%。",
@@ -34,17 +47,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "799 元镜片进价仅 15 元，溢价超 50 倍，这个利润空间合理吗？镜片质量对用眼健康实际影响多大？",
-          "url": "https://www.zhihu.com/question/2016164966399435420",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "气血不足可能有哪些表现",
