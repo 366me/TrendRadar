@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T07:28:17.766268+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-15T10:26:38.206995+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时26分]"
         },
         {
           "title": "799 元镜片进价仅 15 元，溢价超 50 倍，这个利润空间合理吗？镜片质量对用眼健康实际影响多大？",
@@ -65,11 +65,29 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5款网红护肝片含量检测全虚标",
+          "url": "https://s.weibo.com/weibo?q=%235%E6%AC%BE%E7%BD%91%E7%BA%A2%E6%8A%A4%E8%82%9D%E7%89%87%E5%90%AB%E9%87%8F%E6%A3%80%E6%B5%8B%E5%85%A8%E8%99%9A%E6%A0%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
