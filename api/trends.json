@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T01:28:17.717875+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-03-16T02:40:15.727817+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "315 晚会曝光网红鸡爪使用双氧水漂白，生产环境脏乱不堪，对健康危害有多大？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "新华时评丨维护中美经贸关系健康、稳定、可持续发展",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "899元进口保健品成本20元",
+          "url": "https://www.toutiao.com/trending/7617340660547616810/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 02时40分]"
         }
       ]
     }
