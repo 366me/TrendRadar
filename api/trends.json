@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T16:37:51.572788+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-03-15T17:35:22.475657+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 16时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 17时35分]"
         },
         {
           "title": "新华时评：维护中美经贸关系健康、稳定、可持续发展",
@@ -44,11 +44,12 @@
             3,
             7,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时35分]"
         },
         {
           "title": "保证前额叶健康太重要了",
@@ -57,11 +58,12 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时35分]"
         },
         {
           "title": "警惕家中“僵尸肉”危害健康",
