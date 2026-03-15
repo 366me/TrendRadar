@@ -1,162 +1,33 @@
 {
-  "generated_at": "2026-03-15T23:29:50.217076+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-03-16T00:34:22.450443+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时26分]"
-        },
-        {
-          "title": "799 元镜片进价仅 15 元，溢价超 50 倍，这个利润空间合理吗？镜片质量对用眼健康实际影响多大？",
-          "url": "https://www.zhihu.com/question/2016164966399435420",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            1,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 18时32分]"
-        },
         {
           "title": "315 晚会曝光网红鸡爪使用双氧水漂白，生产环境脏乱不堪，对健康危害有多大？",
           "url": "https://www.zhihu.com/question/2016607467954467246",
           "source": "知乎",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 23时29分]"
-        },
-        {
-          "title": "新华时评：维护中美经贸关系健康、稳定、可持续发展",
-          "url": "https://wallstreetcn.com/livenews/3070223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11,
-            15,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 18时32分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "新华时评丨维护中美经贸关系健康、稳定、可持续发展",
           "url": "https://www.cls.cn/detail/2313132",
           "source": "财联社热门",
           "ranks": [
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 23时29分]"
-        },
-        {
-          "title": "保证前额叶健康太重要了",
-          "url": "https://s.weibo.com/weibo?q=%E4%BF%9D%E8%AF%81%E5%89%8D%E9%A2%9D%E5%8F%B6%E5%81%A5%E5%BA%B7%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 17时35分]"
-        },
-        {
-          "title": "警惕家中“僵尸肉”危害健康",
-          "url": "https://www.toutiao.com/trending/7616556533915271219/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 16时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国共和党参议员格雷厄姆：伊朗试图关闭霍尔木兹海峡的行为是在自取灭亡。",
-          "url": "https://flash.jin10.com/detail/20260314232701378800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
-          "url": "https://flash.jin10.com/detail/20260314232530491800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：特朗普总统决定将战火引向哈尔克岛，这一举措是必要的、大胆的，而且在我看来，非常有效。这将有助于缩短战争。",
-          "url": "https://flash.jin10.com/detail/20260314232502716800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "5款网红护肝片含量检测全虚标",
-          "url": "https://s.weibo.com/weibo?q=%235%E6%AC%BE%E7%BD%91%E7%BA%A2%E6%8A%A4%E8%82%9D%E7%89%87%E5%90%AB%E9%87%8F%E6%A3%80%E6%B5%8B%E5%85%A8%E8%99%9A%E6%A0%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "00时34分"
         }
       ]
     }
