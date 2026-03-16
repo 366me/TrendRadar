@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T16:57:39.901414+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-16T18:09:04.612348+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 18时09分]"
         },
         {
           "title": "新华时评丨维护中美经贸关系健康、稳定、可持续发展",
@@ -112,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 18时09分]"
         }
       ]
     }
