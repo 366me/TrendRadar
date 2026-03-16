@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T02:02:09.822435+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-03-17T03:18:03.233616+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32777012",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时18分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -27,19 +28,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时18分]"
         },
         {
           "title": "你每天有哪些养生好习惯呢？",
           "url": "https://www.zhihu.com/question/652908934",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时18分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 03时18分]"
         }
       ]
     }
