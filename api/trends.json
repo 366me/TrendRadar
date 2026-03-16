@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-03-16T21:13:18.673526+08:00",
-  "total_titles_processed": 1486,
-  "failed_sources": [],
+  "generated_at": "2026-03-16T23:02:27.936673+08:00",
+  "total_titles_processed": 1623,
+  "failed_sources": [
+    "bilibili-hot-search",
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
@@ -31,8 +34,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 21时13分]"
+          "appearance_count": 10,
+          "time_info": "[13时16分 ~ 23时02分]"
         },
         {
           "title": "899元进口保健品成本20元",
@@ -76,7 +79,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
@@ -128,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 21时13分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 23时02分]"
         }
       ]
     }
