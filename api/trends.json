@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T16:54:31.053540+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-03-17T17:56:37.188444+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时01分 ~ 16时54分]"
+          "appearance_count": 16,
+          "time_info": "[02时01分 ~ 17时56分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -75,11 +75,29 @@
             8,
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 16时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 17时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗高级官员：伊朗新任最高领导人参加外交政策会议时拒绝了“缓和紧张局势或与美国实现和平”的提议。",
+          "url": "https://flash.jin10.com/detail/20260317173954045800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     }
