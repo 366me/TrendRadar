@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T17:56:37.188444+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-03-17T18:53:23.686195+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时01分 ~ 17时56分]"
+          "appearance_count": 17,
+          "time_info": "[02时01分 ~ 18时53分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -64,6 +64,34 @@
       ]
     },
     {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗高级官员：伊朗新任最高领导人参加外交政策会议时拒绝了“缓和紧张局势或与美国实现和平”的提议。",
+          "url": "https://flash.jin10.com/detail/20260317173954045800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "随着汽油零售价格上涨，美国亚利桑那州民主党参议员鲁本·加列戈(Ruben Gallego)正向美国能源部施压，要求其提供战略石油储备的详细计划。",
+          "url": "https://flash.jin10.com/detail/20260317182157977800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
       "titles": [
@@ -76,28 +104,12 @@
             17,
             19,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 17时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗高级官员：伊朗新任最高领导人参加外交政策会议时拒绝了“缓和紧张局势或与美国实现和平”的提议。",
-          "url": "https://flash.jin10.com/detail/20260317173954045800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 18时53分]"
         }
       ]
     }
