@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T15:15:48.159339+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-03-17T16:54:31.053540+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时01分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[02时01分 ~ 16时54分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -74,11 +74,12 @@
           "ranks": [
             8,
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 15时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 16时54分]"
         }
       ]
     }
