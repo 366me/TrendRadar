@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T10:06:57.778666+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-17T12:52:06.478801+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[02时01分 ~ 12时52分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -72,11 +72,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351844&amp;topic_name=%E8%A5%BF%E6%A2%85%E6%B1%81%E9%80%9A%E4%BE%BF%E7%9C%9F%E7%9B%B8%3A%E5%85%A8%E6%98%AF%E7%A7%91%E6%8A%80%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 10时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 12时52分]"
         }
       ]
     }
