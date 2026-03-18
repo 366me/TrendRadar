@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T21:13:20.142962+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-03-18T23:03:12.778479+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时03分]"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
@@ -39,7 +40,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
@@ -56,7 +57,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
