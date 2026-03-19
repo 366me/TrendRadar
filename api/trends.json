@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T21:05:42.848960+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2026-03-19T22:48:17.758985+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国民主党参议员沃伦要求沃什在3月31日前就爱泼斯坦文件问题作出回应。",
+          "url": "https://flash.jin10.com/detail/20260319223321264800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：（对美联储提名人沃什表示）你的名字似乎出现在爱泼斯坦文件中。",
+          "url": "https://flash.jin10.com/detail/20260319223303348800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美国民主党参议员沃伦调查美联储主席提名人凯文.沃什与爱泼斯坦文件的关系。",
+          "url": "https://flash.jin10.com/detail/20260319223211924800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
