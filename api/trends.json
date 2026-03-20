@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:38:43.209982+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-20T19:32:33.889190+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             14,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 18时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 19时32分]"
         },
         {
           "title": "郑州一中医馆被查封",
