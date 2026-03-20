@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-20T21:01:44.550180+08:00",
-  "total_titles_processed": 1852,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-03-20T22:05:19.857820+08:00",
+  "total_titles_processed": 1952,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
@@ -22,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时52分 ~ 21时01分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 22时05分]"
         },
         {
           "title": "郑州一中医馆被查封",
@@ -44,7 +42,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
