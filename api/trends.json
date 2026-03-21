@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:43:50.252659+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-03-21T15:34:09.924871+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时34分]"
         },
         {
           "title": "中医药如何呵护女性健康",
