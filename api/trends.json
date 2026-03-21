@@ -1,48 +1,22 @@
 {
-  "generated_at": "2026-03-21T23:26:53.936428+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-03-22T00:32:07.044498+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
+      "match_count": 1,
       "titles": [
         {
-          "title": "男子称网购保健品涉嫌虚假宣传，“美国进口”水蛭素生产商却是香港企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796338",
-          "source": "澎湃新闻",
+          "title": "葛夕公布体检报告",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E5%85%AC%E5%B8%83%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            10,
-            7
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 09时59分]"
-        },
-        {
-          "title": "健康生活 太极同行",
-          "url": "https://www.douyin.com/hot/2436262",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时34分]"
-        },
-        {
-          "title": "中医药如何呵护女性健康",
-          "url": "https://www.toutiao.com/trending/7619277263309865014/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
