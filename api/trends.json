@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T22:59:06.789993+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-03-25T00:12:02.231571+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,28 +12,11 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%BF%9D%E5%85%BB%E6%B0%94%E8%A1%80",
           "source": "百度热搜",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时12分 ~ 22时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据Politico：美国共和党参议员布里特、莫雷诺、戴恩斯、格雷厄姆与美国总统特朗普会面，寻求结束国土安全部停摆。",
-          "url": "https://flash.jin10.com/detail/20260324064457888800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 00时12分]"
         }
       ]
     }
