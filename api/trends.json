@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T10:10:35.942611+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-03-25T12:54:33.708990+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "少刷手机就是在保养气血",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "张雪峰在公司跑步后出现不适，抢救无效去世，他曾说「无论多晚下班都会跑步」，这到底健不健康？",
+          "url": "https://www.zhihu.com/question/2019895670488658744",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
