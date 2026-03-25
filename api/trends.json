@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T07:42:18.093052+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-03-25T10:10:35.942611+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 10时10分]"
         },
         {
           "title": "为何看起来健康的人会心源性猝死",
@@ -26,7 +27,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
