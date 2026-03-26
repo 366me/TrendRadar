@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-26T15:10:03.357418+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-03-26T16:57:24.388796+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "江苏卧床35年女子诞下健康宝宝",
           "url": "https://www.toutiao.com/trending/7621395336163672070/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时57分]"
         },
         {
           "title": "有人说主播和老师长期大声讲话、保持高亢状态，很「耗气血」、损耗健康，是这样吗？这里说的「气血」是什么？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时57分]"
         },
         {
           "title": "美联储警告：体育博彩合法化正显著侵蚀美国青少年信用健康",
@@ -40,6 +41,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "江苏卧床35年女子诞下健康宝宝",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%A7%E5%BA%8A35%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%AF%9E%E4%B8%8B%E5%81%A5%E5%BA%B7%E5%AE%9D%E5%AE%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "气血不足的人干不了这活",
+          "url": "https://s.weibo.com/weibo?q=%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%B9%B2%E4%B8%8D%E4%BA%86%E8%BF%99%E6%B4%BB&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     }
