@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T16:54:18.632849+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-03-27T17:55:36.467127+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗冲突推动油价收入上涨 俄罗斯取消下调经济预期",
+          "url": "https://flash.jin10.com/detail/20260327172719442800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         }
       ]
     }
