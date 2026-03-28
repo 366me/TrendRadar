@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-03-28T23:33:07.032637+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-03-29T00:35:13.565523+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德国籍中医为记者号脉逗笑全场",
-          "url": "https://www.toutiao.com/trending/7621768161347538486/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时32分]"
-        },
-        {
-          "title": "春季如何养胃护胃",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E5%AD%A3%E5%A6%82%E4%BD%95%E5%85%BB%E8%83%83%E6%8A%A4%E8%83%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 19时28分]"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
@@ -42,12 +12,11 @@
           "url": "https://www.zhihu.com/question/2021257520430276823",
           "source": "知乎",
           "ranks": [
-            10,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时52分 ~ 23时33分]"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     }
