@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-29T01:29:55.566257+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-29T02:41:25.934049+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世卫组织总干事谭德塞：今天，黎巴嫩南部的五起针对医疗保健设施的袭击造成九名医护人员死亡。",
+          "url": "https://flash.jin10.com/detail/20260329012923298800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
@@ -16,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时41分]"
         }
       ]
     }
