@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:37:44.540505+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-03-29T18:34:26.133199+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             19,
             15,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 17时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 18时34分]"
         },
         {
           "title": "德国中医河南买菜被送葱：感觉很亲切",
