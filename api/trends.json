@@ -1,134 +1,8 @@
 {
-  "generated_at": "2026-03-29T23:33:19.577625+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-03-30T00:36:14.716334+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "德国中医河南买菜被送葱：成了自己人",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            20,
-            19,
-            15,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 18时34分]"
-        },
-        {
-          "title": "德国中医河南买菜被送葱：感觉很亲切",
-          "url": "https://www.toutiao.com/trending/7622443359944150537/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "美国总统特朗普：不可负担的奥巴马医保必须被直接支付给人民所取代，这样他们才能购买自己的医疗保健，而不是支付给臃肿且冷漠的保险公司。奥巴马医保既不是，也从来都不是可持续的！",
-          "url": "https://flash.jin10.com/detail/20260329215508476800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 23时33分]"
-        },
-        {
-          "title": "能推荐一下适合打工人的必备保健品吗？",
-          "url": "https://www.zhihu.com/question/658149745",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 07时32分]"
-        },
-        {
-          "title": "如何区分健康的「自律」与「过度自律」？为何有些人会为自律而焦虑？我们又该如何把控自律的度？",
-          "url": "https://www.zhihu.com/question/2020174070033905019",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 13时11分]"
-        },
-        {
-          "title": "世卫组织总干事谭德塞：今天，黎巴嫩南部的五起针对医疗保健设施的袭击造成九名医护人员死亡。",
-          "url": "https://flash.jin10.com/detail/20260329012923298800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时31分]"
-        },
-        {
-          "title": "当你吃了一整天健康食物",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E5%90%83%E4%BA%86%E4%B8%80%E6%95%B4%E5%A4%A9%E5%81%A5%E5%BA%B7%E9%A3%9F%E7%89%A9&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "春季如何养胃护胃",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E5%AD%A3%E5%A6%82%E4%BD%95%E5%85%BB%E8%83%83%E6%8A%A4%E8%83%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "江苏一学校将月考变月烤，组织学生在校园内烧烤撸串缓解学习压力，怎样看待这种方式？减压效果怎么样？",
-          "url": "https://www.zhihu.com/question/2021257520430276823",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
@@ -138,11 +12,11 @@
           "url": "https://flash.jin10.com/detail/20260329223536350800",
           "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "00时36分"
         }
       ]
     }
