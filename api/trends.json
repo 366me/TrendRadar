@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-29T15:04:51.152242+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:41:03.363856+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 7,
       "titles": [
+        {
+          "title": "德国中医河南买菜被送葱：成了自己人",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 16时41分]"
+        },
         {
           "title": "德国中医河南买菜被送葱：感觉很亲切",
           "url": "https://www.toutiao.com/trending/7622443359944150537/",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "德国中医河南买菜被送葱：成了自己人",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时04分]"
         },
         {
           "title": "能推荐一下适合打工人的必备保健品吗？",
