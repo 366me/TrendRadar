@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T17:02:10.559763+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-03-31T18:13:00.595149+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“过敏是因为免疫力差”系谣言",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 18时13分]"
         },
         {
           "title": "“过敏是因为免疫力差”系误区",
@@ -26,8 +26,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时13分]"
+        },
+        {
+          "title": "瑷尔博士抗衰老的中国解法",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%91%B7%E5%B0%94%E5%8D%9A%E5%A3%AB%E6%8A%97%E8%A1%B0%E8%80%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A7%A3%E6%B3%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     }
