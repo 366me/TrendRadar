@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:57:17.677491+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-04-01T19:54:56.628207+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 19时54分]"
         },
         {
           "title": "央视曝光伪进口保健品",
@@ -53,11 +53,12 @@
           "ranks": [
             17,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 19时54分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署部署核查跨境电商进口“优思益”保健品违规营销行为",
@@ -66,7 +67,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }
