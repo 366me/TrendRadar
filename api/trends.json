@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T15:24:14.399561+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-04-01T17:05:03.109814+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时57分 ~ 07时54分]"
         },
         {
+          "title": "马上测｜起底有享猫自营“靶向硒片”：宣称能抑制肿瘤，实为保健品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867301",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时36分 ~ 17时05分]"
+        },
+        {
           "title": "央视曝光伪进口保健品",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BC%AA%E8%BF%9B%E5%8F%A3%E4%BF%9D%E5%81%A5%E5%93%81",
           "source": "bilibili 热搜",
@@ -32,28 +46,16 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
-          "title": "马上测｜起底有享猫自营“靶向硒片”：宣称能抑制肿瘤，实为保健品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867301",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时24分]"
-        },
-        {
           "title": "“进口”保健品乱象曝光：销冠“澳洲优思益”实为纯国产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32869495",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时05分]"
         }
       ]
     }
