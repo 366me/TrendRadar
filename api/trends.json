@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T00:02:20.532893+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-04-03T01:50:56.372277+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "“吹风机养生”火了 这几类人慎用",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%B9%E9%A3%8E%E6%9C%BA%E5%85%BB%E7%94%9F%E2%80%9D%E7%81%AB%E4%BA%86+%E8%BF%99%E5%87%A0%E7%B1%BB%E4%BA%BA%E6%85%8E%E7%94%A8",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "气血不足建议好好吃主食",
