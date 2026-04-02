@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T16:57:49.741890+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-02T18:04:48.186742+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             15,
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 18时04分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.5美元/桶，报99.23美元/桶。 据阿拉伯媒体事件报 (Al Hadath)，伊朗外交部表示，最高领袖身体“健康”，可能会“很快公开露面”。",
