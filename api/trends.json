@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:50:56.372277+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-03T02:57:57.194326+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时57分]"
         },
         {
           "title": "“吹风机养生”火了 这几类人慎用",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时57分]"
         },
         {
           "title": "气血不足建议好好吃主食",
