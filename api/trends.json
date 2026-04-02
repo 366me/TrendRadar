@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T07:36:50.439830+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-02T10:14:25.074420+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国共和党参议员格雷厄姆：太久以来，没有人真正对伊朗采取立场，直到我们迎来了特朗普总统的领导，加上美国军人们的勇气，让我们晚上能睡得更安心。",
+          "url": "https://flash.jin10.com/detail/20260402095723210800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
