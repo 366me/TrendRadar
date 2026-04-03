@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T21:04:44.470734+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-04-03T22:42:43.274619+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
@@ -89,9 +89,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
+          "url": "https://www.cls.cn/detail/2335085",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     }
