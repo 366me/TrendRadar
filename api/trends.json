@@ -1,100 +1,8 @@
 {
-  "generated_at": "2026-04-03T23:39:56.063014+08:00",
-  "total_titles_processed": 1955,
+  "generated_at": "2026-04-04T00:40:40.925210+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马上测｜“有享猫”平台再起底：线上鼓吹保健品能抑制肿瘤，线下送水拉人返利",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871784",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "“吹风机养生”火了 这几类人慎用",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%B9%E9%A3%8E%E6%9C%BA%E5%85%BB%E7%94%9F%E2%80%9D%E7%81%AB%E4%BA%86+%E8%BF%99%E5%87%A0%E7%B1%BB%E4%BA%BA%E6%85%8E%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10,
-            15,
-            23,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "双脚是全身健康“放大镜”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%84%9A%E6%98%AF%E5%85%A8%E8%BA%AB%E5%81%A5%E5%BA%B7%E2%80%9C%E6%94%BE%E5%A4%A7%E9%95%9C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时38分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3081783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时39分]"
-        },
-        {
-          "title": "气血不足建议好好吃主食",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E5%BB%BA%E8%AE%AE%E5%A5%BD%E5%A5%BD%E5%90%83%E4%B8%BB%E9%A3%9F%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "广电总局电视剧司召开电视剧健康审美座谈会",
-          "url": "https://wallstreetcn.com/livenews/3081673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国劳工统计局：3月份，医疗保健行业新增了76000个工作岗位。门诊医疗保健服务领域的就业人数增加了54000人，这其中包括医生办公室的员工在罢工结束返回工作岗位后，该领域的就业人数增加了35000人。医院的就业人数也有所增加（增加了15000人）。在过去12个月里，医疗保健行业平均每月新增29000个工作岗位。",
-          "url": "https://flash.jin10.com/detail/20260403203441437800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
       "match_count": 1,
@@ -104,12 +12,11 @@
           "url": "https://www.cls.cn/detail/2335085",
           "source": "财联社热门",
           "ranks": [
-            12,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
