@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T22:47:12.912774+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-04-06T23:47:40.243118+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "「吹风机养生」火了，被称「能顶半个老中医」，真有这么神奇吗？从医学角度如何正确看待其保健作用？",
@@ -22,6 +22,18 @@
           "time_info": "[07时34分 ~ 17时09分]"
         },
         {
+          "title": "6个被严重低估的“养生动作”",
+          "url": "https://www.baidu.com/s?wd=6%E4%B8%AA%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E7%9A%84%E2%80%9C%E5%85%BB%E7%94%9F%E5%8A%A8%E4%BD%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时47分]"
+        },
+        {
           "title": "存在感低 吃瓜体质",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%9C%A8%E6%84%9F%E4%BD%8E%20%E5%90%83%E7%93%9C%E4%BD%93%E8%B4%A8&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -34,15 +46,15 @@
           "time_info": "[18时57分 ~ 19时51分]"
         },
         {
-          "title": "6个被严重低估的“养生动作”",
-          "url": "https://www.baidu.com/s?wd=6%E4%B8%AA%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E7%9A%84%E2%80%9C%E5%85%BB%E7%94%9F%E5%8A%A8%E4%BD%9C%E2%80%9D",
-          "source": "百度热搜",
+          "title": "专家带您识别疼痛背后隐藏的健康危机",
+          "url": "https://www.toutiao.com/trending/7624705623558340646/",
+          "source": "今日头条",
           "ranks": [
-            28
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
