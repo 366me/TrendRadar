@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T21:11:46.397958+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-06T22:47:12.912774+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "「吹风机养生」火了，被称「能顶半个老中医」，真有这么神奇吗？从医学角度如何正确看待其保健作用？",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时57分 ~ 19时51分]"
+        },
+        {
+          "title": "6个被严重低估的“养生动作”",
+          "url": "https://www.baidu.com/s?wd=6%E4%B8%AA%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E7%9A%84%E2%80%9C%E5%85%BB%E7%94%9F%E5%8A%A8%E4%BD%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         }
       ]
     },
