@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:36:03.949552+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2026-04-08T23:11:11.402743+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://www.zhihu.com/question/1995520736077554384",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时11分]"
         },
         {
           "title": "标普：鉴于预计菲律宾未来两年经济仍将保持健康增长、财政赤字将有所收窄，对其评级展望为稳定",
@@ -41,7 +42,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
