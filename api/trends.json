@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T22:02:19.964853+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-04-09T23:45:59.362469+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
@@ -129,11 +129,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E8%87%B3300%E5%85%83%E7%9A%84%E9%99%8D%E8%84%82%E9%92%88%E8%A2%AB%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时45分]"
         },
         {
           "title": "欧盟警告停火难掩“滞胀”隐忧 拟下调经济增速",
