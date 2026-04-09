@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T19:59:22.413241+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-04-09T22:02:19.964853+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 22时02分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：特朗普总统明白过去的领导人所忽视的，即伊朗绝不能拥有核武器。",
@@ -80,8 +81,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 22时02分]"
         },
         {
           "title": "央视曝光黑中医馆骗局",
@@ -121,8 +122,19 @@
     },
     {
       "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "降至300元的降脂针被纳入医保",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E8%87%B3300%E5%85%83%E7%9A%84%E9%99%8D%E8%84%82%E9%92%88%E8%A2%AB%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
         {
           "title": "欧盟警告停火难掩“滞胀”隐忧 拟下调经济增速",
           "url": "https://flash.jin10.com/detail/20260409121410008800",
