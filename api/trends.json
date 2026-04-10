@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:55:44.938614+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-04-10T19:50:06.452411+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -89,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时50分]"
         },
         {
           "title": "杭州西湖将连续一周撒 7 吨漂白粉，以保障荷花健康生长，会对其他生物产生影响吗？还有哪些好的消杀方式？",
@@ -121,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 19时50分]"
         }
       ]
     },
@@ -139,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时50分]"
         }
       ]
     }
