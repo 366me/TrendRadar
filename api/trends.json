@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:06:50.789191+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-11T01:49:00.144237+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260411004405756800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时49分]"
         },
         {
           "title": "菊花厂砍福利,老员工发帖避雷",
@@ -26,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 01时49分]"
         }
       ]
     }
