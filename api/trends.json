@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T07:36:06.705240+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-04-11T10:12:28.917577+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353039&amp;topic_name=%E8%8F%8A%E8%8A%B1%E5%8E%82%E7%A0%8D%E7%A6%8F%E5%88%A9%2C%E8%80%81%E5%91%98%E5%B7%A5%E5%8F%91%E5%B8%96%E9%81%BF%E9%9B%B7",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 10时12分]"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
