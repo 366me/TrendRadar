@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:14:57.664783+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-11T16:43:05.617644+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://www.zhihu.com/question/2025998956627322706",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 16时43分]"
         }
       ]
     },
@@ -48,11 +49,12 @@
             11,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时06分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[01时06分 ~ 16时43分]"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
