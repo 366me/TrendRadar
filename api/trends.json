@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:31:50.878414+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-11T20:58:42.824186+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             19,
             20,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 20时58分]"
         },
         {
           "title": "爆火鸡煲店老板：老中医转行做鸡煲",
@@ -53,11 +54,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时06分 ~ 19时31分]"
+          "appearance_count": 25,
+          "time_info": "[01时06分 ~ 20时58分]"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
