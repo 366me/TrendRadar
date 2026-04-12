@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-13T01:35:40.166939+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-04-13T02:51:45.378796+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "匈牙利反对派领袖毛焦尔·彼得：匈牙利人再次创造历史。投票率显示超过六百万匈牙利人参与投票。创纪录的投票率表明匈牙利人认为这是一次重要的选举。",
+          "url": "https://flash.jin10.com/detail/20260413013612544800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
