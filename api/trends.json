@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:04:10.709226+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-04-14T21:26:41.245410+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -36,26 +36,57 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "外国人一季度买了50亿元中国保温杯",
-          "url": "https://www.toutiao.com/trending/7628497589507801098/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
           "title": "外国人从中国买走50亿元保温杯",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B9%B0%E8%B5%B050%E4%BA%BF%E5%85%83%E4%BF%9D%E6%B8%A9%E6%9D%AF",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时26分]"
+        },
+        {
+          "title": "外国人一季度买了50亿元中国保温杯",
+          "url": "https://www.toutiao.com/trending/7628497589507801098/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "荷兰首相：我与组成跨大西洋关系工作组的美国民主党及共和党参议员进行了交流。在当前国际局势高度紧张的时刻，即便我们在某些问题上存在分歧，维持强有力的美欧关系也至关重要。",
+          "url": "https://flash.jin10.com/detail/20260414052049232800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
+          "title": "美共和党参议员：沃什听证会定于下周举行，司法部调查料数周内结束以扫清障碍",
+          "url": "https://flash.jin10.com/detail/20260414211748605800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -73,24 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "荷兰首相：我与组成跨大西洋关系工作组的美国民主党及共和党参议员进行了交流。在当前国际局势高度紧张的时刻，即便我们在某些问题上存在分歧，维持强有力的美欧关系也至关重要。",
-          "url": "https://flash.jin10.com/detail/20260414052049232800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时44分]"
         }
       ]
     }
