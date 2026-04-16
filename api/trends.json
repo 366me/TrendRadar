@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T15:47:01.912619+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-16T17:20:05.781928+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "有手就会做的春季懒人健康餐",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E6%89%8B%E5%B0%B1%E4%BC%9A%E5%81%9A%E7%9A%84%E6%98%A5%E5%AD%A3%E6%87%92%E4%BA%BA%E5%81%A5%E5%BA%B7%E9%A4%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        },
         {
           "title": "A股乳业板块短线拉升，均瑶健康涨停，维维股份、熊猫乳品、皇氏集团、西部牧业、庄园牧场等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260416100443342800",
@@ -41,11 +52,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 17时20分]"
         },
         {
           "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
