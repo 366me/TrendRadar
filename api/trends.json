@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:43:41.188743+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-17T06:40:36.672381+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时40分]"
         },
         {
           "title": "小红书上兜售健康证 人不到可办证",
@@ -44,11 +45,12 @@
           "ranks": [
             22,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时40分]"
         }
       ]
     }
