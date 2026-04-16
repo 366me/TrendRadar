@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:03:31.470494+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-04-16T21:45:29.866404+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 21时45分]"
         },
         {
           "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
