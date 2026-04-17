@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:53:40.151582+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-04-17T21:21:00.709373+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时28分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[13时28分 ~ 21时21分]"
         },
         {
           "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
@@ -27,11 +28,12 @@
             14,
             13,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时28分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[13时28分 ~ 21时21分]"
         },
         {
           "title": "国家中医药管理局原局长被提起公诉",
