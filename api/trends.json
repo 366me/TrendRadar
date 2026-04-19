@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:42:08.841380+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-20T04:38:41.455189+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时38分]"
         },
         {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
@@ -47,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     }
