@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-19T17:48:23.806353+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-04-19T18:39:52.178617+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "穿衣服的机器人参加半马被观众辣评",
           "url": "https://www.toutiao.com/trending/7630352941345472555/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时39分]"
+        },
+        {
+          "title": "穿衣服的机器人参加半马被观众辣评",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E8%A1%A3%E6%9C%8D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%8D%8A%E9%A9%AC%E8%A2%AB%E8%A7%82%E4%BC%97%E8%BE%A3%E8%AF%84",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "亦庄半马机器人交警上岗，现场指挥机器人参赛",
