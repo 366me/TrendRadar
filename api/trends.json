@@ -1,82 +1,8 @@
 {
-  "generated_at": "2026-04-19T23:38:12.112168+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-20T00:41:01.046644+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "穿衣服的机器人参加半马被观众辣评",
-          "url": "https://www.toutiao.com/trending/7630352941345472555/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 19时35分]"
-        },
-        {
-          "title": "穿衣服的机器人参加半马被观众辣评",
-          "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E8%A1%A3%E6%9C%8D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%8D%8A%E9%A9%AC%E8%A2%AB%E8%A7%82%E4%BC%97%E8%BE%A3%E8%AF%84",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 22时40分]"
-        },
-        {
-          "title": "亦庄半马机器人交警上岗，现场指挥机器人参赛",
-          "url": "https://flash.jin10.com/detail/20260419094207878800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "降脂针已卖“白菜价”",
-          "url": "https://www.baidu.com/s?wd=%E9%99%8D%E8%84%82%E9%92%88%E5%B7%B2%E5%8D%96%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时40分 ~ 23时38分]"
-        },
-        {
-          "title": "谷雨时节话“祛湿”",
-          "url": "https://www.toutiao.com/trending/7629623305561735218/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时02分]"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 1,
@@ -86,12 +12,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33004952",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时40分 ~ 23时38分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "降脂针已卖“白菜价”",
+          "url": "https://www.baidu.com/s?wd=%E9%99%8D%E8%84%82%E9%92%88%E5%B7%B2%E5%8D%96%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260419233905048800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     }
