@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T22:40:40.157794+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-04-19T23:38:12.112168+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "降脂针已卖“白菜价”",
+          "url": "https://www.baidu.com/s?wd=%E9%99%8D%E8%84%82%E9%92%88%E5%B7%B2%E5%8D%96%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时38分]"
+        },
+        {
           "title": "谷雨时节话“祛湿”",
           "url": "https://www.toutiao.com/trending/7629623305561735218/",
           "source": "今日头条",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时35分 ~ 21时02分]"
-        },
-        {
-          "title": "降脂针已卖“白菜价”",
-          "url": "https://www.baidu.com/s?wd=%E9%99%8D%E8%84%82%E9%92%88%E5%B7%B2%E5%8D%96%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         }
       ]
     },
@@ -85,11 +86,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33004952",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时38分]"
         }
       ]
     }
