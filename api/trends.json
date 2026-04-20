@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:47:56.760459+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-21T06:43:47.753190+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             7,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
@@ -29,11 +30,12 @@
             24,
             30,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
