@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:27:11.691541+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-04-21T19:29:02.630780+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "广东高校试点健康跑新规，每天不少于 3000 米、每周至少跑 5 天，这样的运动量适合大学生吗？",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时47分]"
+        },
+        {
+          "title": "老中医现场针灸治疗后患者当场落泪",
+          "url": "https://www.toutiao.com/trending/7630055937160495110/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
