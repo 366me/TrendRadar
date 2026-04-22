@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T10:34:15.045155+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-04-22T13:26:35.867443+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "降脂针入医保降至 300 元白菜价，不少人将其当作减肥「偷懒针」「省事针」，这种针能用来减重吗？",
+          "url": "https://www.zhihu.com/question/2029481134069741128",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     }
