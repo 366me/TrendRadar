@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T21:28:43.844453+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-04-22T23:14:24.238164+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
             13,
             8,
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 23时14分]"
         },
         {
           "title": "英国财政部发布英国财政大臣里夫斯与银行的会议纪要。里夫斯强调经济稳定是政府的首要任务。",
