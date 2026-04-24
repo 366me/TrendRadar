@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:48:14.365330+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-25T06:40:00.269053+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 06时40分]"
         },
         {
           "title": "吃猪油到底健康还算是不健康呢？",
@@ -29,11 +29,12 @@
           "ranks": [
             18,
             14,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 06时40分]"
         },
         {
           "title": "吃馒头和吃面包哪个更健康",
@@ -42,11 +43,12 @@
           "ranks": [
             9,
             30,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[02时52分 ~ 06时40分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.46%，可选消费板块涨1.36%，电信板块涨0.88%，能源板块则收跌0.24%，金融板块跌0.64%，工业板块跌0.89%，保健板块跌1.37%。",
@@ -54,11 +56,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时48分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时40分]"
         }
       ]
     },
