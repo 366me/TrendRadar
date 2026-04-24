@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T21:43:31.489830+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-04-24T23:08:51.301606+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时08分]"
         },
         {
           "title": "经常吃馒头和经常吃面包哪个更健康",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -36,9 +36,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国民主党参议员沃伦：司法部放弃对鲍威尔的调查，是试图让沃什上任的举措。参议院不应继续推进沃什的提名。",
+          "url": "https://flash.jin10.com/detail/20260424224946507800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     }
