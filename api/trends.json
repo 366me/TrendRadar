@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T02:53:15.306864+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-04-25T03:53:06.494685+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "吃猪油到底健康还算是不健康呢？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "吃馒头和吃面包哪个更健康",
