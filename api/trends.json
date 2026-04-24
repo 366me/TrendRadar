@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T00:57:25.172632+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T01:52:01.636455+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "吃猪油到底健康还算是不健康呢？",
@@ -26,8 +26,25 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国共和党参议员蒂姆·斯科特邀请美联储监察长就大楼翻新调查向参议院委员会作简要说明。",
+          "url": "https://flash.jin10.com/detail/20260425010015043800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时52分"
         }
       ]
     }
