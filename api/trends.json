@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:39:06.183318+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-04-25T21:04:54.125731+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 21时04分]"
         },
         {
           "title": "吃馒头和吃面包哪个更健康",
