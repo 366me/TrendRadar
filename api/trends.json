@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T15:17:09.957893+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-04-25T16:54:03.335235+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,18 @@
           "time_info": "[02时52分 ~ 07时40分]"
         },
         {
+          "title": "自己烧水喝和买桶装水哪种更健康",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%B7%B1%E7%83%A7%E6%B0%B4%E5%96%9D%E5%92%8C%E4%B9%B0%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%93%AA%E7%A7%8D%E6%9B%B4%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 16时54分]"
+        },
+        {
           "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
           "url": "https://m.thepaper.cn/newsDetail_forward_33023784",
           "source": "澎湃新闻",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时40分]"
-        },
-        {
-          "title": "自己烧水喝和买桶装水哪种更健康",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%B7%B1%E7%83%A7%E6%B0%B4%E5%96%9D%E5%92%8C%E4%B9%B0%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%93%AA%E7%A7%8D%E6%9B%B4%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         }
       ]
     },
