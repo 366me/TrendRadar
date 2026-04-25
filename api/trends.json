@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:54:03.335235+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-04-25T17:53:47.265882+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 17时53分]"
         },
         {
           "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
