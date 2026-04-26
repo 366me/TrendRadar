@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T23:43:05.749444+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-27T00:43:15.896146+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时40分 ~ 23时43分]"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
           "title": "碱性水比普通饮用水更健康吗",
@@ -26,38 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国共和党参议员格雷厄姆：让我们继续封锁，开放海峡，必要时恢复军事行动，确保伊朗永远无法重蹈覆辙。",
-          "url": "https://flash.jin10.com/detail/20260426010857275800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时53分]"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：美国和世界的首要任务是对霍尔木兹海峡建立牢固的控制，确保根据国际法的航行自由。为了实现这一目标，短期内可能需要美国的军事介入。",
-          "url": "https://flash.jin10.com/detail/20260426010745850800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时53分]"
+          "time_info": "[00时42分 ~ 00时43分]"
         }
       ]
     }
