@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T00:43:15.896146+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T01:39:59.267964+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         },
         {
           "title": "碱性水比普通饮用水更健康吗",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时39分]"
         }
       ]
     }
