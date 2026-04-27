@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T07:39:38.641339+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-04-27T10:46:09.635712+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 10时46分]"
         },
         {
           "title": "别在乱充电提早损害电池健康了",
