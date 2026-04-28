@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T10:53:27.589297+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-28T14:08:22.328784+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "共建健康城镇 共筑健康防线",
+          "url": "https://www.toutiao.com/trending/7632898068169657898/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "别让春季“养生”变成“伤身”",
+          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E6%98%A5%E5%AD%A3%E2%80%9C%E5%85%BB%E7%94%9F%E2%80%9D%E5%8F%98%E6%88%90%E2%80%9C%E4%BC%A4%E8%BA%AB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "别让春季“养生”变成“伤身”",
+          "url": "https://www.toutiao.com/trending/7633652972672843795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
