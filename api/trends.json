@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:57:18.457368+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-04-30T11:24:21.852057+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "有哪些大家以为是休息放松，其实非常耗气血的日常行为？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 05时05分]"
+        },
+        {
+          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
