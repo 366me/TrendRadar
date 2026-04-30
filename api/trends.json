@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T21:55:02.431190+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-30T23:47:49.630217+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "岳云鹏自曝靠「晚饭不吃 + 打羽毛球」瘦了十几斤，「不吃晚饭」影响健康吗？减肥成功后如何避免「复胖」？",
@@ -29,11 +29,12 @@
             15,
             10,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 23时47分]"
         },
         {
           "title": "有哪些大家以为是休息放松，其实非常耗气血的日常行为？",
@@ -47,6 +48,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 05时05分]"
+        },
+        {
+          "title": "医生列出心脏健康8条“硬指标”",
+          "url": "https://www.toutiao.com/trending/7634109533690183718/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
