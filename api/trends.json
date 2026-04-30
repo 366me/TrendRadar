@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-01T06:05:37.043010+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-05-01T07:54:01.932253+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 07时54分]"
         },
         {
           "title": "医生列出心脏健康8条“硬指标”",
@@ -25,11 +26,23 @@
           "ranks": [
             9,
             16,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 07时54分]"
+        },
+        {
+          "title": "有哪些大家以为是休息放松，其实非常耗气血的日常行为？",
+          "url": "https://www.zhihu.com/question/2030946076845412523",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         }
       ]
     }
