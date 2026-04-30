@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T03:22:07.754565+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-05-01T05:01:50.621703+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "医生列出心脏健康8条“硬指标”",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时01分]"
         }
       ]
     }
