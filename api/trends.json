@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T21:48:29.323441+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-05-01T22:56:45.035147+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,18 @@
           "time_info": "[17时02分 ~ 18时42分]"
         },
         {
+          "title": "中医夜市神秘东方手法吸引外国游客",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8C%BB%E5%A4%9C%E5%B8%82%E7%A5%9E%E7%A7%98%E4%B8%9C%E6%96%B9%E6%89%8B%E6%B3%95%E5%90%B8%E5%BC%95%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时56分]"
+        },
+        {
           "title": "有哪些大家以为是休息放松，其实非常耗气血的日常行为？",
           "url": "https://www.zhihu.com/question/2030946076845412523",
           "source": "知乎",
@@ -74,18 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "中医夜市神秘东方手法吸引外国游客",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8C%BB%E5%A4%9C%E5%B8%82%E7%A5%9E%E7%A7%98%E4%B8%9C%E6%96%B9%E6%89%8B%E6%B3%95%E5%90%B8%E5%BC%95%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
