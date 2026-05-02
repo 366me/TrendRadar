@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T17:07:06.502260+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-05-02T18:52:48.188106+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时07分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时52分]"
         },
         {
           "title": "7年前生的一次大气被中医给摸出来了",
           "url": "https://www.toutiao.com/trending/7635132977483300927/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 17时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 18时52分]"
         },
         {
           "title": "你以为的养胃良方或许是伤胃凶手",
