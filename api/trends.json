@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-02T10:41:34.462632+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-02T13:38:10.885513+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你以为的养胃良方或许是伤胃凶手",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E5%85%BB%E8%83%83%E8%89%AF%E6%96%B9%E6%88%96%E8%AE%B8%E6%98%AF%E4%BC%A4%E8%83%83%E5%87%B6%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
