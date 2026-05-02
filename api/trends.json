@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:45:31.596875+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-02T21:12:16.532906+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             16,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 21时12分]"
         },
         {
           "title": "7年前生的一次大气被中医给摸出来了",
