@@ -1,69 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:48:10.523476+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-05-04T00:52:01.739084+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "7年前生的一次大气被中医给摸出来了",
-          "url": "https://www.toutiao.com/trending/7635132977483300927/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            14,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时41分]"
-        },
-        {
-          "title": "中医腹诊竟摸出记者7年前生的闷气",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E8%85%B9%E8%AF%8A%E7%AB%9F%E6%91%B8%E5%87%BA%E8%AE%B0%E8%80%857%E5%B9%B4%E5%89%8D%E7%94%9F%E7%9A%84%E9%97%B7%E6%B0%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 10时53分]"
-        },
-        {
-          "title": "立夏时节如何养生",
-          "url": "https://www.toutiao.com/trending/7635563088804626475/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗马尼亚总统：明天我将组织一次非正式讨论，主题是垂直气体走廊对区域能源安全的影响，届时将有多位区域领导人参加。",
-          "url": "https://flash.jin10.com/detail/20260503182645526800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时10分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
