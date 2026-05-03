@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T16:46:58.934543+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-05-03T18:05:03.874950+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "7年前生的一次大气被中医给摸出来了",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 10时53分]"
+        },
+        {
+          "title": "立夏时节如何养生",
+          "url": "https://www.toutiao.com/trending/7635563088804626475/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         }
       ]
     }
