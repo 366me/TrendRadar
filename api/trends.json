@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:42:18.456530+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-05-04T07:45:25.503600+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://flash.jin10.com/detail/20260504053918838800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时45分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我很清楚，伊朗在谈判中玩弄把戏，因为他们就结束冲突的最后提议简直荒谬。",
           "url": "https://flash.jin10.com/detail/20260504053851899800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时45分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
           "url": "https://flash.jin10.com/detail/20260504053755382800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时45分]"
         }
       ]
     }
