@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-05-05T20:12:56.550216+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-05-06T01:34:31.992039+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国共和党参议员格雷厄姆：我们无需在伊朗派遣地面部队。",
-          "url": "https://flash.jin10.com/detail/20260505100033715800",
-          "source": "金十数据",
+          "title": "立夏吃三鲜健康一整年",
+          "url": "https://www.toutiao.com/trending/7635177371951448110/",
+          "source": "今日头条",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时34分"
+        },
+        {
+          "title": "立夏养生要注意什么",
+          "url": "https://www.toutiao.com/trending/7636394089171206154/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
         }
       ]
     }
