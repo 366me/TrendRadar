@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-05-06T22:11:00.599095+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-05-07T00:28:23.602268+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "立夏吃三鲜健康一整年",
-          "url": "https://www.toutiao.com/trending/7635177371951448110/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时34分 ~ 05时25分]"
-        },
-        {
-          "title": "立夏养生要注意什么",
-          "url": "https://www.toutiao.com/trending/7636394089171206154/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 05时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "立夏养心健脾祛湿有妙招",
-          "url": "https://www.toutiao.com/trending/7635947820788236331/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
