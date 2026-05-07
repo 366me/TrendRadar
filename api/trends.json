@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-08T02:24:53.601948+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-05-08T04:15:00.856172+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子吃保健品5年 子宫长出多个肌瘤",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E4%BF%9D%E5%81%A5%E5%93%815%E5%B9%B4+%E5%AD%90%E5%AE%AB%E9%95%BF%E5%87%BA%E5%A4%9A%E4%B8%AA%E8%82%8C%E7%98%A4",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 04时15分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
       "match_count": 1,
@@ -15,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时15分]"
         }
       ]
     }
