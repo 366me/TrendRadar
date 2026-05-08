@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T17:22:06.533743+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-08T19:17:08.122594+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时17分]"
         },
         {
           "title": "美国会两党参议员代表团来华：感谢中方",
@@ -71,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 19时17分]"
         }
       ]
     },
@@ -89,11 +90,12 @@
             12,
             20,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 17时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 19时17分]"
         }
       ]
     }
