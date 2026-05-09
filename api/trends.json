@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:53:56.996248+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-05-09T21:17:56.178940+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
             8,
             7,
             15,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时53分]"
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 21时17分]"
         },
         {
           "title": "朝鲜军人参加俄罗斯红场阅兵",
