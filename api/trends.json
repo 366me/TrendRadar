@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-10T22:53:39.858291+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-05-10T23:54:54.749871+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "古装小姐姐吃切糕看中医被抓包",
+          "url": "https://www.toutiao.com/trending/7638183298870706186/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "喝水如何养生",
+          "url": "https://www.toutiao.com/trending/7637412210344902683/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 2,
@@ -27,26 +55,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "古装小姐姐吃切糕看中医被抓包",
-          "url": "https://www.toutiao.com/trending/7638183298870706186/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时54分]"
         }
       ]
     }
