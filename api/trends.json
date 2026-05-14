@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T17:49:11.957065+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-05-14T19:53:37.617461+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时53分]"
         },
         {
           "title": "此人的气血强度恐怕在我之上",
@@ -36,11 +36,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%81%A5%E5%BA%B7%E7%9A%84%E4%BA%BA%E8%BA%AB%E4%BD%93%E6%98%AF%E2%80%9C%E9%9D%99%E9%9F%B3%E2%80%9D%E7%9A%84",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时53分]"
         }
       ]
     }
