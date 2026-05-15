@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T18:23:42.345427+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-05-15T20:53:39.831671+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 20时53分]"
         },
         {
           "title": "人到中年，如何去注重自已的身心健康？",
@@ -51,7 +51,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
