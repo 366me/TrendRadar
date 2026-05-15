@@ -1,88 +1,33 @@
 {
-  "generated_at": "2026-05-15T23:13:25.960003+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-05-16T01:27:37.537200+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "原来健康的人身体是“静音”的",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%81%A5%E5%BA%B7%E7%9A%84%E4%BA%BA%E8%BA%AB%E4%BD%93%E6%98%AF%E2%80%9C%E9%9D%99%E9%9F%B3%E2%80%9D%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            20,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
         {
           "title": "十部门：严打中医医疗违法违规行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181077",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 23时13分]"
-        },
-        {
-          "title": "人到中年，如何去注重自已的身心健康？",
-          "url": "https://www.zhihu.com/question/2036685548291617157",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "十部门严打中医违法违规行为",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E9%83%A8%E9%97%A8%E4%B8%A5%E6%89%93%E4%B8%AD%E5%8C%BB%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "01时27分"
         },
         {
           "title": "103岁爷爷回应身体依旧健康硬朗",
           "url": "https://www.baidu.com/s?wd=103%E5%B2%81%E7%88%B7%E7%88%B7%E5%9B%9E%E5%BA%94%E8%BA%AB%E4%BD%93%E4%BE%9D%E6%97%A7%E5%81%A5%E5%BA%B7%E7%A1%AC%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "研究：阻断特定免疫细胞可改善记忆力",
-          "url": "https://www.toutiao.com/trending/7639913864536014884/",
-          "source": "今日头条",
-          "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "01时27分"
         }
       ]
     }
