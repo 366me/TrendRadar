@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T06:06:59.121156+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-16T07:55:35.767359+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33181077",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时55分]"
         },
         {
           "title": "103岁爷爷回应身体依旧健康硬朗",
@@ -26,11 +27,12 @@
             29,
             26,
             16,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时55分]"
         },
         {
           "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
