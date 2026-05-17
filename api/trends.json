@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:54:24.650455+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-18T07:57:52.854820+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "抗衰老最佳睡眠时长出炉",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时57分]"
         },
         {
           "title": "第五届中医药高质量发展大会在天津召开",
@@ -52,9 +52,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "抗衰老最佳睡眠时长出炉",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%97%E8%A1%B0%E8%80%81%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
+          "url": "https://www.zhihu.com/question/2039043927185912802",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
