@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-19T08:06:44.667882+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-05-19T13:02:14.138514+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "B站抛弃烛灵儿,助眠区要凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354400&amp;topic_name=B%E7%AB%99%E6%8A%9B%E5%BC%83%E7%83%9B%E7%81%B5%E5%84%BF%2C%E5%8A%A9%E7%9C%A0%E5%8C%BA%E8%A6%81%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "网友说咬壳吃荔枝、喝荔枝壳煮水，可以不上火，是真的吗？还有哪些意想不到的降火小妙招？",
+          "url": "https://www.zhihu.com/question/2039374966479483581",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 1,
@@ -17,23 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网友说咬壳吃荔枝、喝荔枝壳煮水，可以不上火，是真的吗？还有哪些意想不到的降火小妙招？",
-          "url": "https://www.zhihu.com/question/2039374966479483581",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
