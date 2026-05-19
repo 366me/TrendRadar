@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T16:36:33.953336+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-05-19T20:11:35.016414+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时11分]"
         },
         {
           "title": "网友说咬壳吃荔枝、喝荔枝壳煮水，可以不上火，是真的吗？还有哪些意想不到的降火小妙招？",
