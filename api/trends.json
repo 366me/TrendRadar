@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:43:38.325766+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-05-20T20:40:08.847134+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "北约秘书长：北约正摆脱对单一盟友的“不健康过度依赖”。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -31,6 +31,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 08时06分]"
+        },
+        {
+          "title": "研究发现：吃西瓜有助于心脏健康",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%EF%BC%9A%E5%90%83%E8%A5%BF%E7%93%9C%E6%9C%89%E5%8A%A9%E4%BA%8E%E5%BF%83%E8%84%8F%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时40分]"
+        },
+        {
+          "title": "怎么看待网上最近有关「碳水脸」的讨论？是真的需要注意的健康信号，还是又是被生造出来的词汇？",
+          "url": "https://www.zhihu.com/question/2039691609101394888",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "美联储Paulson：当前政策合适，但考虑长期维持利率或加息是“健康”的",
@@ -61,9 +84,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "刘国中在中国医科院、中国农科院调研时强调：加强“三农”和卫生健康领域基础研究，全面提升原始创新能力和科技水平",
+          "url": "https://flash.jin10.com/detail/20260520202609860800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "北京市发展改革委副主任林剑华：努力营造促进民营经济健康发展的良好制度环境",
@@ -86,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "研究发现：吃西瓜有助于心脏健康",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%EF%BC%9A%E5%90%83%E8%A5%BF%E7%93%9C%E6%9C%89%E5%8A%A9%E4%BA%8E%E5%BF%83%E8%84%8F%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         }
       ]
     },
