@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T03:25:18.725611+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-21T05:53:49.139175+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "怎么看待网上最近有关「碳水脸」的讨论？是真的需要注意的健康信号，还是又是被生造出来的词汇？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 05时53分]"
+        },
+        {
+          "title": "小满养生要抓准三个关键词",
+          "url": "https://www.toutiao.com/trending/7641357206310666250/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
@@ -34,8 +46,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 05时53分]"
         }
       ]
     }
