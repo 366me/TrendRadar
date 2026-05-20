@@ -1,143 +1,39 @@
 {
-  "generated_at": "2026-05-20T20:40:08.847134+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-05-21T00:26:38.102593+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "北约秘书长：北约正摆脱对单一盟友的“不健康过度依赖”。",
-          "url": "https://wallstreetcn.com/livenews/3106647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "夏季出汗排毒养颜是真的吗 专家解读",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E5%AD%A3%E5%87%BA%E6%B1%97%E6%8E%92%E6%AF%92%E5%85%BB%E9%A2%9C%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97+%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            30,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 08时06分]"
-        },
-        {
-          "title": "研究发现：吃西瓜有助于心脏健康",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%EF%BC%9A%E5%90%83%E8%A5%BF%E7%93%9C%E6%9C%89%E5%8A%A9%E4%BA%8E%E5%BF%83%E8%84%8F%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 20时40分]"
-        },
         {
           "title": "怎么看待网上最近有关「碳水脸」的讨论？是真的需要注意的健康信号，还是又是被生造出来的词汇？",
           "url": "https://www.zhihu.com/question/2039691609101394888",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
-        },
-        {
-          "title": "美联储Paulson：当前政策合适，但考虑长期维持利率或加息是“健康”的",
-          "url": "https://wallstreetcn.com/livenews/3106294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "武汉通报“昌盛泡花碱厂环境问题”：成立联合调查组，围绕村民健康等问题全面深入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198278",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "官方通报315晚会曝光涉中医药事件",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E6%B6%89%E4%B8%AD%E5%8C%BB%E8%8D%AF%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "刘国中在中国医科院、中国农科院调研时强调：加强“三农”和卫生健康领域基础研究，全面提升原始创新能力和科技水平",
-          "url": "https://flash.jin10.com/detail/20260520202609860800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "北京市发展改革委副主任林剑华：努力营造促进民营经济健康发展的良好制度环境",
-          "url": "https://wallstreetcn.com/livenews/3106143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美联储保尔森：市场开始考虑利率维持不变或上升的情景是“健康的”。",
-          "url": "https://flash.jin10.com/detail/20260520070141681800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
-      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
       "titles": [
         {
-          "title": "B站抛弃烛灵儿,助眠区要凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354400&amp;topic_name=B%E7%AB%99%E6%8A%9B%E5%BC%83%E7%83%9B%E7%81%B5%E5%84%BF%2C%E5%8A%A9%E7%9C%A0%E5%8C%BA%E8%A6%81%E5%87%89",
-          "source": "贴吧",
+          "title": "如何看待盒马误将水仙当百合配送致顾客中毒，最终被判「责令改正，罚款 198 元」一事？",
+          "url": "https://www.zhihu.com/question/2040446631288338300",
+          "source": "知乎",
           "ranks": [
-            18,
-            28
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 13时05分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     }
