@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:25:21.367335+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-05-23T23:02:20.240339+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             1,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 23时02分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，医疗保健板块涨1.19%，公用事业、工业、信息技术/科技、能源板块至少涨0.44%，电信板块跌0.68%。",
