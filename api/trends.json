@@ -1,58 +1,50 @@
 {
-  "generated_at": "2026-05-25T22:08:11.035925+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-05-26T01:07:28.484670+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "从埃博拉疫区来华人员需健康监测",
-          "url": "https://www.douyin.com/hot/2510139",
-          "source": "抖音",
+          "title": "真把足疗店给“按”上市了？足疗保健第一股启动IPO",
+          "url": "https://www.cls.cn/detail/2381083",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时00分]"
-        },
-        {
-          "title": "抗衰老最佳睡眠时长出炉",
-          "url": "https://www.toutiao.com/trending/7643238323913834538/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时57分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
           "title": "韩国研究称泡菜或可助人体排出微塑料，这一结论背后的科学机制是什么？这对微塑料健康风险防控研究有何意义？",
           "url": "https://www.zhihu.com/question/2041923521211880624",
           "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "新华医疗：山东健康集团完成增持计划金额下限的98.95%，决定终止增持计划",
-          "url": "https://flash.jin10.com/detail/20260525172602190800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 功效类关键词 ===== 助眠 安神 排毒 减压 降火 祛湿 暖身 润肺 护肝 养肾 通便 降脂 降糖 调经 改善睡眠 缓解焦虑 提升精力 改善记忆 抗疲劳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "保护肝脏3要吃3别碰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8A%A4%E8%82%9D%E8%84%8F3%E8%A6%81%E5%90%833%E5%88%AB%E7%A2%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         }
       ]
     }
