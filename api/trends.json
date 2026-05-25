@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T18:05:43.199285+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-25T22:08:11.035925+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "从埃博拉疫区来华人员需健康监测",
@@ -33,13 +33,24 @@
           "time_info": "[05时57分 ~ 08时10分]"
         },
         {
+          "title": "韩国研究称泡菜或可助人体排出微塑料，这一结论背后的科学机制是什么？这对微塑料健康风险防控研究有何意义？",
+          "url": "https://www.zhihu.com/question/2041923521211880624",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
           "title": "新华医疗：山东健康集团完成增持计划金额下限的98.95%，决定终止增持计划",
           "url": "https://flash.jin10.com/detail/20260525172602190800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
