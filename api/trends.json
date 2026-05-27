@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T17:45:57.348087+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-27T20:52:32.014059+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 20时52分]"
         },
         {
           "title": "高血压人群这样服药暗藏健康隐患",
@@ -49,7 +49,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
