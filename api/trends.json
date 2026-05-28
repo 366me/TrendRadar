@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T11:35:14.496321+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-05-28T15:58:13.627858+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何挑选新鲜健康的杨梅",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "国家中医药管理局答财联社：协调相关部门持续加大国家科技计划对海洋中药的支持力度",
+          "url": "https://www.cls.cn/detail/2383827",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         }
       ]
     }
