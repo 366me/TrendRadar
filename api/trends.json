@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T06:01:07.161750+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-01T07:11:59.138085+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时11分]"
         },
         {
           "title": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时11分]"
         },
         {
           "title": "电子烟对健康危害更小吗？不见得",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时11分]"
         },
         {
           "title": "其实补气血真的很简单",
@@ -54,8 +54,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时11分]"
         },
         {
           "title": "天天吃鸡蛋和很少吃鸡蛋谁更健康",
@@ -65,8 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时11分]"
         }
       ]
     }
