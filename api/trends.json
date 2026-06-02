@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-06-02T20:42:38.479073+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-03T01:24:16.159102+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "医生建议气血不足多唱歌",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E5%A4%9A%E5%94%B1%E6%AD%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "兵哥哥投弹前被喂了一口心灵鸡汤",
-          "url": "https://www.toutiao.com/trending/7646598441283600422/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
