@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-07T18:31:19.902166+08:00",
-  "total_titles_processed": 950,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-06-07T20:21:52.297491+08:00",
+  "total_titles_processed": 1068,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周翊然cp体质",
@@ -19,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 11时55分]"
+        },
+        {
+          "title": "西方人的沙拉更健康，还是中国人炒蔬菜更健康？",
+          "url": "https://www.zhihu.com/question/458600977",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     }
