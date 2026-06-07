@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-07T15:56:01.990303+08:00",
-  "total_titles_processed": 822,
-  "failed_sources": [],
+  "generated_at": "2026-06-07T18:31:19.902166+08:00",
+  "total_titles_processed": 950,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
