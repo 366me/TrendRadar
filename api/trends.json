@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-09T08:06:38.269703+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-06-09T13:06:15.811622+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当名人参加高考会发生什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%90%8D%E4%BA%BA%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
