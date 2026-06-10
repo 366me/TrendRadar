@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T00:59:38.599518+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-11T03:39:26.136905+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33351847",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 03时39分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致收平，报382.08点。 在十个板块中，北欧医疗保健板块涨幅最大。 马士基涨5.5%，在一众北欧个股里领跑。",
