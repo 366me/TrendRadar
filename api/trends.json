@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T18:29:16.187469+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-06-13T20:25:58.596360+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
         },
         {
           "title": "央视曝光“套路养生馆”",
@@ -37,11 +37,12 @@
           "url": "https://www.toutiao.com/trending/7650481384046460991/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，原材料板块涨1.83%，金融、公用事业板块至多涨1.35%，信息技术/科技板块涨0.37%，保健板块跌0.16%。",
