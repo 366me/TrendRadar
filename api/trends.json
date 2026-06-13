@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T20:25:58.596360+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-06-13T23:02:37.461527+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时02分]"
         },
         {
           "title": "央视曝光“套路养生馆”",
@@ -72,6 +72,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗宣布7月为哈梅内伊举行葬礼，预计有超1500万人参加",
+          "url": "https://flash.jin10.com/detail/20260613220506047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     }
