@@ -1,46 +1,22 @@
 {
-  "generated_at": "2026-06-16T23:53:05.022184+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-17T03:36:14.430278+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
-          "source": "澎湃新闻",
+          "title": "大爷喝养生酒中毒 急救后捡回一命",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%96%9D%E5%85%BB%E7%94%9F%E9%85%92%E4%B8%AD%E6%AF%92+%E6%80%A5%E6%95%91%E5%90%8E%E6%8D%A1%E5%9B%9E%E4%B8%80%E5%91%BD",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时25分 ~ 07时46分]"
-        },
-        {
-          "title": "澎湃回声｜襄阳樊城区通报蕲艾“养生烟”涉嫌虚假宣传等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33384692",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时05分 ~ 18时06分]"
-        },
-        {
-          "title": "为什么一块手表能监测多种健康指标",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%9D%97%E6%89%8B%E8%A1%A8%E8%83%BD%E7%9B%91%E6%B5%8B%E5%A4%9A%E7%A7%8D%E5%81%A5%E5%BA%B7%E6%8C%87%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "[03时35分 ~ 03时36分]"
         }
       ]
     }
