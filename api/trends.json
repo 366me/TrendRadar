@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:12:27.251102+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-17T08:16:43.427095+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时35分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[03时35分 ~ 08时16分]"
         }
       ]
     }
