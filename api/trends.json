@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-17T23:29:23.472653+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-06-18T02:16:35.577348+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "大爷喝养生酒中毒 急救后捡回一命",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%96%9D%E5%85%BB%E7%94%9F%E9%85%92%E4%B8%AD%E6%AF%92+%E6%80%A5%E6%95%91%E5%90%8E%E6%8D%A1%E5%9B%9E%E4%B8%80%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 08时16分]"
-        },
-        {
-          "title": "A股创新药概念震荡下挫，常山药业跌超12%，珍宝岛、亚泰集团、济民健康、博瑞医药、振东制药跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3120758",
-          "source": "华尔街见闻-快讯",
+          "title": "记者：梅西落泪因父亲健康状况恶化",
+          "url": "https://www.toutiao.com/trending/7652218565845581833/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "02时16分"
         }
       ]
     }
