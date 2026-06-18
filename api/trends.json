@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T03:32:52.211314+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-19T06:18:44.001223+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2050890464476263871",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 06时18分]"
         },
         {
           "title": "多款纸尿裤被指侵害婴幼儿健康",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 06时18分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
