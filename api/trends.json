@@ -1,77 +1,22 @@
 {
-  "generated_at": "2026-06-19T23:16:15.621314+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-06-20T01:58:31.848943+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多款纸尿裤被指侵害婴幼儿健康",
-          "url": "https://www.douyin.com/hot/2538814",
-          "source": "抖音",
-          "ranks": [
-            20,
-            26,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 14时19分]"
-        },
-        {
-          "title": "多品牌婴幼儿纸尿裤被检出有毒物质「甲酰胺」，什么是甲酰胺？会对婴幼儿健康有哪些危害？",
-          "url": "https://www.zhihu.com/question/2050890464476263871",
-          "source": "知乎",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 06时18分]"
-        },
-        {
-          "title": "端午这些习俗都是绝佳养生方式",
-          "url": "https://www.toutiao.com/trending/7652733856328286235/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时15分 ~ 23时16分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3121813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        }
-      ]
-    },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
       "match_count": 1,
       "titles": [
         {
-          "title": "桑葚和桑树活在地球是有点屈才了",
-          "url": "https://s.weibo.com/weibo?q=%E6%A1%91%E8%91%9A%E5%92%8C%E6%A1%91%E6%A0%91%E6%B4%BB%E5%9C%A8%E5%9C%B0%E7%90%83%E6%98%AF%E6%9C%89%E7%82%B9%E5%B1%88%E6%89%8D%E4%BA%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "蓝白合作选战，卢秀燕为民众党参选人站台",
+          "url": "https://news.ifeng.com/c/8u5ipgperHX",
+          "source": "凤凰网",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "01时58分"
         }
       ]
     }
