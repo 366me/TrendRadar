@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T22:03:33.277012+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-21T00:18:53.262721+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "专家：中医的第一要务是救命",
-          "url": "https://www.toutiao.com/trending/7653361077095727167/",
+          "title": "中医说夏至：养心祛湿有良方",
+          "url": "https://www.toutiao.com/trending/7652359031281172507/",
           "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蓝白合作选战，卢秀燕为民众党参选人站台",
-          "url": "https://news.ifeng.com/c/8u5ipgperHX",
-          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 08时13分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
