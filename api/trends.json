@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-22T01:29:05.234592+08:00",
-  "total_titles_processed": 328,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-06-22T03:41:11.584520+08:00",
+  "total_titles_processed": 404,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
@@ -16,7 +14,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
