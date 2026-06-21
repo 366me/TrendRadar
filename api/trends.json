@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:06:23.293184+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-21T14:02:17.794219+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中医说夏至：养心祛湿有良方",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时11分]"
+        },
+        {
+          "title": "每天都吃各种不同的保健品，到底是会更健康，还是更可能提高肝肾损伤的风险？",
+          "url": "https://www.zhihu.com/roundtable/kexuejinbu/",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         }
       ]
     }
