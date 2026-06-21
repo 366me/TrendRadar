@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T14:02:17.794219+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-06-21T18:03:07.563637+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中医说夏至：养心祛湿有良方",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "老爸这5个“土习惯”藏着健康智慧",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E7%88%B8%E8%BF%995%E4%B8%AA%E2%80%9C%E5%9C%9F%E4%B9%A0%E6%83%AF%E2%80%9D%E8%97%8F%E7%9D%80%E5%81%A5%E5%BA%B7%E6%99%BA%E6%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
         }
       ]
     }
