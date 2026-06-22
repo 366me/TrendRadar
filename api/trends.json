@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-22T23:51:42.702974+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-06-23T03:27:07.677045+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国共和党参议员格雷厄姆：我们希望外交能够成功。 但如果伊朗试图挑战我们，我们将彻底摧毁他们。",
-          "url": "https://flash.jin10.com/detail/20260622001900873800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
