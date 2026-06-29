@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-06-29T22:50:42.487976+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-06-30T01:37:00.129787+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股石油化工板块午后震荡拉升，昊华科技、恒力石化涨超3%，三联虹普、澳洋健康跟涨。",
-          "url": "https://flash.jin10.com/detail/20260629133658875800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "网友称千万别买路边切好的半个西瓜，是细菌「培养皿」，真是这样吗？鲜切西瓜有什么健康隐患？",
-          "url": "https://www.zhihu.com/question/2053831515008496055",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 06时02分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
