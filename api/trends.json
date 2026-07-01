@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T00:19:32.920152+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T01:56:06.627913+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -26,14 +26,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时56分]"
         }
       ]
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "民主党参议员沃伦：必须通过立法制止美国总统从加密货币获利",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据华尔街日报：美国民主党参议员沃伦要求美联储监管机构审查美联储理事鲍曼出席美国银行私人晚宴一事。",
+          "url": "https://flash.jin10.com/detail/20260702011616261800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
