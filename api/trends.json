@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T05:07:33.975815+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-07-03T07:07:15.990402+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             19,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时07分]"
         },
         {
           "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
@@ -27,7 +28,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -38,7 +39,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         }
