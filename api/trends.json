@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T18:40:29.149466+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-07-02T20:58:28.931215+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "缅甸回应昂山素季健康问题，称她刑满后可参与国家事务",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "美国劳工统计局：专业和商业服务、社会援助以及医疗保健领域的就业岗位持续增加。休闲和酒店业的就业岗位减少。",
+          "url": "https://flash.jin10.com/detail/20260702203230024800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
