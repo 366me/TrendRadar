@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T19:58:12.705563+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-09T23:16:12.097884+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 23时16分]"
         },
         {
           "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！",
@@ -53,11 +53,12 @@
           "ranks": [
             6,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 19时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 23时16分]"
         },
         {
           "title": "良子体检报告出来了",
