@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T03:46:24.226883+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-10T05:24:00.254039+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时24分]"
         },
         {
           "title": "富兰克林·邓普顿（Franklin Templeton）高级投资策略师达德利（Katrina Dudley）将半导体股的回调视为一个健康的市场价格发现过程，而非结构性预警信号。 她认为，SK海力士和三星电子的产能数据看起来“相当理性”，尽管三星在首尔的股价下跌了10%以上，但其季度营业利润激增了19倍。 市场对SK海力士即将在美国上市的、估值约280亿美元的美国存托凭证（ADRs）的热情也在持续升温。",
@@ -25,7 +25,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
         }
@@ -43,8 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时24分]"
         }
       ]
     }
