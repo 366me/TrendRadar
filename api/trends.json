@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T04:43:24.035682+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-11T06:02:51.068159+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时02分]"
         },
         {
           "title": "上海健康播报｜“巴威”来袭，台风天这些注意事项要了解",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时02分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时02分]"
         }
       ]
     }
