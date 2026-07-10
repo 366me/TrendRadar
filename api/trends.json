@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T07:12:01.870080+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-10T10:59:25.392871+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 10时59分]"
         },
         {
           "title": "富兰克林·邓普顿（Franklin Templeton）高级投资策略师达德利（Katrina Dudley）将半导体股的回调视为一个健康的市场价格发现过程，而非结构性预警信号。 她认为，SK海力士和三星电子的产能数据看起来“相当理性”，尽管三星在首尔的股价下跌了10%以上，但其季度营业利润激增了19倍。 市场对SK海力士即将在美国上市的、估值约280亿美元的美国存托凭证（ADRs）的热情也在持续升温。",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "官方辟谣广西百合水库出现溃堤",
+          "url": "https://www.toutiao.com/trending/7660722347204267570/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -45,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 10时59分]"
         }
       ]
     }
