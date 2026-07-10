@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:02:51.068159+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-11T07:58:13.084573+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时58分]"
         },
         {
           "title": "上海健康播报｜“巴威”来袭，台风天这些注意事项要了解",
           "url": "https://m.thepaper.cn/newsDetail_forward_33556698",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时58分]"
         }
       ]
     },
@@ -41,11 +42,12 @@
           "url": "https://www.zhihu.com/question/2058823246980571934",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时58分]"
         }
       ]
     }
