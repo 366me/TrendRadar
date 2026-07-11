@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:58:13.084573+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-07-11T10:51:04.539576+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2422955",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时58分]"
-        },
-        {
           "title": "上海健康播报｜“巴威”来袭，台风天这些注意事项要了解",
           "url": "https://m.thepaper.cn/newsDetail_forward_33556698",
           "source": "澎湃新闻",
           "ranks": [
             13,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 10时51分]"
+        },
+        {
+          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2422955",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -46,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 10时51分]"
         }
       ]
     }
