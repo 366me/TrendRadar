@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T04:15:22.893406+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-14T05:56:52.310600+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "未来五年这样提高国民健康水平",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "国务院印发《国民健康“十五五”规划》",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 05时56分]"
         }
       ]
     }
