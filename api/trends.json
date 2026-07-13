@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T21:27:17.989343+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-14T00:33:07.874260+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "未来五年 这样提高国民健康水平",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "未来五年这样提高国民健康水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         },
         {
           "title": "国务院印发《国民健康“十五五”规划》",
@@ -25,70 +36,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "三伏天养生牢记“六不要”",
-          "url": "https://www.toutiao.com/trending/7661120534739927083/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "【《扩大消费“十五五”规划》： 持续巩固资本市场稳中向好发展态势 多渠道增加城乡居民财产性收入】国务院批复《扩大消费“十五五”规划》，多渠道促进居民增收。健全按要素分配政策制度，促进多劳者多得、技高者多得、创新者多得。完善劳动者工资决定、合理增长、支付保障机制，健全最低工资标准调整机制，稳步提高最低工资标准，加强企业工资分配宏观指导。持续改善小微企业和个体工商户经营环境。促进房地产市场持续健康发展，持续巩固资本市场稳中向好发展态势，多渠道增加城乡居民财产性收入。加强税收、社会保障、转移支付等再分配调节。",
-          "url": "https://wallstreetcn.com/livenews/3132770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "A股中药股开盘拉升，陇神戎发涨超10%，九芝堂、生物谷、广誉远、以岭药业、大唐药业跟涨，消息上，国务院原则同意《中医药振兴发展“十五五”规划》，加快推进中医药现代化，推动中医药走向世界。",
-          "url": "https://wallstreetcn.com/livenews/3132525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "国务院印发《国民健康“十五五”规划》",
-          "url": "https://wallstreetcn.com/livenews/3132755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国资深共和党参议员麦康奈尔：我还无法返回参议院议事厅投票。我会尽快重返参议院。",
-          "url": "https://flash.jin10.com/detail/20260713052159340800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
