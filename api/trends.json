@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:15:10.078735+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:03:23.507397+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BC%8F%E5%90%8E%E5%81%9A%E5%A5%BD6%E4%BB%B6%E4%BA%8B%E6%94%92%E6%B0%94%E8%A1%80%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时03分]"
         },
         {
           "title": "三伏天养生防病四大要点",
