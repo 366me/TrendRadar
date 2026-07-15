@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T06:59:59.672976+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-07-15T08:01:50.804538+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 08时01分]"
         },
         {
           "title": "三伏天养生防病四大要点",
