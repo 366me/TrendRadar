@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:06:22.230550+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-07-17T07:59:45.558205+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             18,
             16,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时59分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量现在“非常不健康”。",
@@ -28,7 +29,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
