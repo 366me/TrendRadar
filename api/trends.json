@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T23:58:52.578426+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-07-20T01:02:29.655025+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "证监会明天将召开座谈会促进市场稳定健康发展",
+          "title": "证监会20日将召开座谈会促进市场稳定健康发展",
           "url": "https://flash.jin10.com/detail/20260719234747377800",
           "source": "金十数据",
           "ranks": [
-            1
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "01时02分"
         }
       ]
     }
