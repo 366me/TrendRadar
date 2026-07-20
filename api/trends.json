@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:45:41.069024+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-07-20T18:10:48.369335+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时59分 ~ 14时45分]"
+        },
+        {
+          "title": "济民健康：控股股东拟协议转让6.86%股份 同时拟4.09亿元间接参股长城银河",
+          "url": "https://flash.jin10.com/detail/20260720180611794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "证监会将召开座谈会促进市场稳定健康发展",
