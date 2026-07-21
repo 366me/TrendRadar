@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:28:57.444793+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-07-21T19:08:37.504863+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时00分]"
+        },
+        {
+          "title": "总开空调和不开空调的人谁更健康",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%BC%80%E7%A9%BA%E8%B0%83%E5%92%8C%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BA%BA%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时08分]"
         },
         {
           "title": "入伏后“内热外湿”最伤身 中医支招",
@@ -43,15 +55,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "总开空调和不开空调的人谁更健康",
-          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%BC%80%E7%A9%BA%E8%B0%83%E5%92%8C%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BA%BA%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7",
-          "source": "百度热搜",
+          "title": "反向思考：一个健康的普通人，如何才能快速地患上糖尿病？",
+          "url": "https://www.zhihu.com/question/2061409494261929437",
+          "source": "知乎",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "19时08分"
         },
         {
           "title": "夏天总开空调和不开空调的人谁更健康",
@@ -60,7 +72,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
