@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T03:18:56.177551+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-24T05:05:31.401558+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 05时05分]"
         },
         {
           "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
