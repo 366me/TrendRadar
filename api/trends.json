@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T19:09:40.768155+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-23T21:57:55.405407+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "《规划》推动人人享有中医药服务！2030年发展目标解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 21时57分]"
         },
         {
           "title": "A股中药板块短线拉升，汉森制药涨停，珍宝岛涨超7%，益盛药业、恩威药业、新光药业、特一药业等个股跟涨。消息面上，《中医药振兴发展“十五五”规划》发布。",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        },
-        {
-          "title": "《规划》推动人人享有中医药服务！2030年发展目标解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
         },
         {
           "title": "“十五五”时期全面推进中医药高质量发展！《规划》部署十方面重点任务",
@@ -69,7 +69,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         }
