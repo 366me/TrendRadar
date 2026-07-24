@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-07-24T23:26:36.280239+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-07-25T01:38:31.748312+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "《规划》推动人人享有中医药服务！2030年发展目标解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 08时01分]"
-        },
-        {
-          "title": "安联将按21亿美元接盘汇丰的新加坡人寿及健康保险业务",
-          "url": "https://wallstreetcn.com/livenews/3139116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "汇丰：向安联出售其新加坡人寿及健康保险业务",
-          "url": "https://flash.jin10.com/detail/20260724070728341800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "三伏天养生记住“六不要”",
-          "url": "https://www.toutiao.com/trending/7664296733974724618/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
