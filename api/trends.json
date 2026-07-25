@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:02:58.902305+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-07-26T00:57:16.945654+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看微软联合发布的「开源权重模型对健康的 AI 生态系统至关重要」？",
-          "url": "https://www.zhihu.com/question/2064113274627609443",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
