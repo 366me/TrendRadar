@@ -1,116 +1,22 @@
 {
-  "generated_at": "2026-07-28T20:53:57.801240+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-29T00:02:07.742359+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
-          "url": "https://www.zhihu.com/question/2065066881015177978",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时06分 ~ 18时35分]"
-        },
-        {
-          "title": "古天乐坚持十年每天只吃一顿饭，这种饮食习惯是否健康？",
-          "url": "https://www.zhihu.com/question/654477046",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 20时53分]"
-        },
-        {
-          "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664489",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.2%，报392.56点。 在十个板块中，北欧医疗保健板块涨幅最大。 Evolution AB涨6.7%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3140421",
+          "title": "明晟公司MSCI北欧国家指数涨0.7%，报295.26点，创7月6日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Novonesis Novozymes （诺维信）B类股涨4.88%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3141115",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "顾客称在餐馆点的鸡汤里有冰块",
-          "url": "https://www.toutiao.com/trending/7667415916590727211/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "薄荷魔方蛋糕征服老外的味蕾",
-          "url": "https://www.douyin.com/hot/2585887",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 12时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 现代话题与网络流行词 ===== 朋克养生 电子艾灸 电子泡脚 熬夜搭配养生 奶茶加枸杞 保温杯里泡枸杞 年轻人养生学 朋克中医 自制花草茶 手工助眠茶 助眠喷雾 助眠枕 放松仪式感 健康焦虑 体检报告 中药代茶饮 身心疗愈 冥想呼吸 舒缓音乐 香薰疗愈",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "体检报告上的脂肪肝离肝炎有多远",
-          "url": "https://www.toutiao.com/trending/7667137714609160228/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "time_info": "00时02分"
         }
       ]
     }
