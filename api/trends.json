@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T06:07:12.107889+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-07-28T08:02:35.787142+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2065066881015177978",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 08时02分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
@@ -57,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 08时02分]"
         }
       ]
     },
