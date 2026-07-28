@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T08:02:35.787142+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-07-28T12:10:13.966577+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时06分 ~ 08时02分]"
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 12时10分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 06时07分]"
+        },
+        {
+          "title": "古天乐坚持十年每天只吃一顿饭，这种饮食习惯是否健康？",
+          "url": "https://www.zhihu.com/question/654477046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报392.56点。 在十个板块中，北欧医疗保健板块涨幅最大。 Evolution AB涨6.7%，在一众北欧个股里领跑。",
@@ -55,11 +67,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 12时10分]"
         }
       ]
     },
