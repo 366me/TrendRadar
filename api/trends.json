@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T18:35:23.742689+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-07-28T20:53:57.801240+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             14,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时53分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
@@ -69,7 +70,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
