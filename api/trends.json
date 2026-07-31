@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T00:46:16.385171+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-01T02:21:39.808463+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2442494",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时21分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.6%，报395.48点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺和诺德跌7.4%，对指数构成的拖累最大，且在一众北欧个股里表现最差。",
@@ -25,7 +26,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
         }
