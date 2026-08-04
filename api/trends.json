@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-04T08:14:09.257615+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-08-04T12:13:52.570512+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，硅铁涨超4%，集运欧线涨超3%，20号胶、不锈钢（SS）、PTA涨超2%，橡胶、焦煤涨近2%，菜油涨超1%。跌幅方面，红枣、SC原油跌超1%，燃料油、玉米跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260804113010961800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
         {
           "title": "美国民主党参议员Mark Warner：特朗普无法停止反复摇摆立场。他威胁要对伊朗发动空袭，随后以“协议即将达成”为由取消行动，而如今谈判再次破裂。这场他选择发动的战争已经持续五个月，但目前仍看不到结束的迹象。",
           "url": "https://flash.jin10.com/detail/20260804032523156800",
