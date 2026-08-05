@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-05T23:13:43.703221+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-08-06T01:31:36.259954+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "医生喊停“无效养生”晒背",
-          "url": "https://www.toutiao.com/trending/7670322129581260842/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 15时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
