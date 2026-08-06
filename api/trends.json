@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T15:39:14.456858+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-08-06T18:38:27.589699+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             15,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时59分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时59分 ~ 18时38分]"
         },
         {
           "title": "立秋后养生核心是什么",
@@ -66,11 +67,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 18时38分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，沪金、沪银涨超3%，红枣、铁矿石涨超2%，焦炭、生猪涨近2%，铂、钯涨超1%。跌幅方面，甲醇跌超3%，丙烯跌近3%，沪镍、聚丙烯月均、聚丙烯、纯苯、苯乙烯（EB）跌超2%，液化石油气（LPG）跌近2%。",
@@ -90,7 +92,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -101,7 +103,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
