@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:51:44.483258+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-07T12:55:14.684117+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "今日立秋 养生千万避开六大误区",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时51分]"
+        },
+        {
+          "title": "汗多汗少哪个更健康",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%97%E5%A4%9A%E6%B1%97%E5%B0%91%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         }
       ]
     },
