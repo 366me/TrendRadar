@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T09:28:57.831124+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-08-08T11:25:39.590075+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             4,
             6,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时41分 ~ 09时28分]"
+          "appearance_count": 8,
+          "time_info": "[04时41分 ~ 11时25分]"
         },
         {
           "title": "老中医：立秋后养心是关键",
@@ -81,7 +82,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
