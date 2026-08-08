@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T06:29:14.193132+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:28:52.905241+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全民健身日｜2万条线上问诊记录里，人们在主动关注哪些健康问题",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 06时29分]"
+        },
+        {
+          "title": "中医建议秋天多吃柔润食物",
+          "url": "https://www.toutiao.com/trending/7671210035176112174/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
