@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:28:52.905241+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-08-09T09:41:43.123793+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 09时41分]"
         },
         {
           "title": "中医建议秋天多吃柔润食物",
@@ -27,7 +28,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
