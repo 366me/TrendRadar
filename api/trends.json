@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:02:10.827105+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-08-11T18:59:51.570478+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 食疗类关键词 ===== 食疗 药膳 五谷杂粮 粥疗 汤方 养生粥 养生汤 黑芝麻糊 枸杞粥 银耳羹 红枣桂圆 鸡汤 骨头汤 虫草花 山药排骨 人参鸡 姜枣茶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国老板卖鸡汤馄饨视频",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%80%81%E6%9D%BF%E5%8D%96%E9%B8%A1%E6%B1%A4%E9%A6%84%E9%A5%A8%E8%A7%86%E9%A2%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
