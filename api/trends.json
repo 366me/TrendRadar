@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T05:41:27.286991+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-08-11T09:41:46.875373+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
@@ -32,12 +32,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 草本药材关键词 ===== 人参 当归 枸杞 黄芪 党参 茯苓 薏米 红枣 桂圆 菊花 金银花 玫瑰花 陈皮 山楂 百合 莲子 薄荷 桑葚 灵芝 何首乌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "俄罗斯最高法院禁止反战的雅布洛科党参加议会选举。",
@@ -49,6 +60,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少，燃料油、SC原油涨超4%，低硫燃料油（LU）涨近4%，沪银涨超2%。跌幅方面，PVC月均价跌超3%，PTA跌超1%，纸浆、氧化铝、红枣跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260811090004225800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     }
