@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:04:16.821659+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-08-12T19:45:09.179201+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "几块钱的手机壳可能在消耗你的健康",
@@ -63,11 +63,23 @@
           "source": "今日头条",
           "ranks": [
             4,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时04分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时45分]"
+        },
+        {
+          "title": "互联护苗：身心健康课",
+          "url": "https://www.douyin.com/hot/2607398",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 19时45分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：指标表明，美国劳动力市场稳定、但情况并不良好。 只要消费者（信心）是健康的，美国经济也会一样。 经济当前面临的最大问题在于通胀。",
@@ -91,11 +103,12 @@
           "url": "https://www.zhihu.com/question/2065696591072203753",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时03分 ~ 19时45分]"
         }
       ]
     }
