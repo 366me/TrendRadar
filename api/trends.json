@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:39:05.193400+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-08-16T16:28:54.426355+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 16时28分]"
         },
         {
           "title": "山西挖眼案男孩高考721分选了中医学",
