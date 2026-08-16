@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:29:00.852419+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-08-16T14:39:05.193400+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357794&amp;topic_name=%E5%85%BB%E7%94%9F%E5%92%96%E5%95%A1%E5%8D%96%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BB%B7%2C%E5%8B%87%E5%93%A5%E7%9C%8B%E6%87%B5",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 14时39分]"
         },
         {
           "title": "山西挖眼案男孩高考721分选了中医学",
