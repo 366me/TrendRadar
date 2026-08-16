@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T22:22:26.710577+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-08-16T23:21:49.921632+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             8,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 23时21分]"
         },
         {
           "title": "梭子蟹大量上市 中医提醒",
