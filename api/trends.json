@@ -1,63 +1,22 @@
 {
-  "generated_at": "2026-08-17T16:43:03.558368+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-08-18T02:38:47.805591+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "养生咖啡卖星巴克价,勇哥看懵",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357794&amp;topic_name=%E5%85%BB%E7%94%9F%E5%92%96%E5%95%A1%E5%8D%96%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BB%B7%2C%E5%8B%87%E5%93%A5%E7%9C%8B%E6%87%B5",
           "source": "贴吧",
           "ranks": [
-            16,
-            18,
-            19,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 16时43分]"
-        },
-        {
-          "title": "枪杀联合健康保险 CEO 的路易吉正式认罪，12 月将迎来量刑，或面临终身监禁，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2071884777888682058",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 11时56分]"
-        },
-        {
-          "title": "梭子蟹大量上市 中医提醒",
-          "url": "https://www.toutiao.com/trending/7674237819607121929/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "美国中央司令部司令视察“林肯”号：美军心理健康是当前重要任务",
-          "url": "https://flash.jin10.com/detail/20260817084809325800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "02时38分"
         }
       ]
     },
@@ -66,15 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "早盘开盘，国内期货主力合约涨多跌少，多晶硅涨近7%，集运欧线涨超3%，合成橡胶、乙二醇（EG）涨近3%，对二甲苯、低硫燃料油（LU）、纯苯、苯乙烯（EB）、SC原油涨超2%。跌幅方面，不锈钢（SS）、红枣小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260817090002710800",
-          "source": "金十数据",
+          "title": "百合漫空降男主,观众急哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358001&amp;topic_name=%E7%99%BE%E5%90%88%E6%BC%AB%E7%A9%BA%E9%99%8D%E7%94%B7%E4%B8%BB%2C%E8%A7%82%E4%BC%97%E6%80%A5%E5%93%AD",
+          "source": "贴吧",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "02时38分"
         }
       ]
     }
