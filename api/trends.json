@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-17T11:56:58.419507+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-17T13:35:13.944713+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
       "match_count": 4,
       "titles": [
+        {
+          "title": "养生咖啡卖星巴克价,勇哥看懵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357794&amp;topic_name=%E5%85%BB%E7%94%9F%E5%92%96%E5%95%A1%E5%8D%96%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BB%B7%2C%E5%8B%87%E5%93%A5%E7%9C%8B%E6%87%B5",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            19,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 13时35分]"
+        },
         {
           "title": "枪杀联合健康保险 CEO 的路易吉正式认罪，12 月将迎来量刑，或面临终身监禁，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2071884777888682058",
@@ -20,20 +35,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时28分 ~ 11时56分]"
-        },
-        {
-          "title": "养生咖啡卖星巴克价,勇哥看懵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357794&amp;topic_name=%E5%85%BB%E7%94%9F%E5%92%96%E5%95%A1%E5%8D%96%E6%98%9F%E5%B7%B4%E5%85%8B%E4%BB%B7%2C%E5%8B%87%E5%93%A5%E7%9C%8B%E6%87%B5",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "梭子蟹大量上市 中医提醒",
