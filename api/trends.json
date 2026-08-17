@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T09:13:00.796000+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-08-17T11:56:58.419507+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 09时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 11时56分]"
         },
         {
           "title": "养生咖啡卖星巴克价,勇哥看懵",
@@ -27,11 +28,12 @@
           "ranks": [
             16,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "梭子蟹大量上市 中医提醒",
@@ -52,7 +54,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
@@ -69,7 +71,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
