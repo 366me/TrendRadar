@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T13:30:25.852647+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-18T18:28:13.905124+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 通用养生词 ===== 养生 健康 调理 滋补 保健 中医 气血 体质 免疫力 养气 养胃 调气 养颜 延年益寿 抗衰老",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "医生：泡面不健康不是因为防腐剂",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "医生：泡面不健康不是因为防腐剂",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "养生咖啡卖星巴克价,勇哥看懵",
@@ -41,11 +52,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 13时30分]"
+          "appearance_count": 6,
+          "time_info": "[02时38分 ~ 18时28分]"
         }
       ]
     }
